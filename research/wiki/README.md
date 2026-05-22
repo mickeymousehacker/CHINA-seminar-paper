@@ -5,8 +5,8 @@ Jeder arbeitet **nur in seinem eigenen Ordner**. Claude liest alle Ordner.
 | Ordner | Zuständig | Case |
 |---|---|---|
 | `byd/` | Batu | Vertikal integriertes Modell (BYD) |
-| `jv-model/` | Kommilitone 1 | Joint Venture-Modell |
-| `ma-model/` | Kommilitone 2 | M&A-getriebenes Modell |
+| `saic-motor/` | Kommilitone 1 | Joint Venture-Modell (SAIC Motor) |
+| `geely/` | Kommilitone 2 | M&A-getriebenes Modell (Geely) |
 | `shared/` | Alle | Gemeinsamer Vergleichsteil (nur via Pull Request) |
 
 ## Regeln
