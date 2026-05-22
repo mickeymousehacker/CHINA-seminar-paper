@@ -1,0 +1,45 @@
+lockfile_version: '1'
+generated_at: '2026-05-20T15:56:26.946747+00:00'
+apm_version: 0.14.1
+dependencies:
+- repo_url: anthropics/skills
+  host: github.com
+  resolved_commit: 690f15cac7f7b4c055c5ab109c79ed9259934081
+  virtual_path: skills/pdf
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/pdf
+  content_hash: sha256:69e2ac9eb2bbe2881df26acc53b46b39a15cfda206f5357e5f9c83feb0fadcc7
+mcp_servers:
+- deepwiki
+- parallel-search
+mcp_configs:
+  deepwiki:
+    name: deepwiki
+    transport: http
+    registry: false
+    url: https://mcp.deepwiki.com/mcp
+  parallel-search:
+    name: parallel-search
+    transport: http
+    registry: false
+    url: https://search-mcp.parallel.ai/mcp
+local_deployed_files:
+- .claude/agents/find-references.md
+- .claude/agents/verify-claims.md
+- .claude/agents/wiki-ingest.md
+- .claude/agents/wiki-lint.md
+- .claude/agents/wiki-query.md
+- .claude/rules/research.md
+- .claude/rules/wiki.md
+- .claude/skills/argdown
+- .claude/skills/llm-wiki
+local_deployed_file_hashes:
+  .claude/agents/find-references.md: sha256:0a37cdbc560c84c5b2254a4528253c68c4f956975f9e47406c1a0fb4022ebbee
+  .claude/agents/verify-claims.md: sha256:7918da96e9bd93f965bc97c5f50f5ab887dd0935a831c1d4bf91efabc4149775
+  .claude/agents/wiki-ingest.md: sha256:92b2562f0a5c9a69f2525ee24052eba752fa9cb563ba7dc91783587c4c712e52
+  .claude/agents/wiki-lint.md: sha256:a7597072e33a4d3d346ee468c0e215661d828737007a825381abaacb91c0a7a7
+  .claude/agents/wiki-query.md: sha256:ec659a862f3b81e128632eb3899612e11ddfffa83b85e98c4bff1326dd81481e
+  .claude/rules/research.md: sha256:bfaa7f21e594a4252f39310d658ee2bbf76420345cf97b9c85f4fa086b0d38d9
+  .claude/rules/wiki.md: sha256:9bcd7b3e5a6b8b6190683653457bab5bfafe0057bb53788b1e02e036b8c0fc6e
