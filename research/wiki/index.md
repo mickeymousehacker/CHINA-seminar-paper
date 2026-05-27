@@ -6,6 +6,7 @@ summary under the right group. Keep entries alphabetical within each group.
 ## Sources
 
 - [[2026-05-22-byd-vertical-integration-web-research]] — 19-angle parallel web research on BYD's vertical integration, governance, financing, capabilities, and shareholder value for a Chinese automotive governance models comparison paper.
+- [[2026-05-25-saic-motor-sources-web-research]] — 21-query parallel web research identifying peer-reviewed academic papers (incl. ABS 4* AER/RES/AMR), primary official sources, and industry reports for SAIC Motor's JV-centric SOE model and EV-era viability.
 
 ## Entities
 
@@ -21,6 +22,7 @@ summary under the right group. Keep entries alphabetical within each group.
 ## Concepts
 
 - [[blade-battery]] — BYD's proprietary LFP + cell-to-pack battery design; 40% fewer components, nail-test safe, >5,000 cycle life, 439–450 Wh/L.
+- [[jv-instability]] — IB theory (Inkpen & Beamish AMR 4* 1997): JV dissolution risk rises when one partner acquires sufficient knowledge to eliminate dependency on the other.
 - [[china-ev-governance-models]] — Comparative framework: SOE, JV, private vertically-integrated (BYD), foreign WFoE (Tesla) — and their effects on shareholder value.
 - [[dilink-xuanji-architecture]] — BYD's in-house software stack: DiLink OS (2018), DiPilot ADAS, Xuanji unified architecture (2024).
 - [[ev-price-war]] — China's intensifying EV price competition from 2023; 129+ brands; margin compression; BYD's cost floor as strategic weapon.
