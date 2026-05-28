@@ -1,0 +1,454 @@
+QUELLENÜBERSICHT — SAIC Motor Seminararbeit
+Stand: 2026-05-27 | Alle Paper peer-reviewed und nach ABS-Ranking gefiltert.
+ABS-Skala: 4* = höchste Kategorie (A*) · 4 = A · 3 = B · darunter nicht empfohlen
+
+================================================================================
+SCHNELLREFERENZ — ALLE A/A* PAPER NACH PRIORITÄT
+================================================================================
+
+PRIORITÄT 1 (★★★)
+
+Bai, Barwick, Cao, Li (2025)
+  Journal: American Economic Review | ABS: 4*
+  Dimension: Capability Building, Financing
+  DOI: 10.1257/aer.20221501
+  PDF: Bai-Barwick-Cao-Li-2025-Quid-Pro-Quo-AER.pdf (in diesem Ordner)
+
+Holmes, McGrattan, Prescott (2015)
+  Journal: Review of Economic Studies | ABS: 4*
+  Dimension: Capability Building, Governance
+  DOI: 10.1093/restud/rdv007
+
+Inkpen & Beamish (1997)
+  Journal: Academy of Management Review | ABS: 4*
+  Dimension: Long-term Viability, Capability Building
+  DOI: 10.5465/amr.1997.9707180263
+
+Fan, Wong & Zhang (2007)
+  Journal: Journal of Financial Economics | ABS: 4*
+  Dimension: Governance
+  DOI: 10.1016/j.jfineco.2006.03.008
+
+PRIORITÄT 2 (★★)
+
+Shleifer & Vishny (1994)
+  Journal: Quarterly Journal of Economics | ABS: 4*
+  Dimension: Governance
+  DOI: 10.2307/2118354
+
+Megginson & Netter (2001)
+  Journal: Journal of Economic Literature | ABS: 4*
+  Dimension: Governance, Financing
+  DOI: 10.1257/jel.39.2.321
+
+Bortolotti & Faccio (2009)
+  Journal: Review of Financial Studies | ABS: 4*
+  Dimension: Governance, Financing
+  DOI: 10.1093/rfs/hhn077
+
+DeWenter & Malatesta (2001)
+  Journal: American Economic Review | ABS: 4*
+  Dimension: Financing
+  DOI: 10.1257/aer.91.1.320
+
+Estrin, Hanousek, Kocenda & Svejnar (2009)
+  Journal: Journal of Economic Literature | ABS: 4*
+  Dimension: Governance
+  DOI: 10.1257/jel.47.3.699
+
+Yan & Gray (1994)
+  Journal: Academy of Management Journal | ABS: 4*
+  Dimension: Governance, Capability Building
+  DOI: 10.5465/256796
+
+Jia, Huang & Zhang (2019)
+  Journal: Academy of Management Journal | ABS: 4*
+  Dimension: Governance, Long-term Viability
+  DOI: 10.5465/amj.2016.0543
+
+PRIORITÄT 3 (★)
+
+Bruton, Peng, Ahlstrom, Stan & Xu (2015)
+  Journal: Academy of Management Perspectives | ABS: 4
+  Dimension: Governance
+  DOI: 10.5465/amp.2013.0069
+
+Cuervo-Cazurra, Inkpen, Musacchio & Ramaswamy (2014)
+  Journal: Journal of International Business Studies | ABS: 4/4* (unsicher)
+  Dimension: Governance
+  DOI: 10.1057/jibs.2014.43
+
+Luo, Shenkar & Nyaw (2001)
+  Journal: Journal of International Business Studies | ABS: 4/4* (unsicher)
+  Dimension: Governance, Capability Building
+  DOI: 10.1057/palgrave.jibs.8490937
+
+ZUSÄTZLICH RELEVANT (kein ABS-Ranking, aber peer-reviewed)
+
+Wang, Jiangyu (2014)
+  Publikation: Cornell International Law Journal, 47(3), Art. 5
+  Dimension: Governance
+
+Wang & Tan (2020)
+  Publikation: Vanderbilt Journal of Transnational Law, 53(3)
+  Dimension: Governance
+
+Howell, Sabrina T. (2018)
+  Journal: Research Policy | ABS: 3 (kein A/A*, aber inhaltlich wichtig)
+  Dimension: Capability Building, Long-term Viability
+  DOI: 10.1016/j.respol.2018.05.002
+
+Thun, Eric (2006)
+  Publikation: Cambridge University Press (Buch)
+  Dimension: Alle vier Dimensionen (historischer Kontext)
+  ISBN: 978-0-521-72409-8
+
+================================================================================
+DIMENSION 1 — GOVERNANCE (~4 Seiten)
+Leitfrage: Wie funktioniert die Eigentümer- und Kontrollstruktur bei SAIC?
+================================================================================
+
+★★★ Fan, Wong & Zhang (2007) — JFE — PRIORITÄT 1
+
+Vollzitat:
+Fan, J.P.H., Wong, T.J., & Zhang, T. (2007). Politically connected CEOs,
+corporate governance, and Post-IPO performance of China's newly partially
+privatized firms. Journal of Financial Economics, 84(2), 330–357.
+https://doi.org/10.1016/j.jfineco.2006.03.008
+
+Kernbefund:
+27 % der CEOs neu-privatisierter chinesischer Firmen sind ehemalige oder aktive
+Regierungsbeamte. Diese Firmen erzielen 18 % schwächere 3-Jahres-Rendite nach
+IPO, schlechteres Gewinn- und Umsatzwachstum.
+
+Relevanz für SAIC:
+SAIC Motors CEO und Vorstand werden von Shanghai SASAC und dem KPCh-
+Stadtkomitee kontrolliert. Dieses Paper liefert den empirischen Beweis, dass
+politische CEO-Connections die Unternehmensperformance belasten — direkte
+Begründung für SAICs ROE von 0,58 % (2024) trotz Marktführerstellung.
+
+Zu zitieren:
+Für die Aussage, dass staatliche Personalsteuerung in börsennotierten SOEs
+systematisch zu Underperformance führt (Governance → Financing).
+
+--------------------------------------------------------------------------------
+
+★★ Shleifer & Vishny (1994) — QJE — PRIORITÄT 2
+
+Vollzitat:
+Shleifer, A., & Vishny, R.W. (1994). Politicians and firms.
+The Quarterly Journal of Economics, 109(4), 995–1025.
+https://doi.org/10.2307/2118354
+
+Kernbefund:
+Modell des Verhandlungsspiels zwischen Politikern und Managern in
+Staatsunternehmen. Erklärt, warum SOEs Subventionen erhalten und warum
+Privatisierung ohne institutionelle Reform scheitert.
+
+Relevanz für SAIC:
+Theoretische Basis für die Argumentation, dass Shanghai SASAC SAIC nicht als
+Profitmaximierer führt, sondern politische Ziele (Beschäftigung, Marktanteil,
+Industriepolitik) priorisiert.
+
+Zu zitieren:
+Einleitung der Governance-Analyse als theoretischer Anker.
+
+--------------------------------------------------------------------------------
+
+★★ Bortolotti & Faccio (2009) — RFS — PRIORITÄT 2
+
+Vollzitat:
+Bortolotti, B., & Faccio, M. (2009). Government control of privatized firms.
+Review of Financial Studies, 22(8), 2907–2939.
+https://doi.org/10.1093/rfs/hhn077
+
+Kernbefund:
+Ende 2000 kontrollieren Staaten noch 62,4 % der teilprivatisierten Unternehmen.
+In Zivilrechtsländern halten Regierungen große Eigentumsanteile.
+
+Relevanz für SAIC:
+Erklärt, warum Shanghai SASAC über SAIC Group (63,27 %) die Kontrolle behält,
+obwohl SAIC Motor börsennotiert ist. "Privatisierung ohne Kontrollabgabe."
+
+Zu zitieren:
+Für den Befund, dass SAICs Börsennotierung keine echte Privatisierung ist.
+
+--------------------------------------------------------------------------------
+
+★★ Megginson & Netter (2001) — JEL — PRIORITÄT 2
+
+Vollzitat:
+Megginson, W.L., & Netter, J.M. (2001). From state to market: A survey of
+empirical studies on privatization. Journal of Economic Literature, 39(2),
+321–389. https://doi.org/10.1257/jel.39.2.321
+
+Kernbefund:
+Privatisierung steigert Effizienz und Rentabilität. "Partial privatization"
+zeigt schwächere Effekte als vollständige Privatisierung.
+
+Relevanz für SAIC:
+SAIC ist der Paradefall "partial privatization" — börsennotiert, aber
+staatskontrolliert. Begründet warum SAICs Performance hinter BYD zurückbleibt.
+
+Zu zitieren:
+Für die komparative Argumentation SAIC vs. BYD in Governance-Dimension.
+
+--------------------------------------------------------------------------------
+
+★★ Yan & Gray (1994) — AMJ — PRIORITÄT 2
+
+Vollzitat:
+Yan, A., & Gray, B. (1994). Bargaining power, management control, and
+performance in United States–China joint ventures.
+Academy of Management Journal, 37(6), 1478–1517.
+https://doi.org/10.5465/256796
+
+Kernbefund:
+In US-China JVs bestimmt die Verhandlungsmacht der Partner die
+Managementkontrolle. Formale und informelle Kontrollmechanismen interagieren.
+
+Relevanz für SAIC:
+Erklärt das 50/50-JV-Modell bei SAIC-GM und SAIC-VW: lokale Regulations-
+kenntnisse + Staatsnetzwerke = informelle Kontrollüberlegenheit.
+
+Zu zitieren:
+Für die Analyse der JV-Governance-Struktur (wie Kontrolle in 50/50-JVs
+wirklich funktioniert).
+
+--------------------------------------------------------------------------------
+
+★★ Jia, Huang & Zhang (2019) — AMJ — PRIORITÄT 2
+
+Vollzitat:
+Jia, N., Huang, K.G., & Zhang, C.M. (2019). Public governance, corporate
+governance, and firm innovation: An examination of state-owned enterprises.
+Academy of Management Journal, 62(1), 220–247.
+https://doi.org/10.5465/amj.2016.0543
+
+Kernbefund:
+Doppelte Governance-Logik bei SOEs: SASAC-Ebene und Vorstand interagieren und
+prägen strategische Entscheidungen inkl. Innovation.
+
+Relevanz für SAIC:
+SAIC unterliegt genau dieser doppelten Governance — Shanghai SASAC (lokal) und
+KPCh (zentral). Begründet warum SAICs EV-Strategie von beiden Logiken gesteuert
+wird.
+
+Zu zitieren:
+Für die Analyse der EV-Strategie unter dualer Governance-Logik.
+
+--------------------------------------------------------------------------------
+
+★ Bruton, Peng et al. (2015) — AMP — PRIORITÄT 3
+
+Vollzitat:
+Bruton, G.D., Peng, M.W., Ahlstrom, D., Stan, C., & Xu, K. (2015).
+State-owned enterprises around the world as hybrid organizations.
+Academy of Management Perspectives, 29(1), 92–114.
+https://doi.org/10.5465/amp.2013.0069
+
+Kernbefund:
+SOEs sind hybride Organisationen — nicht dichotom privat vs. staatlich.
+Framework aus 36 Fällen in 23 Ländern und 4 Industrien.
+
+Relevanz für SAIC:
+"Hybrid organization"-Framework: börsennotiert (Marktlogik) + staatskontrolliert
+(SASAC-Logik) + JV-Partner (private MNC-Logik).
+
+Zu zitieren:
+Als konzeptionellen Rahmen am Anfang des Governance-Kapitels.
+
+--------------------------------------------------------------------------------
+
+Ergänzend (Rechtsjournale, peer-reviewed, kein ABS-Ranking):
+
+Wang, Jiangyu (2014). "The Political Logic of Corporate Governance in China's
+State-Owned Enterprises." Cornell International Law Journal, 47(3), Art. 5.
+→ KPCh-Logik hinter SAIC-Governance (Parteikomitee > Vorstand).
+
+Wang & Tan (2020). "Mixed Ownership Reform and Corporate Governance in China's
+State-Owned Enterprises." Vanderbilt Journal of Transnational Law, 53(3).
+→ "Retreat of the state, advance of the Party" — Xi-Ära-Paradox bei SAIC.
+
+================================================================================
+DIMENSION 2 — FINANZIERUNG (~3 Seiten)
+Leitfrage: Wie wurde SAIC finanziert — und wer trägt das Risiko?
+================================================================================
+
+★★★ Bai, Barwick, Cao, Li (2025) — AER — PRIORITÄT 1
+
+Vollzitat:
+Bai, J., Barwick, P.J., Cao, S., & Li, S. (2025). Quid pro quo, knowledge
+spillovers, and industrial quality upgrading: Evidence from the Chinese auto
+industry. American Economic Review, 115(11), 3825–3852.
+https://doi.org/10.1257/aer.20221501
+PDF: Bai-Barwick-Cao-Li-2025-Quid-Pro-Quo-AER.pdf (in diesem Ordner)
+
+Kernbefund:
+JV-Affiliierung führte zu 8,3 % Qualitätsverbesserung durch Wissens-Spillovers.
+Mechanismen: Arbeitskräftemobilität und Zulieferernetzwerke. Datenbasis:
+Chinesischer Automarkt 2001–2014.
+
+Relevanz für Finanzierung:
+Erklärt warum das Capital-light-Modell funktionierte — SAIC erhielt Technologie
+OHNE volle R&D-Investition. JV als Finanzierungsmodell für Kompetenzaufbau.
+
+Zu zitieren:
+Für die Quantifizierung des Wertbeitrags der JV-Struktur.
+
+--------------------------------------------------------------------------------
+
+★★★ Holmes, McGrattan & Prescott (2015) — RES — PRIORITÄT 1
+
+Vollzitat:
+Holmes, T.J., McGrattan, E.R., & Prescott, E.C. (2015). Quid pro quo:
+Technology capital transfers for market access in China.
+Review of Economic Studies, 82(3), 1154–1193.
+https://doi.org/10.1093/restud/rdv007
+
+Kernbefund:
+Marktöffnung gegen Technologietransfer. China erzielt große Wohlfahrtsgewinne;
+FDI-Partner (VW, GM) erleiden Wohlfahrtsverluste.
+
+Relevanz für Finanzierung:
+Erklärt die Grundlogik der SAIC-Finanzstruktur — Marktzugangsprivilegien als
+"Kapital" im Austausch für private FDI-Einbringungen.
+
+Zu zitieren:
+Für die makroökonomische Rahmung der JV-Finanzlogik.
+
+--------------------------------------------------------------------------------
+
+★★ DeWenter & Malatesta (2001) — AER — PRIORITÄT 2
+
+Vollzitat:
+DeWenter, K.L., & Malatesta, P.H. (2001). State-owned and privately owned
+firms: An empirical analysis of profitability, leverage, and labor intensity.
+American Economic Review, 91(1), 320–334.
+https://doi.org/10.1257/aer.91.1.320
+
+Kernbefund:
+SOEs haben höhere Verschuldung und geringere Profitabilität als private Firmen.
+
+Relevanz für Finanzierung:
+Empirischer Vergleichsrahmen für SAICs Kapitalstruktur (ROE 0,58 % vs. BYD
+~30 %+). SAICs Leverage/Profitabilitätsprofil ist strukturell durch
+Staatseigentümerschaft bedingt.
+
+Zu zitieren:
+Für den direkten SAIC vs. BYD ROE-Vergleich in der Financing-Synthese.
+
+================================================================================
+DIMENSION 3 — CAPABILITY BUILDING (~4 Seiten)
+Leitfrage: Was hat SAIC durch JVs gelernt — und was nicht?
+================================================================================
+
+★★★ Bai et al. (2025) — AER — (siehe Dimension 2)
+
+Zu zitieren:
+8,3 % Qualitätsverbesserung durch JV-Spillovers. Worker flows und
+Zulieferernetzwerke als konkrete Lernmechanismen.
+
+--------------------------------------------------------------------------------
+
+★★★ Inkpen & Beamish (1997) — AMR — PRIORITÄT 1
+
+Vollzitat:
+Inkpen, A.C., & Beamish, P.W. (1997). Knowledge, bargaining power, and the
+instability of international joint ventures.
+Academy of Management Review, 22(1), 177–202.
+https://doi.org/10.5465/amr.1997.9707180263
+
+Kernbefund:
+JV-Instabilität entsteht, wenn ein Partner genug Wissen erworben hat, um die
+Partnerabhängigkeit zu beseitigen. "Wenn der Lerneffekt den Synergieeffekt
+überwiegt, zerfällt das JV."
+
+Relevanz für Capability Building:
+Erklärt warum SAIC-GM 2024 unter Druck gerät (-56,54 % Absatz): Das
+Wissensgefälle, das GM 1997 ins JV gelockt hat, schrumpft. JV-Renten senkten
+gleichzeitig den Innovationsdruck bei SAIC.
+
+Zu zitieren:
+Als theoretischen Rahmen für die Analyse, warum SAICs JV-Kompetenzstrategie an
+Grenzen stößt.
+
+--------------------------------------------------------------------------------
+
+★ Howell (2018) — Research Policy — ABS 3 (kein A/A*, aber inhaltlich wichtig)
+
+Vollzitat:
+Howell, S.T. (2018). Joint ventures and technology adoption: A Chinese
+industrial policy that backfired. Research Policy, 47(8), 1448–1462.
+https://doi.org/10.1016/j.respol.2018.04.021
+
+HINWEIS: ABS 3 — kein A/A*-Paper, aber inhaltlich unverzichtbar.
+
+Kernbefund:
+"Cannibalization Effect" — Firmen mit JVs reduzierten Qualität stärker als
+Firmen ohne JVs. JVs hemmten eigenständige Innovation.
+
+Relevanz:
+Direkte Gegenthese zu Bai et al. (2025): JV-Modell brachte Technologie (Bai)
+ABER hemmte gleichzeitig Eigeninnovation (Howell). Diese Spannung ist zentral
+für die SAIC-Diagnose.
+
+Zu zitieren:
+Als Kontrapunkt zu Bai et al. Belegt den Mechanismus hinter SAICs EV-Rückstand.
+
+================================================================================
+DIMENSION 4 — LONG-TERM VIABILITY (~4 Seiten)
+Leitfrage: Ist das JV-Modell im EV-Zeitalter noch tragfähig?
+================================================================================
+
+★★★ Inkpen & Beamish (1997) — AMR — (siehe Dimension 3)
+
+Zu zitieren:
+Mit der Abschaffung der Quid-pro-quo-Politik (2022) und steigenden chinesischen
+EV-Kompetenzen ist die "knowledge dependency" verschwunden → JV-Rationale
+erodiert.
+
+--------------------------------------------------------------------------------
+
+★★★ Holmes et al. (2015) — RES — (siehe Dimension 2)
+
+Zu zitieren:
+Welfare-Analyse: China profitierte; FDI-Partner (VW, GM) verloren. Wenn das
+Wohlfahrtsgefälle schrumpft, verlieren JVs ihren strategischen Wert für beide
+Seiten.
+
+--------------------------------------------------------------------------------
+
+★★ Jia et al. (2019) — AMJ — (siehe Dimension 1)
+
+Zu zitieren:
+Dual-governance unter SASAC verlangsamt Transformation zu eigenständigen
+EV-Kompetenzen — Staatsziele konkurrieren mit Marktanforderungen.
+
+================================================================================
+BUCH — HINTERGRUNDREFERENZ
+================================================================================
+
+Thun, Eric (2006). Changing Lanes in China: Foreign Direct Investment, Local
+Governments, and Auto Sector Development. Cambridge University Press.
+ISBN: 978-0-521-72409-8.
+
+→ Standardwerk zur Entstehung der chinesischen Automobilindustrie. Behandelt
+  Shanghai-Volkswagen und Shanghai-General Motors direkt. Für historischen
+  Kontext aller vier Dimensionen (kein ABS-Ranking als Buch).
+
+================================================================================
+NICHT ZITIEREN ALS A/A*-PAPER
+================================================================================
+
+NBER Working Paper 27644 (Bai et al.)    → Nur Preprint; zitiere AER 2025
+NBER Working Paper w19249 (Holmes et al.) → Nur Preprint; zitiere RES 2015
+Stanford/FSI Policy Brief                → Kein Peer-Review
+Tsinghua Working Paper (Lu 2014)         → Kein bestätigter Journal-Status
+Journal of Management Studies (JMS)      → ABS 3
+Management and Organization Review (MOR) → ABS 2
+Cornell JTRF Working Paper               → Working paper, kein Journal
+
+================================================================================
+Erstellt: 2026-05-27 | Quellen: research/wiki/saic-motor/input/web-search/
+================================================================================

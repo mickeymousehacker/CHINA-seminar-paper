@@ -68,7 +68,7 @@ aliases: [SAIC sources web research 2026-05]
 |---|---|---|---|
 | Bai, Barwick, Cao, Li — "Quid Pro Quo, Knowledge Spillovers..." | American Economic Review (ABS 4*) | 2025 | 10.1257/aer.20221501 |
 | Holmes, McGrattan, Prescott — "Quid Pro Quo: Technology Capital..." | Review of Economic Studies (ABS 4*) | 2015 | 10.1093/restud/rdv007 |
-| Howell — "JVs and Technology Adoption: A Chinese Industrial Policy that Backfired" | Research Policy (ABS 3) | 2018 | 10.1016/j.respol.2018.05.002 |
+| Howell — "JVs and Technology Adoption: A Chinese Industrial Policy that Backfired" | Research Policy (ABS 3) | 2018 | 10.1016/j.respol.2018.04.021 |
 | SAIC Motor Annual Report 2023 | Official primary source | 2024 | [PDF](https://www.saicmotor.com/english/images/investor_relations/annual_report/2024/5/31/DE63B019CA9A441FA0801360B6121A6E.pdf) |
 | EU Implementing Regulation 2024/2754 | Official Journal EU | 2024 | [EC Press](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5589) |
 

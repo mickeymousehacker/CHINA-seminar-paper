@@ -2,8 +2,8 @@
 title: Quid Pro Quo Policy (China Automotive FDI)
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
-sources: [2026-05-25-saic-motor-sources-web-research, 2026-05-23-saic-annual-report-2024]
+updated: 2026-05-27
+sources: [2026-05-25-saic-motor-sources-web-research, 2026-05-23-saic-annual-report-2024, 2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res, 2026-05-27-howell-2018-jv-technology-adoption-backfired]
 aliases: [market access for technology transfer, quid-pro-quo, 技术换市场]
 ---
 
@@ -17,9 +17,11 @@ The quid-pro-quo (QPQ) policy was the central mechanism through which China buil
 
 The policy was intended to function as a technology transfer mechanism: working alongside foreign engineers and managers in joint production would enable Chinese engineers to absorb automotive technology, management practices, and supplier development capabilities. The question of whether it actually worked as intended is the subject of significant academic debate.
 
-[[holmes-mcgrattan-prescott-2015|Holmes, McGrattan, and Prescott]] modelled the policy and found large welfare gains for China and welfare losses for FDI partners — the technology capital transferred to Chinese firms was highly valuable. [[bai-et-al-2025|Bai et al.]] provide empirical evidence from the Chinese auto market (2001–2014) showing that affiliated domestic OEMs did adopt quality strengths from JV partners, with knowledge spillovers contributing 8.3% of quality improvement. The mediating channels were worker flows and supplier network integration. [[2026-05-25-saic-motor-sources-web-research]]
+[[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res|Holmes, McGrattan, and Prescott (2015)]] modelled the policy using a multicountry dynamic general equilibrium model and found large welfare gains for China (~5% consumption gain) and welfare losses for FDI partners (0.3–0.5% consumption loss for US/Western Europe/Japan). Patent microdata shows that technology rights transferred via JVs apply **only inside China**: jointly owned patents by foreign+domestic partners do not link to international patent applications (p. 1158). The automobile sector is central — the 1994 automotive policy explicitly required JVs with domestic SOEs and a 50% foreign ownership cap (p. 1161). [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]]
 
-However, [[howell-2018|Howell (2018)]] finds an important countervailing effect: JV rents created a *cannibalization effect* — domestic OEMs with JV partnerships had *lower* incentives to innovate independently because the JV income reduced the urgency of domestic R&D investment. This helps explain why firms like [[byd-company]] — which never entered a JV — ultimately developed stronger proprietary EV platforms than JV-dependent firms like [[saic-motor]]. [[2026-05-25-saic-motor-sources-web-research]]
+[[bai-et-al-2025|Bai et al. (2025)]] provide empirical evidence from the Chinese auto market (2001–2014) showing that affiliated domestic OEMs did adopt quality strengths from JV partners, with knowledge spillovers contributing 8.3% of quality improvement. The mediating channels were worker flows and supplier network integration. [[2026-05-25-saic-motor-sources-web-research]]
+
+However, [[2026-05-27-howell-2018-jv-technology-adoption-backfired|Howell (2018)]] finds an important countervailing effect: JV rents created a *cannibalization effect* — domestic OEMs with JV partnerships had *lower* incentives to innovate independently because the JV income made own-technology upgrades less attractive (they would cannibalize the foreign partner's sales, reducing JV rent income). In a difference-in-differences design using China's 2009 fuel economy standards as a quasi-experiment, firms *with* JVs reduced vehicle quality and price (−11% torque, −15% price) relative to firms *without* JVs (p. 1457, Table 2). Former Minister of Machinery He Guangyan described the effect as *"like opium"* for Chinese firms (p. 1448). Since 2008, passenger vehicle exports were almost entirely from firms *without* JVs (p. 1457, §5.1). This helps explain why [[byd-company]] — which never entered a JV — ultimately developed stronger proprietary EV platforms than JV-dependent firms like [[saic-motor]]. [[2026-05-27-howell-2018-jv-technology-adoption-backfired]]
 
 The policy was phased out. The 50% foreign equity cap was loosened to 70% in 2018, and on 27 December 2021 NDRC and MOFCOM jointly announced its complete removal for passenger cars, effective 1 January 2022. This is the single most important regulatory shift for understanding SAIC's Long-term Viability: the legal foundation underpinning the JV bargain has been dissolved. [[2026-05-25-saic-motor-sources-web-research]]
 
@@ -37,9 +39,9 @@ The policy was phased out. The 50% foreign equity cap was loosened to 70% in 201
 
 ## Key claims across sources
 
-- QPQ generated large welfare gains for China and welfare losses for FDI partners. [[2026-05-25-saic-motor-sources-web-research]]
+- QPQ generated ~5% welfare gain for China and 0.3–0.5% welfare loss for advanced economies (US, Western Europe, Japan) over 1990–2010. [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]]
 - Affiliated domestic OEMs showed 8.3% more quality improvement (2001–2014) than non-affiliated, with worker flows and supplier networks as mediating channels. [[2026-05-25-saic-motor-sources-web-research]]
-- JV rents simultaneously reduced domestic innovation incentives (cannibalization effect), particularly visible in fuel economy standard compliance data 1999–2013. [[2026-05-25-saic-motor-sources-web-research]]
+- JV rents simultaneously reduced domestic innovation incentives (cannibalization effect): firms with JVs showed −11% torque and −15% price under 2009 fuel economy standards; exports dominated by non-JV firms since 2008. [[2026-05-27-howell-2018-jv-technology-adoption-backfired]]
 - The Sino-Foreign Equity Joint Venture Law (1979) was replaced by the 2019 Foreign Investment Law; the automotive-specific 50% equity cap was removed 1 January 2022. [[2026-05-25-saic-motor-sources-web-research]]
 - BYD's path to EV dominance without any JV is the primary counter-example challenging QPQ as a necessary capability-building mechanism. [[2026-05-23-saic-annual-report-2024]]
 

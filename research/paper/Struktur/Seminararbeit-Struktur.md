@@ -84,12 +84,12 @@
 
 ### 3.4 Vergleichssyntheseabsatz + Tabelle
 
-| | SAIC | BYD | Geely |
-|---|---|---|---|
-| Hauptkapitalquelle | JV-Equity-Income (historisch) | Intern + Subventionen | Fremdkapital |
-| Risikoträger | 50/50 mit JV-Partner | Eigenkapital | Fremdkapitalgeber |
-| ROE 2024 | 0,58% | ~30%+ | — |
-| EU-Zoll (Subventionsproxy) | 35,3% | 17,0% | 18,8% |
+| Kennzahl                    | SAIC                          | BYD                    | Geely              |
+|-----------------------------|-------------------------------|------------------------|--------------------|
+| Hauptkapitalquelle          | JV-Equity-Income (historisch) | Intern + Subventionen  | Fremdkapital       |
+| Risikoträger                | 50/50 mit JV-Partner          | Eigenkapital           | Fremdkapitalgeber  |
+| ROE 2024                    | 0,58 %                        | ~30 %+                 | —                  |
+| EU-Zoll (Subventionsproxy)  | 35,3 %                        | 17,0 %                 | 18,8 %             |
 
 ---
 
