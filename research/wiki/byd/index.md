@@ -32,18 +32,13 @@ Case: **BYD** | Modell: Vertikal integriertes Privatunternehmen | Zuständig: Ba
 - [[2026-06-03-xia-2008-founder-control-firm-value-cjar]] — Xia (2008), CJAR: Founder-Control hat positiven Effekt auf Firm Value in China
 - [[2026-06-03-allen-et-al-2024-chinese-stock-market-jof]] — Allen et al. (2024), JoF (A*): SOEs underperformen langfristig — private Founder-Firmen bilden Ausnahme
 
-## Entities
+## Hintergrundmaterial — Niedrige Relevanz für Seminararbeit
 
-- [[byd-company]] — BYD Co. Ltd., chinesischer EV- und Batteriehersteller
-- [[wang-chuanfu]] — Gründer, Chairman & CEO; ~17% Anteil
-- [[lu-xiangyang]] — Führungsperson BYD
-- [[byd-semiconductor]] — Halbleiter-Tochter (IGBT-Eigenproduktion)
-- [[findreams]] — Batterietochter (FinDreams Battery)
-- [[berkshire-hathaway]] — Bedeutender H-Share-Investor (Buffett)
-- [[catl]] — Größter Batterie-Wettbewerber
-- [[tesla]] — Globaler EV-Wettbewerber
+> Diese Seiten sind aus der Web-Recherche entstanden und liegen unter `input/web-search/`. Sie können als Nachschlagehilfe beim Schreiben dienen, gehören aber **nicht** in die Argumentationsketten. Zahlen und Behauptungen aus diesen Dateien immer gegen die Primärquellen (Annual Reports) oder die A*/A-Paper prüfen.
 
-## Concepts
+### Concepts — Hintergrundkontext (⚠️ niedrige Relevanz)
+
+Relevanz: Orientierungshilfe beim Schreiben; **nicht direkt zitieren**. Inhalte sind aus Web-Recherche destilliert, nicht peer-reviewed. Relevante Kernaussagen sind bereits in den Sources-Seiten verankert.
 
 - [[vertical-integration]] — BYDs Kernstrategie: Batterien, Halbleiter, Software intern
 - [[founder-led-governance]] — Zentralisierte Führung durch Gründer-CEO
@@ -53,6 +48,19 @@ Case: **BYD** | Modell: Vertikal integriertes Privatunternehmen | Zuständig: Ba
 - [[dilink-xuanji-architecture]] — Software-Plattform und AI-Architektur
 - [[ev-price-war]] — Chinesischer EV-Preiskrieg und Margenauswirkungen
 - [[china-ev-governance-models]] — Übergreifende Governance-Modelle im Vergleich
+
+### Entities — Randnotizen (❌ sehr niedrige Relevanz)
+
+Relevanz: Nur als Randnotiz, wenn eine Person oder Tochtergesellschaft kurz erwähnt werden muss. **Nicht als Argumentationsgrundlage verwenden.** Alle relevanten Fakten (Eigentumsanteile, Finanzdaten) stehen in den Annual Reports.
+
+- [[byd-company]] — BYD Co. Ltd., chinesischer EV- und Batteriehersteller
+- [[wang-chuanfu]] — Gründer, Chairman & CEO; ~17% Anteil
+- [[lu-xiangyang]] — Führungsperson BYD
+- [[byd-semiconductor]] — Halbleiter-Tochter (IGBT-Eigenproduktion)
+- [[findreams]] — Batterietochter (FinDreams Battery)
+- [[berkshire-hathaway]] — Bedeutender H-Share-Investor (Buffett)
+- [[catl]] — Größter Batterie-Wettbewerber
+- [[tesla]] — Globaler EV-Wettbewerber
 
 ## Input (Rohdaten)
 
