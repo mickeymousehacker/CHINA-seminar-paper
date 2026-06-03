@@ -3,7 +3,7 @@ title: State-Owned Enterprise (Chinese Automotive)
 type: concept
 created: 2026-05-23
 updated: 2026-05-27
-sources: [2026-05-23-saic-annual-report-2024, 2026-05-25-saic-motor-sources-web-research, 2026-05-27-megginson-netter-2001-from-state-to-market-jel, 2026-05-27-shleifer-vishny-1994-politicians-and-firms-qje, 2026-05-27-fan-wong-zhang-2007-politically-connected-ceos-jfe, 2026-05-27-jia-huang-zhang-2019-public-governance-soe-innovation-amj, 2026-05-27-bortolotti-faccio-2009-government-control-privatized-firms-rfs, 2026-05-27-bruton-peng-et-al-2015-soe-hybrid-organizations-amp]
+sources: [2026-05-23-saic-annual-report-2024, 2026-05-25-saic-motor-sources-web-research, 2026-05-27-megginson-netter-2001-from-state-to-market-jel, 2026-05-27-shleifer-vishny-1994-politicians-and-firms-qje, 2026-05-27-fan-wong-zhang-2007-politically-connected-ceos-jfe, 2026-05-27-jia-huang-zhang-2019-public-governance-soe-innovation-amj, 2026-05-27-bortolotti-faccio-2009-government-control-privatized-firms-rfs]
 
 aliases: [SOE, 国有企业, state-owned automaker]
 ---
@@ -21,19 +21,6 @@ SOEs in Chinese automotive share structural features: a SASAC body sits at the t
 In the context of the [[joint-venture-model]], SOEs were the designated Chinese partners. The state's implicit guarantee made SOEs credible counterparties for foreign OEMs committing billions of dollars to JV investments. SOEs also benefited from preferential access to state bank financing, regulatory advantages in approvals, and protection from disruptive market restructuring.
 
 The EV transition has complicated the SOE model. EV-native private firms like [[byd-company]] have proven more agile — they can make rapid technology bets without multi-layer governance approvals. SOEs face the tension between state policy mandates (e.g., "develop domestic NEV champions") and the inertia of legacy JV structures and state-appointed management with longer time horizons for strategic change. [[2026-05-23-saic-annual-report-2024]]
-
-## Hybrid SOE framework
-
-**Bruton, Peng et al. (2015)** provide a management-oriented taxonomy showing that SOEs should not be treated dichotomously (state-owned vs. private) but as hybrid organizations on a 3×3 matrix of government ownership (>50% / 25–50% / <25%) × government control (high / medium / low). Their core insight — confirmed across 36 cases from 23 countries — is that **ownership and control are separable**. State control can be high even when ownership is low (via golden shares, board appointment powers), and low even when ownership is high (Singapore's STATS ChipPAC).
-
-For SAIC Motor, the framework maps unambiguously to **Cell 3: high ownership + high control = traditional SOE**. The paper explicitly cites SASAC as the Chinese high-control instrument: *"Scholars report similar levels of control for SOEs in China, with the power to veto resting with the government or the controlling councils, such as the State-owned Assets Supervision and Administration Commission (SASAC) of the State Council."* (p. 100)
-
-Two mechanisms explain Cell-3 underperformance in dynamic markets:
-
-- **Soft budget constraint**: State support for loss-making firms eliminates market discipline, causes overinvestment, and causes firms to *"ignore market signals and many key technologies, particularly during periods of technological ferment."* (p. 102) — the EV transition is precisely such a ferment.
-- **CEO background as micro-institution**: CEOs with government backgrounds focus on employment maintenance and social stability rather than profit or innovation. *"The focus of the government and of the CEO (who has a state background) tends to be on the maintenance of employment and other social concerns rather than necessarily firm efficiency."* (p. 104) This directly complements Fan et al. (2007): it is not only that politically connected CEOs underperform, but that their mindset is structurally misaligned with commercial optimization.
-
-[[2026-05-27-bruton-peng-et-al-2015-soe-hybrid-organizations-amp]]
 
 ---
 

@@ -196,3 +196,86 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
   - AR2024: Umsatz RMB 777,1 Mrd. (+29,0 %); Bruttogewinn RMB 151,1 Mrd. (19 %); Nettogewinn RMB 40,3 Mrd. (5,2 %, +34 %); R&D ~RMB 54,2 Mrd. (+35,7 %); NEV-Absatz 4,27 Mio.; Marktanteil 33,2 %; Gearing −36 %
   - AR2025: Umsatz RMB 804,0 Mrd. (+3,5 %); Bruttogewinn RMB 142,7 Mrd. (18 %); Nettogewinn RMB 32,6 Mrd. (4,1 %); Gearing +25 %; Exporte >1 Mio. (+140 %); US$5,6 Mrd. Kapitalerhöhung März 2025
 - Research purpose: Seminararbeit — Pflichtprimärquellen für alle 4 Dimensionen (F insbesondere); Hauptquelle für Finanzzahlen in der Hausarbeit
+
+## [2026-06-03 19:00] ingest | SAIC Motor Annual Report 2025 (FY2025, PwC-geprüft)
+
+- Source: [[2026-06-03-saic-annual-report-2025]]
+- Input file: `research/wiki/saic-motor/input/pdf/Saic Motor Annual Report 2025.pdf` (236 S.)
+- Wiki folder: `research/wiki/saic-motor/`
+- New: [[2026-06-03-saic-annual-report-2025]]
+- Updated: `research/wiki/saic-motor/index.md`, `research/wiki/saic-motor/log.md`
+- Contradictions flagged: NEV-Subventionen = 0 (AR S. 21) vs. EU-VO SAIC 35,3 % — interpretierbar (verschiedene Subventionsebenen), im Source-Callout dokumentiert
+- Key numbers: Gewinn +506 % (Basiseffekt); ROE 3,43 %; NEV +33 % (1,64 Mio.); SAIC-GM 37 % Auslastung; VW MEB-Werk 14 %; SASAC 63,71 %; Huawei-Partnerschaft; KPCh-Führungsklausel S. 35
+
+## [2026-06-03 18:00] refactor | Quellenbereinigung SAIC — 4 Quellen entfernt
+
+- Wiki folder: `research/wiki/saic-motor/`
+- Gelöscht: [[2026-06-03-yan-gray-1994-bargaining-power-jv-amj]] (redundant mit I&B 1997), [[2026-05-27-bruton-peng-et-al-2015-soe-hybrid-organizations-amp]] (ABS 3, redundant), [[2026-06-03-dewenter-malatesta-2001-soe-private-firms-aer]] (redundant mit MNR 2001), [[2026-05-23-saic-motor-financials-2020-2024]] (in Annual Report enthalten)
+- PDFs gelöscht: 3 Dateien
+- Updated: `research/wiki/saic-motor/log.md`, `research/wiki/saic-motor/index.md`, `concepts/state-owned-enterprise.md`
+- Verbleibend: 15 Quellen
+
+## [2026-06-03 17:30] ingest | IEA Global EV Outlook 2026 + EU-Verordnung 2024/2754 (SAIC-Motor)
+
+- Sources: [[2026-06-03-iea-global-ev-outlook-2026]], [[2026-06-03-eu-regulation-2024-2754-bev-tariffs]]
+- Input files: `GlobalEVOutlook2026.pdf` (295 S.), `COMMISSION IMPLEMENTING REGULATION (EU) 2024_2754.pdf` (231 S.)
+- Wiki folder: `research/wiki/saic-motor/`
+- New: [[2026-06-03-iea-global-ev-outlook-2026]], [[2026-06-03-eu-regulation-2024-2754-bev-tariffs]]
+- Updated: `research/wiki/saic-motor/index.md`, `research/wiki/saic-motor/log.md`
+- Contradictions flagged: keine
+- Key numbers: IEA — China NEV ~55 % (2025), >13 Mio. Verkäufe, CN-Hersteller 60 % global, Prognose >90 % bis 2035; EU — SAIC 35,3 % vs. BYD 17,0 % (Art. 1, S. 228); SAIC-VW + SAIC-GM explizit benannt
+- Research purpose: IEA = Marktdaten für Long-term Viability; EU-VO = stärkster primärquellenbasierter Beleg für Governance-Dimension (staatliche Subventionsabhängigkeit)
+
+## [2026-06-03 16:00] ingest | Estrin, Hanousek, Kočenda & Svejnar (2009) — Privatization in Transition Economies, JEL
+
+- Source: [[2026-06-03-estrin-et-al-2009-privatization-transition-jel]]
+- Input file: `research/wiki/saic-motor/input/pdf/The Effects of Privatization and Ownership in Transition Economies.pdf` (31 pages, JSTOR 27739983)
+- Wiki folder: `research/wiki/saic-motor/`
+- New: [[2026-06-03-estrin-et-al-2009-privatization-transition-jel]]
+- Updated: `research/wiki/saic-motor/index.md`, `research/wiki/saic-motor/log.md`
+- Contradictions flagged: none
+- Key findings: Foreign private ownership → large rapid TFP gains everywhere; domestic private → smaller, delayed, positive in CEE, nil/negative in CIS; China: mostly positive but mixed; state ownership → worst category; selection bias critical (pp. 699–728)
+- Research purpose: ABS 4* meta-survey covering transition economies + China; ownership-performance hierarchy explains SAIC-JV (foreign → better) vs. SAIC-own-brand (state → worse); institutional context (China's gradual reform) moderates all effects
+
+## [2026-06-03 15:00] ingest | DeWenter & Malatesta (2001) — State-Owned vs. Privately Owned Firms, AER
+
+- Source: [[2026-06-03-dewenter-malatesta-2001-soe-private-firms-aer]]
+- Input file: `research/wiki/saic-motor/input/pdf/State-Owned and Privately Owned Firms_An Empirical Analysis of Profitability, Leverage, and Labor Intensity.pdf` (16 pages, JSTOR 2677913)
+- Wiki folder: `research/wiki/saic-motor/`
+- New: [[2026-06-03-dewenter-malatesta-2001-soe-private-firms-aer]]
+- Updated: `research/wiki/saic-motor/index.md`, `research/wiki/saic-motor/log.md`
+- Contradictions flagged: none
+- Key numbers: ROS government 0.013 vs. private 0.027***; ROE −0.007 vs. 0.089**; EBIT gains front-loaded before privatization; Debt/assets −0.087*** post-priv; Employees/sales −2.83*** post-priv (Tables 1–4)
+- Research purpose: ABS 4* quantitative benchmark for Financing/Governance; global SOE underperformance baseline for SAIC comparison; privatization timing puzzle relevant to SAIC reform expectations
+
+## [2026-06-03 14:00] ingest | Yan & Gray (1994) — Bargaining Power, Management Control, U.S.–China JVs, AMJ
+
+- Source: [[2026-06-03-yan-gray-1994-bargaining-power-jv-amj]]
+- Input file: `research/wiki/saic-motor/input/pdf/Bargaining Power, Management Control, and Performance in United States-China Joint Ventures.pdf` (41 pages, JSTOR 256796)
+- Wiki folder: `research/wiki/saic-motor/`
+- New: [[2026-06-03-yan-gray-1994-bargaining-power-jv-amj]]
+- Updated: `research/wiki/saic-motor/index.md`, `research/wiki/saic-motor/log.md`
+- Contradictions flagged: none
+- Key findings ingested: Ownership ≠ control (p. 1508); Chinese partner goal = technology acquisition (p. 1512); foreign partner must continuously reinvest to preserve bargaining position (p. 1512); shared control superior in developing-country JVs (p. 1510); Prop. 3–5; obsolescing bargain concept (p. 1483)
+- Research purpose: Seminararbeit — empirical U.S.–China JV evidence; pairs with Inkpen & Beamish (1997) as theory + evidence; explains SAIC-VW/-GM power dynamics and 50/50-on-paper, Chinese-influenced-in-practice reality
+
+## [2026-06-03 13:00] ingest | Inkpen & Beamish (1997) — Knowledge, Bargaining Power, and the Instability of IJVs, AMR
+
+- Source: [[2026-06-03-inkpen-beamish-1997-jv-instability-amr]]
+- Input file: `research/wiki/saic-motor/input/pdf/Knowledge, Bargaining Power, and the Instability of International Joint Ventures.pdf` (27 pages, JSTOR 259228)
+- Wiki folder: `research/wiki/saic-motor/`
+- New: [[2026-06-03-inkpen-beamish-1997-jv-instability-amr]]
+- Updated: `research/wiki/saic-motor/index.md`, `research/wiki/saic-motor/log.md`
+- Contradictions flagged: none — complements Bai et al. (knowledge acquisition) and Howell (dependency trap)
+- Key findings ingested: Instability definition (p. 182); Prop. 1 (foreign local knowledge → instability); Prop. 7 (attachment moderates); 2×2 instability matrix (Fig. 3, p. 188); NUMMI example; Yan & Gray 1994 China context
+- Research purpose: Standard IB theory für Long-term Viability; erklärt SAIC-GM −56.54% strukturell; knowledge parity trigger = 65% → 33% Qualitätslücke (Bai et al.)
+
+## [2026-06-03 12:00] ingest | Bai, Barwick, Cao & Li (2025) — Quid Pro Quo, Knowledge Spillovers, AER
+
+- Source: [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]]
+- Input file: `research/wiki/saic-motor/input/pdf/Bai-Barwick-Cao-Li-2025-Quid-Pro-Quo-AER.pdf` (63 pages)
+- Wiki folder: `research/wiki/saic-motor/`
+- New: [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]], `research/wiki/saic-motor/log.md`
+- Updated: [[quid-pro-quo-policy]] (sources, Summary, Key claims), [[saic-motor/index]] (new source entry), `source-rating/source-rating.md` (filename + Warnung aufgelöst)
+- Contradictions flagged: Bai et al. (2025) zeigen +8,3 % Qualitätsverbesserung durch JV-Affiliation vs. Howell (2018) zeigt Innovationsunterdrückung durch JV-Renten — beide Seiten markiert, ungelöst
+- Research purpose: Stärkstes Q1-Paper für Capability-Building-Dimension; SAIC–VW, SAIC–GM und Roewe explizit als Fallbeispiele; kausalidentifiziert via Within-Modell-Qualitätsdimensionen

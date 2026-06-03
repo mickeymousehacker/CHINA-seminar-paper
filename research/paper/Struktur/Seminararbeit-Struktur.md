@@ -11,7 +11,7 @@
 
 ### 1.1 Research Question & Motivation
 - Zentrale Frage: *"How can a successful automotive company be built in China — and which governance and financing structure is most likely to create long-term shareholder value?"*
-- Kontext: China ist der weltgrößte Automobilmarkt; NEV-Penetration 41% (2024), projiziert 70–85% bis 2040 (Roland Berger); Marktanteile ausländischer JV-Marken kollabieren — drei fundamental verschiedene Modelle stehen im Wettbewerb
+- Kontext: China ist der weltgrößte Automobilmarkt; NEV-Penetration ~55% (2025, IEA 2026), projiziert >90% bis 2035; Marktanteile ausländischer JV-Marken kollabieren — drei fundamental verschiedene Modelle stehen im Wettbewerb
 - Relevanz: Ergebnis dieses Modell-Wettbewerbs hat globale industriepolitische Implikationen
 
 ### 1.2 Kurzportrait der drei Modelle (je 1 Absatz)
@@ -31,9 +31,10 @@
 *Leitfrage: Wer kontrolliert das Unternehmen — und welche Konsequenzen hat das für strategische Entscheidungsgeschwindigkeit und Zielfunktion?*
 
 ### 2.1 SAIC Motor: State-owned JV Governance
-- Eigentümerstruktur: Shanghai SASAC → SAIC Group (63,27%) → börsennotiert (SSE: 600104); zwei-stufige Staatskontrolle
+- Eigentümerstruktur: Shanghai SASAC → SAIC Group (63,71%) → börsennotiert (SSE: 600104); zwei-stufige Staatskontrolle
 - JV-Governance: 50/50-Boards mit VW und GM; strategische Entscheidungen erfordern Konsens beider Partner
-- CCP-Einfluss: Parteikomitee im Unternehmen; staatlich besetzte Führungspositionen
+- CCP-Einfluss explizit primärquellenbelegt: SAIC AR 2025 (S. 35): *"upholding the principle of 'two consistencies' — adhering to the Party's leadership over SOEs"*
+- Governance-Reform 2025: Aufsichtsrat abgeschafft (neues Gesellschaftsrecht), Prüfungsausschuss übernimmt — formal moderner, aber 63,71%-Staatskontrolle unverändert
 - Konsequenz: Strategische Trägheit, aber staatliche Rückendeckung und privilegierter Kapitalzugang
 - *Akademischer Anker:* Fan, Wong & Zhang (2007, JFE 4\*): politisch besetzte CEOs → ~18% schlechtere Post-IPO-Performance; Shleifer & Vishny (1994, QJE 4\*): Politiker nutzen SOEs für politische, nicht kommerzielle Ziele
 
@@ -41,7 +42,7 @@
 - Wang Chuanfu: Gründer, CEO, dominanter Aktionär; schnelle, zentralisierte Entscheidungsfindung
 - Keine staatliche Einflussnahme auf strategischer Ebene trotz staatlicher Subventionen
 - Vertikale Integration als Ausdruck von Governance-Philosophie: Kontrolle über kritische Wertschöpfungsstufen
-- *Akademischer Anker:* Bruton et al. (2015, AMP 4): SOEs als Hybrid Organizations; Kontrast zur privaten Governance
+- *Akademischer Anker:* → Batu ergänzt (BYD-Quellen)
 
 ### 2.3 Geely: M&A-driven Private Governance
 - Li Shufu als Gründer-Kontrolleur; Wachstum durch Akquisitionen statt organisch
@@ -67,9 +68,13 @@
 
 ### 3.1 SAIC Motor: JV Capital Model
 - Historisches Modell: kapitalleicht durch JV-Co-Investment; VW und GM co-finanzierten Werke und Produktentwicklung; SAIC kassierte Gewinnanteile ohne alleiniges Kapitalrisiko
-- Struktureller Bruch 2024: SAIC trägt 50% der SAIC-GM-Abschreibungen; Q4-Nettogewinn RMB −5,24 Mrd.
-- Kennzahlen 2024: Revenue RMB 627,59 Mrd. (−15,73%); Nettogewinn RMB 1,666 Mrd. (−88,19%); ROE 0,58%; operativer Cashflow +63,62% (Lagerabbau, nicht operatives Wachstum)
-- Staatliche Subventionsintensität: EU-Zoll 35,3% auf SAIC (höchster Wert der drei untersuchten OEMs) als regulatorischer Proxy
+- Struktureller Bruch 2024: SAIC trägt 50% der SAIC-GM-Abschreibungen; bereinigter Nettogewinn 2024 RMB −5,41 Mrd. (Verlust)
+- Kennzahlen im Überblick (AR 2024 / AR 2025):
+  - Revenue: RMB 614,1 Mrd. (2024) → RMB 646,2 Mrd. (2025, +5,22%)
+  - Nettogewinn (reported): RMB 1,67 Mrd. (2024) → RMB 10,11 Mrd. (2025, +506%) — **Achtung: Basiseffekt**, keine strukturelle Erholung
+  - Nettogewinn ex Sonderposten: −5,41 Mrd. (2024) → +7,42 Mrd. (2025) — echte operative Verbesserung, aber noch unter 2023er Niveau (10,04 Mrd.)
+  - ROE: 0,58% (2024) → 3,43% (2025) — immer noch weit unter privatem Wettbewerb
+- Staatliche Subventionsintensität: EU-Zoll 35,3% auf SAIC vs. BYD 17,0% vs. Geely 18,8% (EU-VO 2024/2754, Art. 1, S. 228) — regulatorischer Proxy für Subventionsabhängigkeit
 - *Akademischer Anker:* Megginson & Netter (2001, JEL 4\*): partielle Privatisierung bringt schwächste Performance-Gewinne; Bortolotti & Faccio (2009, RFS 4\*): Staatskontrolle persistiert trotz formaler Privatisierung
 
 ### 3.2 BYD: Vertical Integration Financing
@@ -88,7 +93,7 @@
 |-----------------------------|-------------------------------|------------------------|--------------------|
 | Hauptkapitalquelle          | JV-Equity-Income (historisch) | Intern + Subventionen  | Fremdkapital       |
 | Risikoträger                | 50/50 mit JV-Partner          | Eigenkapital           | Fremdkapitalgeber  |
-| ROE 2024                    | 0,58 %                        | ~30 %+                 | —                  |
+| ROE 2024 / 2025             | 0,58 % / 3,43 % (Basiseffekt)| ~30 %+                 | —                  |
 | EU-Zoll (Subventionsproxy)  | 35,3 %                        | 17,0 %                 | 18,8 %             |
 
 ---
@@ -131,11 +136,14 @@
 *Leitfrage: Welches Modell überlebt den EV-Übergang — und schafft langfristig Shareholder Value?*
 
 ### 5.1 SAIC Motor
-- Struktureller Einbruch: Nettogewinn −88,19% (2024); SAIC-GM −56,54% Absatz; bereinigter Nettogewinn RMB −5,409 Mrd.
-- Gegenläufige Signale: NEV-Retail +29,9% auf 1,368 Mio.; IM Motors +71,2%; Übersee 1,082 Mio. (+2,6%)
-- Strategische Kernfrage: SAIC-VW-Verlängerung bis 2040 mit 18 neuen Modellen bis 2030 — Bekenntnis zum JV-Modell oder Kapitalbindung in rückläufigem Modell?
-- Export-Risiko: EU-Zoll 35,3% + MG-BEV-Marktanteil EU kollabiert von 4,1% auf 2,4% (2024); SAIC klagt vor EuGH; strategischer Pivot zu Hybriden (MG HS PHEV, MG3 Hybrid)
-- Marktkontext: EV-Penetration China 41% (2024); JV-ICE-Portfolio verliert strukturell
+- Struktureller JV-Zerfall messbar: Kapazitätsauslastung 2025 (AR 2025, S. 19):
+  - SAIC-GM: **37%** (145.200 Kapazität, 53.400 produziert)
+  - SAIC-VW: **55%** (192.000 Kapazität, 105.800 produziert)
+  - VW MEB-Elektrowerk (EV-Dedicated): **14%** (240.000 Kapazität, nur 34.464 produziert)
+- Gegenläufige Signale: NEV-Absatz 1,643 Mio. (+33,1% YoY, AR 2025); IM Motors; Huawei-JV „SAIC SHANGJIE" H5 (Sep. 2025); Exporte 1,071 Mio. (+3,1%)
+- Strategische Antwort „Joint Venture 2.0": Freigesetzte JV-Kapazitäten werden für Eigenmarkenproduktion umgewidmet (AR 2025, S. 12)
+- Export-Risiko: EU-Zoll 35,3% (EU-VO 2024/2754) + China NEV-Marktanteil ~55% (IEA 2026, S. 18) = doppelter Druck
+- Marktkontext: China NEV über 50% aller Neuwagen (2025); JV-ICE-Portfolio verliert strukturell; chinesische Hersteller = 60% des globalen EV-Absatzes (IEA 2026, S. 10)
 
 ### 5.2 BYD
 - Marktführer China: 34,1% NEV-Marktanteil, 4,27 Mio. Fahrzeuge (2024)
@@ -151,9 +159,10 @@
 
 | | SAIC | BYD | Geely |
 |---|---|---|---|
-| Nettogewinn-Trend | −88% (2024) | Positiv, wachsend | — |
-| EV-Readiness | Mittel (NEV +29,9%, aber JV-abhängig) | Hoch | Mittel |
-| Exportposition | Gefährdet (35,3% EU-Zoll) | Wachsend | Volvo-gestützt |
+| Nettogewinn-Trend | −88% (2024) → +506% (2025, Basiseffekt); ex Sonderposten +237% | Positiv, wachsend | — |
+| JV-Kapazitätsauslastung | SAIC-GM 37%, SAIC-VW 55%, VW MEB 14% (2025) | — | — |
+| EV-Readiness | Mittel (NEV +33% auf 1,64 Mio., aber JV-Werk unterausgelastet) | Hoch | Mittel |
+| Exportposition | Gefährdet (35,3% EU-Zoll; chinesische Hersteller = 60% global) | Wachsend | Volvo-gestützt |
 | Modell-Resilienz im EV-Übergang | Niedrig–Mittel | Hoch | Mittel |
 
 ---
@@ -184,24 +193,19 @@ Kapitalleichte JV-Modelle funktionieren in stabilen Märkten effizient — wer a
 
 ### A*/A-gerankte Journals (Pflicht)
 - Bai, J., Barwick, P.J., Cao, S., & Li, S. (2025). Quid pro quo, knowledge spillovers, and industrial quality upgrading. *American Economic Review, 115*(11), 3825–3852. https://doi.org/10.1257/aer.20221501
-- Holmes, T.J., McGrattan, E.R., & Prescott, E.C. (2015). Quid pro quo: Technology capital transfers for market access in China. *Review of Economic Studies, 82*(3), 1154–1193. https://doi.org/10.1093/restud/rdv007
-- Howell, S.T. (2018). Joint ventures and technology adoption: A Chinese industrial policy that backfired. *Research Policy, 47*(8), 1448–1462. https://doi.org/10.1016/j.respol.2018.05.002
+- Bortolotti, B., & Faccio, M. (2009). Government control of privatized firms. *Review of Financial Studies, 22*(8), 2907–2939. https://doi.org/10.1093/rfs/hhn077
+- Fan, J.P.H., Wong, T.J., & Zhang, T. (2007). Politically connected CEOs, corporate governance, and post-IPO performance of China's newly partially privatized firms. *Journal of Financial Economics, 84*(2), 330–357. https://doi.org/10.1016/j.jfineco.2006.03.008
+- Holmes, T.J., McGrattan, E.R., & Prescott, E.C. (2015). Quid pro quo: Technology capital transfers for market access in China. *Review of Economic Studies, 82*(3), 1154–1193. https://doi.org/10.1093/restud/rdv008
+- Howell, S.T. (2018). Joint ventures and technology adoption: A Chinese industrial policy that backfired. *Research Policy, 47*(8), 1448–1462. https://doi.org/10.1016/j.respol.2018.04.021
 - Inkpen, A.C., & Beamish, P.W. (1997). Knowledge, bargaining power, and the instability of international joint ventures. *Academy of Management Review, 22*(1), 177–202. https://doi.org/10.5465/amr.1997.9707180263
-- Fan, J.P.H., Wong, T.J., & Zhang, T. (2007). Politically connected CEOs, corporate governance, and post-IPO performance of China's newly partially privatized firms. *Journal of Financial Economics, 84*(2), 330–357.
-- Shleifer, A., & Vishny, R.W. (1994). Politicians and firms. *Quarterly Journal of Economics, 109*(4), 995–1025.
-- Megginson, W.L., & Netter, J.M. (2001). From state to market: A survey of empirical studies on privatization. *Journal of Economic Literature, 39*(2), 321–389.
-- Bortolotti, B., & Faccio, M. (2009). Government control of privatized firms. *Review of Financial Studies, 22*(8), 2907–2939.
-- Bruton, G.D., Peng, M.W., Ahlstrom, D., Stan, C., & Xu, K. (2015). State-owned enterprises around the world as hybrid organizations. *Academy of Management Perspectives, 29*(1), 92–114.
+- Megginson, W.L., & Netter, J.M. (2001). From state to market: A survey of empirical studies on privatization. *Journal of Economic Literature, 39*(2), 321–389. https://doi.org/10.1257/jel.39.2.321
+- Shleifer, A., & Vishny, R.W. (1994). Politicians and firms. *Quarterly Journal of Economics, 109*(4), 995–1025. https://doi.org/10.2307/2118354
 
 ### Primärquellen
-- SAIC Motor Corporation Limited. (2025). *Annual Report 2024*. Shanghai Stock Exchange: 600104.
-- European Commission. (2024). Implementing Regulation (EU) 2024/2754 — Definitive countervailing duties on imports of BEVs from China. Official Journal of the European Union.
-- China Association of Automobile Manufacturers (CAAM). (2025). *China NEV Sales Data 2024*.
-
-### Branchenberichte
-- Roland Berger. (2024). *Automotive Outlook 2040: China on the Rise*. Roland Berger GmbH.
-- McKinsey & Company. (2024). *China Auto Consumer Insights 2024*. McKinsey & Company.
-- Rhodium Group. (2024). *The Global Investments Powering China's EV Push*. Rhodium Group.
+- SAIC Motor Corporation Limited. (2025). *Annual Report 2024*. Shanghai Stock Exchange (600104). PricewaterhouseCoopers Zhong Tian LLP.
+- SAIC Motor Corporation Limited. (2026). *Annual Report 2025*. Shanghai Stock Exchange (600104). PricewaterhouseCoopers Zhong Tian LLP.
+- European Commission. (2024). Commission Implementing Regulation (EU) 2024/2754 of 29 October 2024 imposing a definitive countervailing duty on imports of new battery electric vehicles originating in the People's Republic of China. *Official Journal of the European Union*, L 2024/2754. https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj/eng
+- IEA. (2026). *Global EV Outlook 2026*. International Energy Agency. https://www.iea.org/reports/global-ev-outlook-2026
 
 ---
 
@@ -219,7 +223,8 @@ Kapitalleichte JV-Modelle funktionieren in stabilen Märkten effizient — wer a
 4. **Write:** Struktur und Argumente eigenständig formuliert; AI als Recherchetool, nicht als Ghostwriter
 
 ### Verifikationsmaßnahmen
-- Alle Finanzkennzahlen gegen SAIC Annual Report 2024 (PwC-geprüft) verifiziert
-- Akademische Paper: Nur peer-reviewed, publizierte Versionen zitiert (keine Working Papers)
-- EU-Zollsatz: Gegen EU-Implementing Regulation 2024/2754 verifiziert (35,3% final, nicht 36,3% provisorisch)
+- Alle Finanzkennzahlen gegen SAIC Annual Reports 2024 und 2025 (PwC-geprüft) verifiziert
+- Akademische Paper: Nur peer-reviewed, publizierte Versionen zitiert (keine Working Papers); DOIs gegen Primärquellen geprüft
+- EU-Zollsatz: Gegen EU-Implementing Regulation 2024/2754, Art. 1, S. 228 verifiziert (35,3% final; BYD 17,0%; Geely 18,8%)
+- Marktdaten: Gegen IEA Global EV Outlook 2026 verifiziert (China NEV ~55%, 2025)
 - `research/wiki/log.md` dokumentiert alle Wiki-Operationen als nachvollziehbaren Arbeitsnachweis

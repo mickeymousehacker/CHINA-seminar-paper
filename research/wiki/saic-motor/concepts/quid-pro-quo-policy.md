@@ -2,8 +2,8 @@
 title: Quid Pro Quo Policy (China Automotive FDI)
 type: concept
 created: 2026-05-25
-updated: 2026-05-27
-sources: [2026-05-25-saic-motor-sources-web-research, 2026-05-23-saic-annual-report-2024, 2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res, 2026-05-27-howell-2018-jv-technology-adoption-backfired]
+updated: 2026-06-03
+sources: [2026-05-25-saic-motor-sources-web-research, 2026-05-23-saic-annual-report-2024, 2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res, 2026-05-27-howell-2018-jv-technology-adoption-backfired, 2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]
 aliases: [market access for technology transfer, quid-pro-quo, 技术换市场]
 ---
 
@@ -19,7 +19,7 @@ The policy was intended to function as a technology transfer mechanism: working 
 
 [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res|Holmes, McGrattan, and Prescott (2015)]] modelled the policy using a multicountry dynamic general equilibrium model and found large welfare gains for China (~5% consumption gain) and welfare losses for FDI partners (0.3–0.5% consumption loss for US/Western Europe/Japan). Patent microdata shows that technology rights transferred via JVs apply **only inside China**: jointly owned patents by foreign+domestic partners do not link to international patent applications (p. 1158). The automobile sector is central — the 1994 automotive policy explicitly required JVs with domestic SOEs and a 50% foreign ownership cap (p. 1161). [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]]
 
-[[bai-et-al-2025|Bai et al. (2025)]] provide empirical evidence from the Chinese auto market (2001–2014) showing that affiliated domestic OEMs did adopt quality strengths from JV partners, with knowledge spillovers contributing 8.3% of quality improvement. The mediating channels were worker flows and supplier network integration. [[2026-05-25-saic-motor-sources-web-research]]
+[[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer|Bai et al. (2025)]] provide the first causal micro-evidence from the Chinese auto market (2001–2014): affiliated domestic OEMs adopted quality strengths from their JV foreign partners, with QPQ affiliation contributing **8.3%** of the quality improvement of affiliated models relative to non-affiliated domestic models. The identification strategy exploits within-model variation across quality dimensions — does a domestic firm affiliated with VW score better on engine quality (a VW strength) than unaffiliated domestics? The mediating channels are worker flows and supplier network overlap; geographic proximity and brand association are ruled out. SAIC–VW and SAIC–GM are explicit case examples; SAIC's indigenous Roewe brand (launched 2006) is cited as a direct policy outcome. [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]]
 
 However, [[2026-05-27-howell-2018-jv-technology-adoption-backfired|Howell (2018)]] finds an important countervailing effect: JV rents created a *cannibalization effect* — domestic OEMs with JV partnerships had *lower* incentives to innovate independently because the JV income made own-technology upgrades less attractive (they would cannibalize the foreign partner's sales, reducing JV rent income). In a difference-in-differences design using China's 2009 fuel economy standards as a quasi-experiment, firms *with* JVs reduced vehicle quality and price (−11% torque, −15% price) relative to firms *without* JVs (p. 1457, Table 2). Former Minister of Machinery He Guangyan described the effect as *"like opium"* for Chinese firms (p. 1448). Since 2008, passenger vehicle exports were almost entirely from firms *without* JVs (p. 1457, §5.1). This helps explain why [[byd-company]] — which never entered a JV — ultimately developed stronger proprietary EV platforms than JV-dependent firms like [[saic-motor]]. [[2026-05-27-howell-2018-jv-technology-adoption-backfired]]
 
@@ -40,7 +40,7 @@ The policy was phased out. The 50% foreign equity cap was loosened to 70% in 201
 ## Key claims across sources
 
 - QPQ generated ~5% welfare gain for China and 0.3–0.5% welfare loss for advanced economies (US, Western Europe, Japan) over 1990–2010. [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]]
-- Affiliated domestic OEMs showed 8.3% more quality improvement (2001–2014) than non-affiliated, with worker flows and supplier networks as mediating channels. [[2026-05-25-saic-motor-sources-web-research]]
+- Affiliated domestic OEMs showed 8.3% more quality improvement (2001–2014) than non-affiliated, with worker flows and supplier networks as mediating channels; SAIC–VW and SAIC–GM are explicit examples; Roewe brand cited as direct policy outcome. [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]]
 - JV rents simultaneously reduced domestic innovation incentives (cannibalization effect): firms with JVs showed −11% torque and −15% price under 2009 fuel economy standards; exports dominated by non-JV firms since 2008. [[2026-05-27-howell-2018-jv-technology-adoption-backfired]]
 - The Sino-Foreign Equity Joint Venture Law (1979) was replaced by the 2019 Foreign Investment Law; the automotive-specific 50% equity cap was removed 1 January 2022. [[2026-05-25-saic-motor-sources-web-research]]
 - BYD's path to EV dominance without any JV is the primary counter-example challenging QPQ as a necessary capability-building mechanism. [[2026-05-23-saic-annual-report-2024]]
