@@ -9,7 +9,7 @@ Verifizierte Zahlen für die vier Synthesetabellen der Seminararbeit (Abschnitte
 | Merkmal | SAIC Motor | BYD | Geely (ZGH) |
 |---|---|---|---|
 | Ultimativer Kontrolleur | Shanghai SASAC | Wang Chuanfu (Gründer) | Li Shufu (Gründer) |
-| Kontrollmechanismus | SAIC Group 63,27% (staatlich) | ~17% Direktbeteiligung + Gründerstatus | ZGH + Proper Glory ~76% (privat) |
+| Kontrollmechanismus | SAIC Group **63,71%** (staatlich, AR 2025) | ~17% Direktbeteiligung + Gründerstatus | ZGH + Proper Glory ~76% (privat) |
 | Börsennotierung | A-Share SSE 600104 | H-Share HKEx 01211 + A-Share 002594 | H-Share HKEx 0175 |
 | Staatseinfluss | Hoch (SASAC → SAIC Group → Board) | Gering (Subventionen ≠ Kontrolle) | Gering (USD 932m Staatsfinanzierung Volvo, keine Stimmrechte) |
 | JV-Governance | 50/50-Boards (VW bis 2040; GM laufend) | Kein JV | 50/50 Smart JV mit Mercedes-Benz |
@@ -27,10 +27,11 @@ Verifizierte Zahlen für die vier Synthesetabellen der Seminararbeit (Abschnitte
 |---|---|---|---|
 | Hauptkapitalquelle | JV-Equity-Income (historisch) | Intern aus operativem Cashflow + Subventionen | Leverage (Akquisition) + Kapitalmarkt (IPOs) |
 | Risikoträger | 50/50 mit JV-Partner | Eigenkapital (konzentriert) | Fremdkapitalgeber + Kapitalmarkt |
-| Umsatz 2024 | RMB 627,6 Mrd. (−15,7%) | RMB 777,1 Mrd. (+29,0%) | USD 33,4 Mrd. / ~RMB 243 Mrd. (+32%) |
-| Nettogewinn 2024 | RMB 1,666 Mrd. (−88,2%) | RMB 40,254 Mrd. (+34,0%) | RMB 16,8 Mrd. (+240%) |
+| Umsatz 2024 / 2025 | RMB 627,6 Mrd. (2024) / RMB 656,2 Mrd. (2025, +4,6%) | RMB 777,1 Mrd. (2024) / RMB 804,0 Mrd. (2025) | USD 33,4 Mrd. / ~RMB 243 Mrd. (+32%) |
+| Nettogewinn 2024 / 2025 | RMB 1,666 Mrd. (−88,2%) / RMB 10,11 Mrd. (+506%, **Basiseffekt**) | RMB 40,254 Mrd. (+34,0%) | RMB 16,8 Mrd. (+240%) |
+| Nettogewinn ex Sonderposten | **RMB −5,41 Mrd.** (2024) / RMB 7,42 Mrd. (2025) | — | — |
 | Nettomarge 2024 | 0,27% | 5,2% | ~6,9% |
-| ROE 2024 | **0,58%** (direkt ausgewiesen, AR2024) | **~22%**¹ (eigene Berechnung AR2024) | k.A.² |
+| ROE 2024 / 2025 | **0,58%** / **3,43%** (Basiseffekt; AR 2025) | **~22%**¹ (eigene Berechnung AR2024) | k.A.² |
 | Bruttomarge 2024 | 9,4% | 19% | k.A. |
 | Gearing Ratio 2024 | k.A. | −36% (netto-kassenüberschüssig) | 73,47% bei Volvo-Deal 2010 |
 | EU-Zoll (Subventionsproxy) | **35,3%** | **17,0%** | **18,8%** |
@@ -63,16 +64,17 @@ Verifizierte Zahlen für die vier Synthesetabellen der Seminararbeit (Abschnitte
 
 | Merkmal | SAIC Motor | BYD | Geely (ZGH) |
 |---|---|---|---|
-| Nettogewinn-Trend 2024 | RMB 1,7 Mrd. (**−88%**) | RMB 40,3 Mrd. (**+34%**) | RMB 16,8 Mrd. (**+240%**) |
-| Bereinigter Nettogewinn 2024 | **RMB −5,4 Mrd.** (ex Non-Recurring) | RMB 40,3 Mrd. | RMB 16,8 Mrd. |
-| Absatz 2024 | 4,01 Mio. (−20,1%) | 4,27 Mio. (+40%+) | k.A. (Geely Auto) |
-| EV-Readiness | Mittel (NEV +29,9%, aber JV-abhängig; keine eigene EV-Grundplattform) | Hoch (#1 global NEV; Blade Battery; 5th-Gen DM) | Mittel (CMA-basiert; EV-Anteil Volvo 16%) |
+| Nettogewinn-Trend 2024/2025 | RMB 1,7 Mrd. (**−88%**) / RMB 10,1 Mrd. (+506%, Basiseffekt) | RMB 40,3 Mrd. (**+34%**) | RMB 16,8 Mrd. (**+240%**) |
+| Bereinigter Nettogewinn | **RMB −5,4 Mrd.** (2024) / RMB 7,42 Mrd. (2025, noch unter 2023) | RMB 40,3 Mrd. | RMB 16,8 Mrd. |
+| Absatz 2024 / 2025 | 4,01 Mio. (2024) / 4,51 Mio. (2025, +12,3%) | 4,27 Mio. (2024) | k.A. (Geely Auto) |
+| JV-Kapazitätsauslastung 2025 | **SAIC-GM: 37%** · SAIC-VW: 55% · VW MEB-Werk: **14%** (AR 2025, S. 19–20) | — | — |
+| EV-Readiness | Mittel (NEV 1,64 Mio. +33% in 2025; Huawei SHANGJIE; aber JV-Werke strukturell unterausgelastet) | Hoch (#1 global NEV; Blade Battery; 5th-Gen DM) | Mittel (CMA-basiert; EV-Anteil Volvo 16%) |
 | Exportposition | **Gefährdet** (35,3% EU-Zoll; MG EU-Marktanteil 4,1%→2,4%) | **Wachsend** (17% Zoll; >1 Mio. Einheiten 2025 +140%) | **Volvo-gestützt** (18,8% Zoll; Volvo 763k Einheiten 2024) |
-| Größtes Risiko | SAIC-GM Impairments; JV-Abhängigkeit bei EV-Transition | Margendruck (Bruttomarge 19%→18% in 2025) | Polestar (Going-Concern 2023; USD 1,2 Mrd. Verlust); Lotus (−46% Absatz 2025) |
+| Größtes Risiko | JV-Abhängigkeit + strukturelle Unterauslastung (37%/14%); Export blockiert | Margendruck (Bruttomarge 19%→18% in 2025) | Polestar (Going-Concern 2023; USD 1,2 Mrd. Verlust); Lotus (−46% Absatz 2025) |
 | Modell-Resilienz EV-Übergang | Niedrig–Mittel | Hoch | Mittel |
 | Shareholderwert 2024 | Stark gefallen | Positiv | Geely Auto +53,7% (3-Jahres-Return) |
 
-**Quellen:** SAIC AR2024 (PwC); BYD AR2024+AR2025 (E&Y); Geely geely_quantitative_data.md; EU Reg. 2024/2754
+**Quellen:** SAIC AR2024 + AR2025 (PwC); BYD AR2024+AR2025 (E&Y); Geely geely_quantitative_data.md; EU Reg. 2024/2754; IEA Global EV Outlook 2026
 
 ---
 
@@ -80,12 +82,13 @@ Verifizierte Zahlen für die vier Synthesetabellen der Seminararbeit (Abschnitte
 
 | Kennzahl 2024 | SAIC | BYD | Geely Auto |
 |---|---|---|---|
-| Umsatz | RMB 627,6 Mrd. | RMB 777,1 Mrd. | ~RMB 243 Mrd. |
-| Nettogewinn | RMB 1,7 Mrd. | RMB 40,3 Mrd. | RMB 16,8 Mrd. |
-| Nettomarge | 0,27% | 5,2% | ~6,9% |
-| ROE | 0,58% | ~22% | k.A. |
-| R&D | RMB 35,2 Mrd. | RMB 54,2 Mrd. | k.A. |
-| Absatz (Einheiten) | 4,01 Mio. | 4,27 Mio. | k.A. |
+| Umsatz | RMB 627,6 Mrd. (2024) / 656,2 Mrd. (2025) | RMB 777,1 Mrd. (2024) | ~RMB 243 Mrd. |
+| Nettogewinn | RMB 1,7 Mrd. (2024) / 10,1 Mrd. (2025, Basiseffekt) | RMB 40,3 Mrd. (2024) | RMB 16,8 Mrd. |
+| Nettogewinn ex Sonderposten | −5,41 Mrd. (2024) / +7,42 Mrd. (2025) | — | — |
+| Nettomarge | 0,27% (2024) | 5,2% | ~6,9% |
+| ROE | 0,58% (2024) / **3,43%** (2025, Basiseffekt) | ~22% | k.A. |
+| R&D | RMB 35,2 Mrd. (2024) / 33,6 Mrd. inkl. JV (2025) | RMB 54,2 Mrd. | k.A. |
+| Absatz (Einheiten) | 4,01 Mio. (2024) / 4,51 Mio. (2025) | 4,27 Mio. (2024) | k.A. |
 | EU-Zoll BEV | 35,3% | 17,0% | 18,8% |
 
-**Datenstand:** SAIC AR2024 (PwC-geprüft, SSE), BYD AR2024 (E&Y-geprüft, HKEx), Geely Quantitativdaten 2026-05-26
+**Datenstand:** SAIC AR2024+AR2025 (PwC-geprüft, SSE), BYD AR2024 (E&Y-geprüft, HKEx), Geely Quantitativdaten 2026-05-26
