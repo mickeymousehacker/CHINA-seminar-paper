@@ -141,3 +141,34 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Contradictions flagged: none
 - Key findings ingested: 62.4% of "privatized" firms still government-controlled at end-2000 (p.2908, Abstract); civil-law pyramid vs. common-law golden share split (p.2909, Table 4 Panel C); 52.18% actual vs. 37.14% apparent government voting rights — prior studies understated (p.2932); political economy (proportional electoral systems, centralized authority) drives retention (p.2935); "best-foot-forward" selection (p.2932, Table 5); DOI confirmed as 10.1093/rfs/hhn077
 - Research purpose: Bachelor seminar paper — ABS 4* cross-country baseline showing SAIC's SASAC pyramid is the canonical civil-law instrument of incomplete privatization; complements Fan et al. (governance consequences) and Jia et al. (innovation misallocation) to show why government control persists despite poor performance
+
+## [2026-06-03 00:00] ingest | BYD — 9 akademische Paper-Quellen (Web Research, 7-Winkel-Parallelsuche)
+
+- Wiki folder: `research/wiki/byd/`
+- New source pages (9):
+  - [[2026-06-03-williamson-1971-vertical-integration-aer]] — Williamson (1971), AER: Transaction Cost Theory, Grundanker Make-or-Buy
+  - [[2026-06-03-harrigan-1985-vertical-integration-amj]] — Harrigan (1985), AMJ: VI-Framework, Umweltunsicherheit und Synergien
+  - [[2026-06-03-wang-zhao-ruet-2022-specialised-vi-ijatm]] — Wang, Zhao & Ruet (2022), IJATM: Specialised VI bei chinesischen EV-Batteriefirmen
+  - [[2026-06-03-hao-hao-2026-byd-competition-ijio]] — Hao & Hao (2026), IJIO: BYD-Marktevolution, VI-Margenresilienz
+  - [[2026-06-03-vi-social-welfare-china-ev-2026-cer]] — VI & Social Welfare China EV (2026), CER: VI senkt EV-Preise
+  - [[2026-06-03-he-2025-byd-vi-strategy-ajmss]] — He (2025), AJMSS: Blade Battery CAR +12,41% (Datenpunkt)
+  - [[2026-06-03-zhang-et-al-2025-founder-control-innovation-cer]] — Zhang et al. (2025), CER: Founder-Control → Durchbruchsinnovation
+  - [[2026-06-03-xia-2008-founder-control-firm-value-cjar]] — Xia (2008), CJAR: Founder-Control → positiver Firm-Value-Effekt
+  - [[2026-06-03-allen-et-al-2024-chinese-stock-market-jof]] — Allen et al. (2024), JoF (A*): SOE Langfrist-Underperformance
+- Updated: `research/wiki/byd/index.md`, [[log]]
+- Contradictions flagged: keine
+- Research purpose: Seminararbeit — BYD als "vertikal integriertes Privatunternehmen"-Modell; Paper decken alle 4 Dimensionen ab: Governance (Zhang, Xia, Allen), Capability Building (Williamson, Harrigan, Wang et al., Hao & Hao), Financing (He), Long-term Viability (VI Social Welfare, Hao & Hao, Allen)
+
+## [2026-06-03 00:00] ingest | BYD — 3 PDF-Primärquellen vollständig eingelesen und Quellseiten angereichert
+
+- Input files (3 PDFs in `research/wiki/byd/input/pdf/`):
+  - `zhang.pdf` → [[2026-06-03-zhang-et-al-2025-founder-control-innovation-cer]] — 25 S., China Economic Review
+  - `hao hao.pdf` → [[2026-06-03-hao-hao-2026-byd-competition-ijio]] — 30 S., IJIO
+  - `The Journal of Finance - 2024 - ALLEN - ...pdf` → [[2026-06-03-allen-et-al-2024-chinese-stock-market-jof]] — 62 S., Journal of Finance
+- Alle drei Quellseiten mit konkreten Befunden, Tabellenwerten und Seitenzahlen angereichert
+- Key numbers ingested:
+  - Zhang (2025): FC-Koeffizient 0,901*** (Tabelle 3); FC×Blocked = +0,544 (Tabelle 11); FC×Techposition = 0,941*** (Tabelle 14); optimale Amtszeit 12,8 Jahre (Tabelle 15)
+  - Hao & Hao (2026): BYD Marktanteil Xi'an 85,2% → 10,6%; Margen 19–23% stabil; Subventionsanteil nur 6,5 pp (8,7%); Preference Shocks 47,9 pp (64,3%) — Tabelle 5
+  - Allen (2024): A-Share Underperformance −15,0% p.a.; ROA drop 13% → 6% post-IPO; extern gelistete CN-Firmen on par mit Ausland
+- Contradictions flagged: Allen et al. messen A-Share vs. H-Share, nicht direkt Private vs. SOE — indirekte Verbindung über Listing-Selektion dokumentiert
+- Updated: [[log]]
