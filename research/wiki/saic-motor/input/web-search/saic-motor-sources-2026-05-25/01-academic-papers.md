@@ -100,7 +100,7 @@ China's quid pro quo policy exchanges market access for transfers of technology 
 - **Journal**: Research Policy
 - **Volume/Issue/Pages**: Vol. 47, No. 8, pp. 1448–1462
 - **Year**: 2018
-- **DOI**: 10.1016/j.respol.2018.05.002
+- **DOI**: 10.1016/j.respol.2018.04.021
 - **ABS/VHB Ranking**: ABS 3, VHB B
 - **URL**: https://www.sciencedirect.com/science/article/abs/pii/S0048733318301124
 - **Publication status**: CONFIRMED published — verified via ScienceDirect and IDEAS/RePEC (v47y2018i8p1448-1462)
