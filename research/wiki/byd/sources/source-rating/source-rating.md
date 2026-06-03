@@ -228,7 +228,58 @@
 
 ---
 
-### 11. Web Research — Byd Vertical Integration (2026-05-22)
+### 11. BYD Annual Report 2024 — *HKEx / Ernst & Young Hua Ming LLP*
+**Datei:** `2026-06-03-byd-annual-report-2024.md`
+**Q:** Q1 — Primärquelle (höchste Qualität) | **R:** R1 — Direkt | **Dimensionen:** G, F, C, V
+
+**Seriosität:** Höchste Stufe. HKEx-Pflichtpublikation, von Ernst & Young geprüft. Verbindliche Finanzkennzahlen. Kein akademisches Journal, aber als Geschäftsbericht eines börsennotierten Unternehmens uneingeschränkt zitierfähig.
+
+**Relevanz:** Unverzichtbare Primärquelle für alle Finanzdaten. Belegt: Umsatz, Bruttomargen, Gearing Ratio, R&D-Investitionen, NEV-Absatz, Marktanteile, Governance-Struktur.
+
+**Kernargument (mit Zahlen):**
+- Umsatz 2024: RMB 777,1 Mrd. (+29,0 % YoY); 5-Jahres-CAGR ~50 %
+- Bruttogewinn: RMB 151,1 Mrd. (19 % Marge) — stabil trotz Preiskrieg
+- Nettogewinn: RMB 40,3 Mrd. (5,2 % Marge, +34 %)
+- R&D: ~RMB 54,2 Mrd. (+35,7 %); kumuliert > RMB 180 Mrd.; >120.000 Ingenieure
+- NEV-Marktanteil China: 33,2 %
+- Gearing Ratio: −36 % (netto-kassenüberschüssig)
+- Governance: Wang Chuanfu = einziger Executive Director
+
+**Stärke der Aussage:** ★★★★★ — Primärquelle, keine Einschränkungen für Finanzdaten.
+
+**Anwendung auf BYD:**
+> "Laut BYD Annual Report 2024 erzielte der Konzern einen Umsatz von RMB 777,1 Mrd. bei 19 % Bruttomarge — trotz intensivem NEV-Preiskrieg unverändert gegenüber 2023. Dies belegt die von Hao & Hao (2026) identifizierte Margenstabilität durch VI-gestützte Kostenführerschaft."
+
+**Warnung:** Keine wissenschaftliche Methodik — nur als Faktenquelle, nicht als Argument über Kausalbeziehungen verwenden.
+
+---
+
+### 12. BYD Annual Report 2025 — *HKEx / Ernst & Young Hua Ming LLP*
+**Datei:** `2026-06-03-byd-annual-report-2025.md`
+**Q:** Q1 — Primärquelle (höchste Qualität) | **R:** R1 — Direkt | **Dimensionen:** G, F, C, V
+
+**Seriosität:** Höchste Stufe. Aktuellste verfügbare Primärquelle.
+
+**Relevanz:** Zeigt die Entwicklung nach dem Preiskrieg: Margendruck (18 %), Exportdurchbruch (>1 Mio. Einheiten, +140 %), Kapitalerhöhung US$5,6 Mrd. — wichtig für Viability-Abschnitt und Internationalisierungsstrategie.
+
+**Kernargument (mit Zahlen):**
+- Umsatz 2025: RMB 804,0 Mrd. (+3,5 %) — deutliche Wachstumsverlangsamung
+- Bruttogewinn: RMB 142,7 Mrd. (18 %) — absolut rückläufig trotz Umsatzwachstum ← **Margendruck-Beleg**
+- Nettogewinn: RMB 32,6 Mrd. (4,1 %) — Rückgang von 5,2 % (2024)
+- Exporte: >1 Mio. Einheiten (+140 %), #1 China-NEV-Exporteur, 119 Länder
+- Gearing Ratio: +25 % (Shift von −36 % in 2024) — Expansion kapitalintensiv
+- Kapitalerhöhung März 2025: US$5,6 Mrd. (Sovereign Funds, globale Langfristinvestoren)
+
+**Stärke der Aussage:** ★★★★★ — aktuellste Primärquelle; entscheidend für Viability-Abschnitt.
+
+**Anwendung auf BYD:**
+> "BYD Annual Report 2025 zeigt, dass der Margendruck im NEV-Preiskrieg real ist: Bruttogewinn sank absolut von RMB 151,1 Mrd. auf RMB 142,7 Mrd. (18 %). Gleichzeitig bewies BYD strukturelle Resilienz: Exportvolumen verdreifachte sich auf >1 Mio. Einheiten, und eine US$5,6-Mrd.-Kapitalerhöhung fand Abnehmer bei globalen Staatsfonds — ein Vertrauensvotum für das VI-Geschäftsmodell."
+
+**Warnung:** Keine wissenschaftliche Methodik — nur als Faktenquelle. Für Kausalargumente (Margenstabilität durch VI) Hao & Hao (2026) kombinieren.
+
+---
+
+### 13. Web Research — Byd Vertical Integration (2026-05-22)
 **Datei:** `2026-05-22-byd-vertical-integration-web-research.md`
 **Q:** Q5 — Web | **R:** R1 — Direkt | **Dimensionen:** G, F, C, V
 
@@ -242,7 +293,7 @@
 
 ---
 
-### 11. Web Research — Seminararbeit (2026-05-27)
+### 14. Web Research — Seminararbeit (2026-05-27)
 **Datei:** `2026-05-27-byd-seminararbeit-research.md`
 **Q:** Q5 — Web | **R:** R1 — Direkt | **Dimensionen:** G, F, C, V
 
@@ -258,18 +309,20 @@
 
 | Rang | Quelle | Q | R | Dimensionen | Verwenden für |
 |---|---|---|---|---|---|
-| 1 | **Hao & Hao (2026)**, IJIO | A | Direkt | C, V | Empirischer Kernanker: VI → Margenstabilität |
-| 2 | **Zhang et al. (2025)**, CER | A | Branche | G, C | Governance-Anker: Founder-Control → Innovation |
-| 3 | **Allen et al. (2024)**, JoF | A\* | Kontext | G, V | Kontext SOE vs. Private; Shareholder Value |
-| 4 | **Williamson (1971)**, AER | A\* | Theorie | C, F | Theoretischer Anker Make-or-Buy |
-| 5 | **Harrigan (1985)**, AMJ | A\* | Theorie | C | VI-Strategie-Framework |
-| 6 | **VI Social Welfare (2026)**, CER | A | Branche | V | VI = positive Wohlfahrtswirkung (kein Monopolmissbrauch) |
-| 7 | **Wang et al. (2022)**, IJATM | B | Direkt | C | Specialised VI bei BYD + CATL |
-| 8 | **Xia (2008)**, CJAR | B | Branche | G | Founder-Control + Firm Value (Ergänzung) |
-| 9 | **Masiero et al. (2016)**, RAI/Elsevier | B | Direkt | F | Subventionen + VI komplementär; historische Einordnung |
-| 10 | **He (2025)**, AJMSS | C | Direkt | F | CAR-Datenpunkt (nur Fußnote) |
-| 10 | **Web Research 2026-05-22** | Web | Direkt | alle | Datenbasis (nicht zitierbar) |
-| 11 | **Web Research 2026-05-27** | Web | Direkt | alle | Datenbasis inkl. ROE-Conflict-Flag |
+| 1 | **BYD Annual Report 2024** (HKEx) | Primär | Direkt | G, F, C, V | Alle Finanzdaten 2020–2024 — Pflichtquelle |
+| 1 | **BYD Annual Report 2025** (HKEx) | Primär | Direkt | G, F, C, V | Aktuelle Daten, Margendruck, Export, Kapital — Pflichtquelle |
+| 3 | **Hao & Hao (2026)**, IJIO | A | Direkt | C, V | Empirischer Kernanker: VI → Margenstabilität |
+| 4 | **Zhang et al. (2025)**, CER | A | Branche | G, C | Governance-Anker: Founder-Control → Innovation |
+| 5 | **Allen et al. (2024)**, JoF | A\* | Kontext | G, V | Kontext SOE vs. Private; Shareholder Value |
+| 6 | **Williamson (1971)**, AER | A\* | Theorie | C, F | Theoretischer Anker Make-or-Buy |
+| 7 | **Harrigan (1985)**, AMJ | A\* | Theorie | C | VI-Strategie-Framework |
+| 8 | **VI Social Welfare (2026)**, CER | A | Branche | V | VI = positive Wohlfahrtswirkung (kein Monopolmissbrauch) |
+| 9 | **Wang et al. (2022)**, IJATM | B | Direkt | C | Specialised VI bei BYD + CATL |
+| 10 | **Xia (2008)**, CJAR | B | Branche | G | Founder-Control + Firm Value (Ergänzung) |
+| 11 | **Masiero et al. (2016)**, RAI/Elsevier | B | Direkt | F | Subventionen + VI komplementär; historische Einordnung |
+| 12 | **He (2025)**, AJMSS | C | Direkt | F | CAR-Datenpunkt (nur Fußnote) |
+| — | **Web Research 2026-05-22** | Web | Direkt | alle | Datenbasis (nicht zitierbar) |
+| — | **Web Research 2026-05-27** | Web | Direkt | alle | Datenbasis inkl. ROE-Conflict-Flag |
 
 ---
 
@@ -322,8 +375,8 @@
 ### ❌ SCHWACH BELEGTE ARGUMENTE (nur Webquellen)
 
 **8. ROE ~14–15 %**
-- Nur Web Research 2026-05-27 ❌ (kein Jahresbericht-PDF vorhanden)
-- **Warnung:** Zahl verwenden, aber als "(BYD Annual Report 2024)" zitieren — nicht als "He (2025)" oder Web-Quelle. Primärquelle selbst nachschlagen.
+- BYD Annual Report 2024 ✅ (Nettogewinn 40,3 Mrd. / Nettvermögen 185,3 Mrd. = ~21,7 % ROE 2024; 2023: 30,0/138,8 = ~21,6 %)
+- **Hinweis:** ROE aus AR2024 ergibt ~21–22 %, nicht 14–15 % wie Web Research 2026-05-27 angab. AR2024-Zahlen sind maßgeblich. Den Web-Conflict-Flag als überholt betrachten.
 
 **9. BYD hält 1.117 Batterie-Patente vs. Teslas 97**
 - Nur Web Research 2026-05-22 ❌
@@ -359,7 +412,7 @@
 
 | Lücke | Wo nötig | Priorität |
 |---|---|---|
-| BYD Annual Report 2024 (PDF) | F — ROE, Revenue, R&D-Zahlen belegen | Hoch |
+| ~~BYD Annual Report 2024 (PDF)~~ | ~~F — ROE, Revenue, R&D-Zahlen~~ | ✅ Gelöst (AR2024 + AR2025 eingelesen) |
 | "Institutional determinants of VI in China" (2014, JCF) | C — VI in schwachen Institutionen | Mittel |
 | Autoren + DOI für VI Social Welfare (2026, CER) | V — vollständige Referenz | Mittel |
 | Harrigan (1986) SMJ | C — VI unter dynamischen Märkten | Niedrig |
