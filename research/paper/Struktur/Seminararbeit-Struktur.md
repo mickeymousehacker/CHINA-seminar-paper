@@ -88,8 +88,10 @@
 |-----------------------------|-------------------------------|------------------------|--------------------|
 | Hauptkapitalquelle          | JV-Equity-Income (historisch) | Intern + Subventionen  | Fremdkapital       |
 | Risikoträger                | 50/50 mit JV-Partner          | Eigenkapital           | Fremdkapitalgeber  |
-| ROE 2024                    | 0,58 %                        | ~30 %+                 | —                  |
+| ROE 2024                    | 0,58 %                        | ~22 %¹                 | —                  |
 | EU-Zoll (Subventionsproxy)  | 35,3 %                        | 17,0 %                 | 18,8 %             |
+
+¹ BYD ROE 2024: eigene Berechnung aus BYD Annual Report 2024 (HKEx, E&Y-geprüft): Nettogewinn RMB 40,254 Mrd. / Nettvermögen RMB 185,251 Mrd. = 21,7 %. Branchennote: Net Profit Margin beträgt separat 5,2 % (direkt ausgewiesen, AR2024 p.4) — ROE und Nettomarge divergieren aufgrund hohem Kapitalumschlag (Umsatz ~4× Eigenkapital).
 
 ---
 
