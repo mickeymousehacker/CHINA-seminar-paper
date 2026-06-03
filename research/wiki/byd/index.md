@@ -14,6 +14,10 @@ Case: **BYD** | Modell: Vertikal integriertes Privatunternehmen | Zuständig: Ba
 - [[2026-06-03-williamson-1971-vertical-integration-aer]] — Williamson (1971), AER: Transaction Cost Theory — Grundanker Make-or-Buy
 - [[2026-06-03-harrigan-1985-vertical-integration-amj]] — Harrigan (1985), AMJ: VI-Framework unter Umweltunsicherheit
 
+### Primärquellen (Jahresberichte)
+- [[2026-06-03-byd-annual-report-2024]] — BYD Annual Report 2024 (HKEx, E&Y-geprüft): Finanzdaten 2020–2024; R&D 54,2 Mrd.; NEV-Absatz 4,27 Mio.; Marktanteil 33,2 %
+- [[2026-06-03-byd-annual-report-2025]] — BYD Annual Report 2025 (HKEx, E&Y-geprüft): Margendruck (18 %), Exportdurchbruch >1 Mio. Einheiten, US$5,6 Mrd. Kapitalerhöhung
+
 ### BYD-spezifisch (EV & Batteries)
 - [[2026-06-03-wang-zhao-ruet-2022-specialised-vi-ijatm]] — Wang, Zhao & Ruet (2022), IJATM: Specialised VI bei chinesischen EV-Batteriefirmen, BYD & CATL
 - [[2026-06-03-hao-hao-2026-byd-competition-ijio]] — Hao & Hao (2026), IJIO: Wettbewerbsdynamik China-EV-Markt — BYDs VI hielt Margen trotz Marktanteilsverlust
@@ -52,4 +56,4 @@ Case: **BYD** | Modell: Vertikal integriertes Privatunternehmen | Zuständig: Ba
 
 - `input/web-search/byd-vertical-integration-2026-05-22/` — 19 Dateien, erste Recherche
 - `input/web-search/byd-seminararbeit-2026-05-27/` — 4 Dimensionen Seminararbeit
-- `input/pdf/` — PDF-Quellen (leer, hier ablegen)
+- `input/pdf/` — PDF-Quellen: `byd annual report 2024.pdf` (374 S.), `annual-report-byd-company-2025.pdf` (369 S.)

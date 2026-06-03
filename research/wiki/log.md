@@ -183,3 +183,16 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Contradictions flagged: keine — konsistent mit Hao & Hao (2026)
 - Key findings: Interview-basierte Primärdaten bei BYD; Subventionen + VI komplementär; DOI: 10.1016/j.rai.2016.01.001; Open Access: https://www.redalyc.org/pdf/973/97344680002.pdf
 - Research purpose: Seminararbeit — Financing-Dimension; einziges Paper mit BYD-Interviews zur Subventionsfrage
+
+## [2026-06-03 00:00] ingest | BYD Annual Reports 2024 + 2025 — HKEx Primärquellen (je ~370 S., E&Y-geprüft)
+
+- Input files (2 PDFs in `research/wiki/byd/input/pdf/`):
+  - `byd annual report 2024.pdf` (374 S.) → [[2026-06-03-byd-annual-report-2024]]
+  - `annual-report-byd-company-2025.pdf` (369 S.) → [[2026-06-03-byd-annual-report-2025]]
+- New source pages: beide neu angelegt
+- Updated: `research/wiki/byd/index.md` (neue Sektion "Primärquellen"), `source-rating/source-rating.md` (Einträge 11+12, Tabelle, Lücken-Status), [[log]]
+- Contradictions flagged: ROE-Conflict aus Web-Research-2026-05-27 gelöst — AR2024-Zahlen ergeben ~21–22 % ROE (nicht 14–15 %)
+- Key numbers ingested:
+  - AR2024: Umsatz RMB 777,1 Mrd. (+29,0 %); Bruttogewinn RMB 151,1 Mrd. (19 %); Nettogewinn RMB 40,3 Mrd. (5,2 %, +34 %); R&D ~RMB 54,2 Mrd. (+35,7 %); NEV-Absatz 4,27 Mio.; Marktanteil 33,2 %; Gearing −36 %
+  - AR2025: Umsatz RMB 804,0 Mrd. (+3,5 %); Bruttogewinn RMB 142,7 Mrd. (18 %); Nettogewinn RMB 32,6 Mrd. (4,1 %); Gearing +25 %; Exporte >1 Mio. (+140 %); US$5,6 Mrd. Kapitalerhöhung März 2025
+- Research purpose: Seminararbeit — Pflichtprimärquellen für alle 4 Dimensionen (F insbesondere); Hauptquelle für Finanzzahlen in der Hausarbeit
