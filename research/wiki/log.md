@@ -196,3 +196,13 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
   - AR2024: Umsatz RMB 777,1 Mrd. (+29,0 %); Bruttogewinn RMB 151,1 Mrd. (19 %); Nettogewinn RMB 40,3 Mrd. (5,2 %, +34 %); R&D ~RMB 54,2 Mrd. (+35,7 %); NEV-Absatz 4,27 Mio.; Marktanteil 33,2 %; Gearing −36 %
   - AR2025: Umsatz RMB 804,0 Mrd. (+3,5 %); Bruttogewinn RMB 142,7 Mrd. (18 %); Nettogewinn RMB 32,6 Mrd. (4,1 %); Gearing +25 %; Exporte >1 Mio. (+140 %); US$5,6 Mrd. Kapitalerhöhung März 2025
 - Research purpose: Seminararbeit — Pflichtprimärquellen für alle 4 Dimensionen (F insbesondere); Hauptquelle für Finanzzahlen in der Hausarbeit
+
+## [2026-06-03 00:00] ingest | Jensen & Meckling (1976) + Teece et al. (1997) — zwei neue A*-Theoriepaper; vollständige Neubewertung source-rating.md
+
+- Neue Quellseiten:
+  - [[2026-06-03-jensen-meckling-1976-agency-costs-jfe]] — Jensen & Meckling (1976), JFE (A*): Agency-Kosten-Theorie; Governance-Anker für Abschnitt 2.2
+  - [[2026-06-03-teece-pisano-shuen-1997-dynamic-capabilities-smj]] — Teece et al. (1997), SMJ (A*): Dynamic Capabilities; Capability-Building-Anker für Abschnitt 4.2
+- source-rating.md vollständig neu geschrieben: alle 16 Quellen bewertet, Gesamtranking-Tabelle, vollständige Argumentlandkarte, 3 Argumentationsketten für VI/Governance/Financing
+- Updated: `research/wiki/byd/index.md` (neue Einträge in Theoretische Grundlagen), [[log]]
+- Contradictions flagged: keine
+- Research purpose: Abdeckung aller Seminararbeit-Abschnitte (2.2/3.2/4.2/5.2) mit akademischen Ankern; BYD-Wiki nun 16 Quellen mit vollständigem Rating

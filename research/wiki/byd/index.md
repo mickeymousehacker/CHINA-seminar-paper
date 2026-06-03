@@ -13,6 +13,8 @@ Case: **BYD** | Modell: Vertikal integriertes Privatunternehmen | Zuständig: Ba
 ### Theoretische Grundlagen
 - [[2026-06-03-williamson-1971-vertical-integration-aer]] — Williamson (1971), AER: Transaction Cost Theory — Grundanker Make-or-Buy
 - [[2026-06-03-harrigan-1985-vertical-integration-amj]] — Harrigan (1985), AMJ: VI-Framework unter Umweltunsicherheit
+- [[2026-06-03-jensen-meckling-1976-agency-costs-jfe]] — Jensen & Meckling (1976), JFE (A*): Agency-Kosten-Theorie — Gründereigentum minimiert Prinzipal-Agenten-Konflikt
+- [[2026-06-03-teece-pisano-shuen-1997-dynamic-capabilities-smj]] — Teece, Pisano & Shuen (1997), SMJ (A*): Dynamic Capabilities — BYDs Kompetenzaufbau-Pfad theoretisch fundiert
 
 ### Primärquellen (Jahresberichte)
 - [[2026-06-03-byd-annual-report-2024]] — BYD Annual Report 2024 (HKEx, E&Y-geprüft): Finanzdaten 2020–2024; R&D 54,2 Mrd.; NEV-Absatz 4,27 Mio.; Marktanteil 33,2 %
