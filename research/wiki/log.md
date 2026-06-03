@@ -197,6 +197,22 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
   - AR2025: Umsatz RMB 804,0 Mrd. (+3,5 %); Bruttogewinn RMB 142,7 Mrd. (18 %); Nettogewinn RMB 32,6 Mrd. (4,1 %); Gearing +25 %; Exporte >1 Mio. (+140 %); US$5,6 Mrd. Kapitalerhöhung März 2025
 - Research purpose: Seminararbeit — Pflichtprimärquellen für alle 4 Dimensionen (F insbesondere); Hauptquelle für Finanzzahlen in der Hausarbeit
 
+## [2026-06-03 12:00] refactor | wiki/shared/ aufgebaut — alle case-übergreifenden Inhalte kopiert
+
+- Neuer Ordner: `research/wiki/shared/`
+- Neue Dateien (7):
+  - `shared/index.md` — Index aller geteilten Inhalte
+  - `shared/comparison-data.md` — Alle vier Synthesetabellen (Governance, Financing, Capability, Viability) mit verifizierten Zahlen aller drei Unternehmen
+  - `shared/sources/eu-regulation-2024-2754.md` — EU Implementing Regulation 2024/2754; finale Zölle SAIC 35,3% · BYD 17,0% · Geely 18,8%
+  - `shared/sources/caam-nev-market-data-2024.md` — CAAM China NEV 2024: 41% Marktanteil, 12,9 Mio. Einheiten, BYD #1
+  - `shared/sources/roland-berger-automotive-2040.md` — Roland Berger: NEV 70–85% bis 2040; BEV > 50% Juli 2024
+  - `shared/concepts/china-ev-market.md` — Marktkontext: Penetration, Preiskrieg, Exportdynamik, EU-Zölle, Case-Implikationen
+  - `shared/concepts/governance-models.md` — Vergleich SOE/JV (SAIC) · privat-vertikal (BYD) · privat-M&A (Geely); Agency-Cost-Spektrum
+- Originaldateien in byd/, saic-motor/, geely/ nicht verändert
+- Updated: [[log]]
+- Contradictions flagged: keine
+- Research purpose: Seminararbeit — geteilte Referenzbasis für den Vergleichsteil (Abschnitte 2.4, 3.4, 4.4, 5.4); ermöglicht konsistente Zahlen in allen vier Synthesetabellen
+
 ## [2026-06-03 00:00] ingest | Jensen & Meckling (1976) + Teece et al. (1997) — zwei neue A*-Theoriepaper; vollständige Neubewertung source-rating.md
 
 - Neue Quellseiten:
