@@ -279,3 +279,13 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Updated: [[quid-pro-quo-policy]] (sources, Summary, Key claims), [[saic-motor/index]] (new source entry), `source-rating/source-rating.md` (filename + Warnung aufgelöst)
 - Contradictions flagged: Bai et al. (2025) zeigen +8,3 % Qualitätsverbesserung durch JV-Affiliation vs. Howell (2018) zeigt Innovationsunterdrückung durch JV-Renten — beide Seiten markiert, ungelöst
 - Research purpose: Stärkstes Q1-Paper für Capability-Building-Dimension; SAIC–VW, SAIC–GM und Roewe explizit als Fallbeispiele; kausalidentifiziert via Within-Modell-Qualitätsdimensionen
+
+## [2026-06-03 12:00] refactor | wiki/shared/ aufgebaut — alle case-übergreifenden Inhalte (Batu)
+
+- Neuer Ordner: `research/wiki/shared/` (7 neue Dateien: index, comparison-data, EU-VO, CAAM, Roland Berger, china-ev-market, governance-models)
+- Research purpose: Seminararbeit — geteilte Referenzbasis für Vergleichsteil (Abschnitte 2.4, 3.4, 4.4, 5.4)
+
+## [2026-06-03 00:00] ingest | Jensen & Meckling (1976) + Teece et al. (1997) — BYD-Wiki (Batu)
+
+- Neue Quellseiten: [[2026-06-03-jensen-meckling-1976-agency-costs-jfe]] (JFE A*), [[2026-06-03-teece-pisano-shuen-1997-dynamic-capabilities-smj]] (SMJ A*)
+- Wiki folder: `research/wiki/byd/`; BYD-Wiki nun 16 Quellen mit vollständigem Rating
