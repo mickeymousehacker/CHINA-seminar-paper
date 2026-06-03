@@ -172,3 +172,14 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
   - Allen (2024): A-Share Underperformance −15,0% p.a.; ROA drop 13% → 6% post-IPO; extern gelistete CN-Firmen on par mit Ausland
 - Contradictions flagged: Allen et al. messen A-Share vs. H-Share, nicht direkt Private vs. SOE — indirekte Verbindung über Listing-Selektion dokumentiert
 - Updated: [[log]]
+
+## [2026-06-03 00:00] ingest | Masiero et al. (2016) — Electric Vehicles in China: BYD Strategies and Government Subsidies, RAI/Elsevier
+
+- Source: [[2026-06-03-masiero-et-al-2016-byd-subsidies-rai]]
+- Origin: Entdeckt in `research/wiki/byd/input/web-search/byd-vertical-integration-2026-05-22/13-government-subsidies-state-relationship.md`
+- Wiki folder: `research/wiki/byd/`
+- New source page: [[2026-06-03-masiero-et-al-2016-byd-subsidies-rai]]
+- Updated: `research/wiki/byd/index.md`, `source-rating/source-rating.md`, [[log]]
+- Contradictions flagged: keine — konsistent mit Hao & Hao (2026)
+- Key findings: Interview-basierte Primärdaten bei BYD; Subventionen + VI komplementär; DOI: 10.1016/j.rai.2016.01.001; Open Access: https://www.redalyc.org/pdf/973/97344680002.pdf
+- Research purpose: Seminararbeit — Financing-Dimension; einziges Paper mit BYD-Interviews zur Subventionsfrage

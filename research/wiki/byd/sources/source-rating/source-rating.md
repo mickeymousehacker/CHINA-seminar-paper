@@ -209,7 +209,26 @@
 
 ---
 
-### 10. Web Research — Byd Vertical Integration (2026-05-22)
+### 10. Masiero, Ogasavara, Jussani, Risso (2016) — *RAI / Elsevier*
+**Datei:** `2026-06-03-masiero-et-al-2016-byd-subsidies-rai.md`
+**Q:** Q3 — B (Scopus, Elsevier; kein ABS/VHB) | **R:** R1 — Direkt | **Dimensionen:** F, G
+
+**Seriosität:** Mittel. Elsevier-Journal, Scopus-indexiert. Kein internationales Top-Journal, aber peer-reviewed und im einschlägigen Fachbereich. Wichtiger als der Journalrang ist die Methode: **Interview-basierte Primärdaten bei BYD** — das macht dieses Paper einzigartig.
+
+**Relevanz:** Einziges akademisches Paper mit Primärerhebung zu BYD + Subventionen + China EV-Politik. Historisch wertvoll: 2016-Perspektive, vor BYDs großem Durchbruch.
+
+**Kernargument:** Subventionen und BYDs VI-Strategie wirken komplementär — keines allein erklärt den Markterfolg. Langfristig fallen Batteriekosten → Subventionsabhängigkeit sinkt strukturell.
+
+**Stärke der Aussage:** ★★★☆☆ — Gut für Financing-Abschnitt als ergänzende Quelle, schwacher Journalrang.
+
+**Anwendung auf BYD:**
+> "Masiero et al. (2016) zeigen auf Basis von Unternehmensinterviews, dass BYDs früher Aufstieg durch das Zusammenwirken staatlicher Subventionsprogramme und eigenständiger VI-Strategie erklärt wird. Ihre Prognose — fallende Batteriekosten würden Subventionen langfristig ersetzen — wird durch Hao & Hao (2026) empirisch bestätigt: Nach dem Subventionsauslauf 2022 erklärten Subventionen nur noch 8,7 % der Marktanteilsdynamik."
+
+**Warnung:** Daten von 2016 — vor Blade Battery (2020), vor BYDs globalem Durchbruch. Nur für historische Einordnung und Subventions-Dimension verwenden, nicht für aktuelle Finanzaussagen. Open Access PDF: https://www.redalyc.org/pdf/973/97344680002.pdf
+
+---
+
+### 11. Web Research — Byd Vertical Integration (2026-05-22)
 **Datei:** `2026-05-22-byd-vertical-integration-web-research.md`
 **Q:** Q5 — Web | **R:** R1 — Direkt | **Dimensionen:** G, F, C, V
 
@@ -247,7 +266,8 @@
 | 6 | **VI Social Welfare (2026)**, CER | A | Branche | V | VI = positive Wohlfahrtswirkung (kein Monopolmissbrauch) |
 | 7 | **Wang et al. (2022)**, IJATM | B | Direkt | C | Specialised VI bei BYD + CATL |
 | 8 | **Xia (2008)**, CJAR | B | Branche | G | Founder-Control + Firm Value (Ergänzung) |
-| 9 | **He (2025)**, AJMSS | C | Direkt | F | CAR-Datenpunkt (nur Fußnote) |
+| 9 | **Masiero et al. (2016)**, RAI/Elsevier | B | Direkt | F | Subventionen + VI komplementär; historische Einordnung |
+| 10 | **He (2025)**, AJMSS | C | Direkt | F | CAR-Datenpunkt (nur Fußnote) |
 | 10 | **Web Research 2026-05-22** | Web | Direkt | alle | Datenbasis (nicht zitierbar) |
 | 11 | **Web Research 2026-05-27** | Web | Direkt | alle | Datenbasis inkl. ROE-Conflict-Flag |
 

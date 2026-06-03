@@ -19,6 +19,7 @@ Case: **BYD** | Modell: Vertikal integriertes Privatunternehmen | Zuständig: Ba
 - [[2026-06-03-hao-hao-2026-byd-competition-ijio]] — Hao & Hao (2026), IJIO: Wettbewerbsdynamik China-EV-Markt — BYDs VI hielt Margen trotz Marktanteilsverlust
 - [[2026-06-03-vi-social-welfare-china-ev-2026-cer]] — VI & Social Welfare China EV (2026), CER: VI senkt EV-Preise und erhöht Wohlfahrt
 - [[2026-06-03-he-2025-byd-vi-strategy-ajmss]] — He (2025), AJMSS: Blade Battery Ankündigung → +12,41% CAR (Datenpunkt, niedriger Journalrang)
+- [[2026-06-03-masiero-et-al-2016-byd-subsidies-rai]] — Masiero et al. (2016), RAI/Elsevier: BYD-Fallstudie mit Interview-Primärdaten; Subventionen + VI-Strategie komplementär
 
 ### Governance & Shareholder Value
 - [[2026-06-03-zhang-et-al-2025-founder-control-innovation-cer]] — Zhang et al. (2025), CER: Founder-Control fördert Durchbruchsinnovation in chinesischen High-Tech-Firmen
