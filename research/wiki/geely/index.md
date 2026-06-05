@@ -10,6 +10,7 @@ summary under the right group. Keep entries alphabetical within each group.
 - [[alvstam-ivarsson-2020]] — Book chapter (Elgar, pp. 129–143): technology transfer mechanisms in Geely-Volvo integration (greenfield plants, CMA platform). ISBN: 9781786434470.
 - [[balcet-wang-richet-2012]] — Journal article (*IJATM* 12(4), 360–375): Geely as latecomer catching-up via asset-seeking M&A. DOI: 10.1504/IJATM.2012.051361.
 - [[konda-slepnikov-jin-2022]] — Journal article (*AJTI* 31(3), 556–580): Geely-Volvo "from transaction to co-creation"; patent convergence confirms knowledge integration. DOI: 10.1080/19761597.2022.2133777.
+- [[2026-05-31-luo-tung-2007-springboard-jibs]] — Journal article (*JIBS* 38(4), 481–498): springboard perspective — EMNEs use cross-border acquisitions to overcome latecomer disadvantages; theoretical anchor for Geely's M&A strategy.
 - [[meng-wang-2021]] — Journal article (*IBR* 14(7), 1–36): Geely post-acquisition performance improved long-run; M&A evaluation framework. DOI: 10.5539/ibr.v14n7p36.
 - [[yakob-nakamura-strom-2018]] — Journal article (*Technovation* 70–71, 59–72): Geely-Volvo as strategic asset-creation and innovation upgrading, not mere asset-seeking. DOI: unknown.
 - [[zheng-noorderhaven-du-2022]] — Journal article (*JWB* 57(3)): four-stage integration model (distancing → balancing → building → diversifying); legitimacy pressures drive sequencing. DOI: 10.1016/j.jwb.2021.101305.

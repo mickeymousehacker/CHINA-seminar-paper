@@ -289,3 +289,11 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 
 - Neue Quellseiten: [[2026-06-03-jensen-meckling-1976-agency-costs-jfe]] (JFE A*), [[2026-06-03-teece-pisano-shuen-1997-dynamic-capabilities-smj]] (SMJ A*)
 - Wiki folder: `research/wiki/byd/`; BYD-Wiki nun 16 Quellen mit vollständigem Rating
+
+## [2026-05-31 00:00] ingest | Luo & Tung (2007) — Geely wiki
+
+- Source: [[2026-05-31-luo-tung-2007-springboard-jibs]]
+- New: [[2026-05-31-luo-tung-2007-springboard-jibs]]
+- Updated: [[index]] (Geely)
+- Contradictions flagged: none
+- Note: bibliographic details provided by user; full text not ingested. Cited in Geely draft sections 2.3 as theoretical anchor for springboard M&A strategy.
