@@ -297,3 +297,13 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Updated: [[index]] (Geely)
 - Contradictions flagged: none
 - Note: bibliographic details provided by user; full text not ingested. Cited in Geely draft sections 2.3 as theoretical anchor for springboard M&A strategy.
+
+## [2026-06-03 21:00] query | Was hat es mit "Quid Pro Quo" im SAIC-Motor-Kontext auf sich?
+- Pages consulted: [[quid-pro-quo-policy]], [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]], [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]], [[2026-05-27-howell-2018-jv-technology-adoption-backfired]], [[2026-06-03-inkpen-beamish-1997-jv-instability-amr]], [[saic-motor/index]]
+- Coverage: Complete
+- Gaps: Bai et al. (2025) Datensample endet 2014 — keine Aussage zur EV-Technologielücke (Batterien, Software); kein eigenes Wiki-Paper zu SAICs post-2022 JV-Renegotiation-Optionen
+
+## [2026-06-03 22:00] query | Was sind SOEs (State-Owned Enterprises)?
+- Pages consulted: [[state-owned-enterprise]], [[saic-motor]], [[shanghai-sasac]], [[2026-05-27-shleifer-vishny-1994-politicians-and-firms-qje]], [[2026-05-27-fan-wong-zhang-2007-politically-connected-ceos-jfe]], [[2026-05-27-megginson-netter-2001-from-state-to-market-jel]], [[2026-05-27-jia-huang-zhang-2019-public-governance-soe-innovation-amj]], [[2026-05-27-bortolotti-faccio-2009-government-control-privatized-firms-rfs]], [[2026-06-03-estrin-et-al-2009-privatization-transition-jel]]
+- Coverage: Complete
+- Gaps: none

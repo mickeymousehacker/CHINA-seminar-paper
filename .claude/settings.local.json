@@ -1,6 +1,16 @@
 {
   "permissions": {
     "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(where pandoc *)",
+      "Bash(where wkhtmltopdf *)",
+      "Bash(where node *)",
+      "Bash(uv --version)",
+      "Bash(git stash *)",
+      "Bash(git pull *)",
+      "Bash(cmd.exe /c start \"\" \"research\\\\paper\\\\Struktur\\\\Seminararbeit-Struktur.md\")"
     ]
   }
 }
