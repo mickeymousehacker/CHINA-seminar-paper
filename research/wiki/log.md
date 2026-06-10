@@ -307,3 +307,10 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Pages consulted: [[state-owned-enterprise]], [[saic-motor]], [[shanghai-sasac]], [[2026-05-27-shleifer-vishny-1994-politicians-and-firms-qje]], [[2026-05-27-fan-wong-zhang-2007-politically-connected-ceos-jfe]], [[2026-05-27-megginson-netter-2001-from-state-to-market-jel]], [[2026-05-27-jia-huang-zhang-2019-public-governance-soe-innovation-amj]], [[2026-05-27-bortolotti-faccio-2009-government-control-privatized-firms-rfs]], [[2026-06-03-estrin-et-al-2009-privatization-transition-jel]]
 - Coverage: Complete
 - Gaps: none
+
+## [2026-06-10 12:00] verify | Claim: "Formalized in the 1994 Automotive Industry Development Policy"
+- Pages consulted: [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]], [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]], [[quid-pro-quo-policy]]
+- Result: Aussage verifiziert. Bai et al. (2025, p. 7) ist der direktere Beleg für die vollständige Namensnennung "Automotive Industry Development Policy" und das Jahr 1994 (State Council); Holmes et al. (2015, p. 1161) belegt die substantiellen Bestimmungen (50%-Cap, Technologietransfer-Anforderung), spricht aber nur von "1994 Chinese automotive policy" ohne den offiziellen Vollnamen
+- Empfehlung: Beide Quellen zitieren — Bai et al. für Policy-Name + Datum + Issuer, Holmes et al. für Inhalte (50%-Cap, Technology-Capital-Tax-Mechanik p. 1158)
+- Coverage: Complete
+- Gaps: none
