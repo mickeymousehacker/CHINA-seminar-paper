@@ -319,3 +319,21 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Pages consulted: [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]], [[quid-pro-quo-policy]], [[saic-motor/sources/source-rating/source-rating]]
 - Coverage: Complete
 - Gaps: none — Wiki-Seite enthält vollständige quantitative Ergebnisse, Methodik, Patent-Evidence und Automobilpolitik-Details mit Seitenzahlen
+
+## [2026-06-11 00:00] ingest | Batch-Ingest 13 neue Quellen (BYD)
+- Neue Sources:
+  - [[2026-06-11-klein-crawford-alchian-1978-vi-jle]] — Theorie: Hold-up & VI
+  - [[2026-06-11-grossman-hart-1986-ownership-jpe]] — Theorie: Property Rights
+  - [[2026-06-11-sun-yang-2025-byd-financial-leverage-fer]] — BYD Porter/Finanzstrategie
+  - [[2026-06-11-wu-2025-vi-competitiveness-byd-icmred]] — VI & Wettbewerbsfähigkeit BYD
+  - [[2026-06-11-jiang-xu-2023-nev-policy-subsidies-ep]] — NEV Policy & Subventionen
+  - [[2026-06-11-qin-xiong-2024-nev-policy-effectiveness-energy]] — Subventionen vs. Dual-Credit
+  - [[2026-06-11-tian-wang-zhu-2024-china-nev-industry-ger]] — China NEV Marktüberblick
+  - [[2026-06-11-hove-2026-china-nev-update-oies]] — OIES NEV Update März 2026
+  - [[2026-06-11-xu-wang-1999-ownership-governance-cer]] — Eigentumsstruktur & Governance China
+  - [[2026-06-11-feng-et-al-2022-rd-collaboration-jtt]] — F&E-Kooperation & Standardsetzung
+  - [[2026-06-11-yuan-braso-2025-china-auto-metamorphosis-bh]] — China Auto Geschichte 1953–2001
+  - [[2026-06-11-whitfield-wuttke-2026-byd-catl-leapfrog-peg]] — BYD/CATL Leapfrogging
+  - [[2026-06-11-yang-yuan-xing-2023-china-nev-fiscal-tax-erei]] — Fiskal-/Steuerpolitik NEV
+- Updated: [[byd/index]]
+- Contradictions flagged: none
