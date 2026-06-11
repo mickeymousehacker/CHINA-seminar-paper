@@ -314,3 +314,8 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Empfehlung: Beide Quellen zitieren — Bai et al. für Policy-Name + Datum + Issuer, Holmes et al. für Inhalte (50%-Cap, Technology-Capital-Tax-Mechanik p. 1158)
 - Coverage: Complete
 - Gaps: none
+
+## [2026-06-11 00:00] query | Holmes, McGrattan & Prescott (2015) — zentrale Ergebnisse und Hauptaussagen
+- Pages consulted: [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]], [[quid-pro-quo-policy]], [[saic-motor/sources/source-rating/source-rating]]
+- Coverage: Complete
+- Gaps: none — Wiki-Seite enthält vollständige quantitative Ergebnisse, Methodik, Patent-Evidence und Automobilpolitik-Details mit Seitenzahlen

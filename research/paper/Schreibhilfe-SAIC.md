@@ -25,11 +25,12 @@
 | **EU-Zoll-Beleg** | EU Reg. 2024/2754, Art. 1, S. 228 | — | Subventionshöhe-Aussagen ohne Reg. |
 | **China NEV-Marktdaten** | IEA Global EV Outlook 2026 | — | Vor-2025-Daten |
 
-### Drei goldene Regeln
+### Vier goldene Regeln
 
 1. **Bai et al. (2025) ist deine stärkste Quelle.** SAIC ist explizit im Paper genannt. Verwende es als Anker im Capability-Building-Abschnitt.
-2. **Howell (2018) immer mit Bai et al. kontrastieren.** ABS 3 — nie allein als Hauptbeleg.
-3. **Der +506% Gewinnsprung 2025 ist ein Basiseffekt** (2024 war durch Impairment belastet). Nie als "Turnaround" framen.
+2. **Bai et al. wird AUSSCHLIESSLICH mit Sektionsverweisen zitiert** — niemals mit Seitenzahlen. Grund: Goethe-Uni hat keine AER-Online-Lizenz, du arbeitest mit der Manuskript-Version (Juni 2024) von Barwicks Github. Mapping: Abstract → `Abstract`; Introduction → `Section 1`; 1994-Policy → `Section 2.1`; SAIC-VW/SAIC-GM Ownership Network → `Section 2.2`; Spillover-Koeffizient → `Table 3`.
+3. **Howell (2018) immer mit Bai et al. kontrastieren.** ABS 3 — nie allein als Hauptbeleg.
+4. **Der +506% Gewinnsprung 2025 ist ein Basiseffekt** (2024 war durch Impairment belastet). Nie als "Turnaround" framen.
 
 ---
 
@@ -302,23 +303,25 @@ SAIC erhielt den **gleichen Satz wie nicht-kooperierende Firmen** — das Maximu
 
 **Quelle:** Bai, Barwick, Cao & Li (2025), AER, ABS 4* — DEIN STÄRKSTES PAPER.
 
-**Schlüsselzitat aus Abstract (p. 1):**
+**⚠️ ZITATIONSREGEL:** Bai et al. wird ausschließlich mit **Sektionsverweisen** zitiert (Goethe-Uni hat keine AER-Online-Lizenz; Manuskript-Seitenzahlen sind nicht verlässlich). Mapping: Abstract → `Abstract`; Intro → `Section 1`; 1994-Policy → `Section 2.1`; Ownership-Network/SAIC-VW → `Section 2.2`; Spillover-Koeffizient → `Table 3`.
+
+**Schlüsselzitat aus Abstract:**
 > *"knowledge spillovers due to ownership affiliation under quid pro quo contributed 8.3% of the quality improvement experienced by affiliated domestic models between 2001 and 2014, relative to nonaffiliated domestic models"*
 
 **Weitere kritische Stellen:**
-- **Qualitätslücke 65% → 33%**: *"From 2001 to 2014, malfunction rates of domestically produced car models decreased by over 75%... domestic models had 65% higher malfunction rates than JV models in 2001; by 2014, this gap had reduced to 33%"* (p. 3)
-- **Spillover-Koeffizient**: 0,098 SD pro 1 SD Verbesserung in JV-Qualität (p. 15, Table 3, col. 2)
-- **Roewe** (p. 7): *"SAIC introduced Roewe in 2006"* — direkte Politikkonsequenz
-- **SAIC-VW explizit** (p. 8): *"VW–SAIC produces Passat and Tiguan cars"*
-- **Mechanismen**: Worker flows + Lieferantennetzwerke (p. 5) — NICHT Patente!
+- **Qualitätslücke 65% → 33%**: *"From 2001 to 2014, malfunction rates of domestically produced car models decreased by over 75%... domestic models had 65% higher malfunction rates than JV models in 2001; by 2014, this gap had reduced to 33%"* (Section 1, Introduction)
+- **Spillover-Koeffizient**: 0,098 SD pro 1 SD Verbesserung in JV-Qualität (Table 3, col. 2)
+- **Roewe** (Section 2.1): *"SAIC introduced Roewe in 2006"* — direkte Politikkonsequenz
+- **SAIC-VW explizit** (Section 2.2): *"VW–SAIC produces Passat and Tiguan cars"*
+- **Mechanismen**: Worker flows + Lieferantennetzwerke (Section 1) — NICHT Patente!
 
 **ENGLISCHER MUSTERABSATZ (Hauptargument 4.1.2):**
 
-> The most direct causal evidence on the policy's effects on SAIC specifically is provided by Bai, Barwick, Cao and Li (2025). Exploiting within-product variation across multiple quality dimensions in the J.D. Power Initial Quality Study database covering nearly all car models produced in China between 2001 and 2014, they estimate that ownership affiliation under the quid pro quo regime contributed 8.3% of the total quality improvement experienced by affiliated domestic models, relative to non-affiliated domestic counterparts (Bai et al., 2025, p. 1). Over the same period, the quality gap between domestic and joint-venture-produced vehicles narrowed substantially: domestic models exhibited 65% higher malfunction rates than JV models in 2001, but only 33% higher by 2014 (Bai et al., 2025, p. 3). The point estimate of the spillover coefficient is 0.098 — that is, when a JV model scores one standard deviation higher on a given quality dimension, the affiliated domestic automaker's indigenous models score 0.098 standard deviations higher on the same dimension relative to models from non-affiliated domestic firms (Bai et al., 2025, p. 15, Table 3, col. 2). The transmission mechanism, the authors find, was not formal patent transfer but rather worker mobility between JVs and their affiliated domestic operations, combined with overlapping supplier networks (Bai et al., 2025, p. 5).
+> The most direct causal evidence on the policy's effects on SAIC specifically is provided by Bai, Barwick, Cao and Li (2025). Exploiting within-product variation across multiple quality dimensions in the J.D. Power Initial Quality Study database covering nearly all car models produced in China between 2001 and 2014, they estimate that ownership affiliation under the quid pro quo regime contributed 8.3% of the total quality improvement experienced by affiliated domestic models, relative to non-affiliated domestic counterparts (Bai et al., 2025, Abstract). Over the same period, the quality gap between domestic and joint-venture-produced vehicles narrowed substantially: domestic models exhibited 65% higher malfunction rates than JV models in 2001, but only 33% higher by 2014 (Bai et al., 2025, Section 1). The point estimate of the spillover coefficient is 0.098 — that is, when a JV model scores one standard deviation higher on a given quality dimension, the affiliated domestic automaker's indigenous models score 0.098 standard deviations higher on the same dimension relative to models from non-affiliated domestic firms (Bai et al., 2025, Table 3, col. 2). The transmission mechanism, the authors find, was not formal patent transfer but rather worker mobility between JVs and their affiliated domestic operations, combined with overlapping supplier networks (Bai et al., 2025, Section 1).
 
 **ZWEITER ABSATZ — SAIC-Spezifität (sehr wichtig!):**
 
-> Critically for the present analysis, SAIC is not a marginal case in Bai et al.'s dataset — it is a central one. SAIC Volkswagen, producing Passat and Tiguan models, and SAIC General Motors, producing Buick and Chevrolet, are both explicitly identified within the paper (Bai et al., 2025, p. 8). The authors further note that "SAIC introduced Roewe in 2006" (p. 7) — that is, the launch of SAIC's first major indigenous passenger vehicle brand is treated by the authors as a direct manifestation of the capability accumulation enabled by the JV regime. The 8.3% spillover figure can therefore be applied to SAIC with a level of confidence not available for the comparable BYD or Geely cases. For SAIC specifically, the JV mandate produced measurable, statistically identified, and causally attributable improvements in vehicle quality during the 2001–2014 window.
+> Critically for the present analysis, SAIC is not a marginal case in Bai et al.'s dataset — it is a central one. SAIC Volkswagen, producing Passat and Tiguan models, and SAIC General Motors, producing Buick and Chevrolet, are both explicitly identified within the paper (Bai et al., 2025, Section 2.2). The authors further note that "SAIC introduced Roewe in 2006" (Bai et al., 2025, Section 2.1) — that is, the launch of SAIC's first major indigenous passenger vehicle brand is treated by the authors as a direct manifestation of the capability accumulation enabled by the JV regime. The 8.3% spillover figure can therefore be applied to SAIC with a level of confidence not available for the comparable BYD or Geely cases. For SAIC specifically, the JV mandate produced measurable, statistically identified, and causally attributable improvements in vehicle quality during the 2001–2014 window.
 
 ---
 
@@ -600,11 +603,12 @@ SAIC Motor Corporation Limited. (2026). *Annual Report 2025*. Shanghai Stock Exc
 | VW MEB-Werk 2025 | **14%** (34.464 / 240.000) | AR 2025, p. 20 |
 | NEV 2025 | 1,643 Mio. (+33,14%) | AR 2025, p. 21 |
 | R&D 2025 inkl. JV | RMB 33,58 Mrd. | AR 2025, p. 16 |
-| **Bai et al.: Spillover** | **8,3%** | Bai et al. (2025), p. 1 |
-| Bai et al.: Quality gap | 65% (2001) → 33% (2014) | Bai et al. (2025), p. 3 |
-| Bai et al.: Spillover coef. | 0,098 SD | Bai et al. (2025), p. 15 |
-| "Roewe in 2006" | (Politikkonsequenz) | Bai et al. (2025), p. 7 |
-| "VW-SAIC produces Passat" | (SAIC explizit) | Bai et al. (2025), p. 8 |
+| **Bai et al.: Spillover** | **8,3%** | Bai et al. (2025), Abstract |
+| Bai et al.: Quality gap | 65% (2001) → 33% (2014) | Bai et al. (2025), Section 1 |
+| Bai et al.: Spillover coef. | 0,098 SD | Bai et al. (2025), Table 3 |
+| "Roewe in 2006" | (Politikkonsequenz) | Bai et al. (2025), Section 2.1 |
+| "VW-SAIC produces Passat" | (SAIC explizit) | Bai et al. (2025), Section 2.2 |
+| 1994 Automotive Industry Development Policy | (vollständige Namensnennung) | Bai et al. (2025), Section 2.1 |
 | Holmes: China-Wohlfahrtsgewinn | ~5% | Holmes et al. (2015), Sec. 6 |
 | Howell: "like opium" | He Guangyan zitiert | Howell (2018), p. 1448 |
 | Howell: −11% Drehmoment | JV-Firmen Cannibalization | Howell (2018), p. 1457 |
