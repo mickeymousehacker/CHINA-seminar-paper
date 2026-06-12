@@ -1,5 +1,10 @@
 # Wiki Log — SAIC Motor
 
+## [2026-06-12 00:00] query | What are China's 2009 Phase 2 fuel economy standards?
+- Pages consulted: [[2026-05-27-howell-2018-jv-technology-adoption-backfired]]
+- Coverage: Complete
+- Gaps: none
+
 Append-only chronological record of every wiki operation for `research/wiki/saic-motor/`. Mirrored from `research/wiki/log.md` for all SAIC-related entries.
 
 ## [2026-05-23 00:00] ingest | SAIC Motor Annual Report 2024 (Official Primary Source)
@@ -230,3 +235,17 @@ Append-only chronological record of every wiki operation for `research/wiki/saic
 - Pages consulted: [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]], [[quid-pro-quo-policy]], [[sources/source-rating/source-rating]]
 - Coverage: Complete
 - Gaps: none — Wiki-Seite enthält vollständige quantitative Ergebnisse, Methodik, Patent-Evidence und Automobilpolitik-Details mit Seitenzahlen
+
+## [2026-06-12 00:00] query | What is J.D. Power's Initial Quality Study (IQS)?
+- Pages consulted: [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]], [[index]]
+- Coverage: Partial — IQS appears as a data source in Bai et al. (2025) Notes but has no dedicated entity or concept page; methodology, scoring details, and publication history are not covered
+- Gaps: No dedicated wiki page for J.D. Power IQS; no standalone explanation of survey methodology, defects-per-100-vehicles metric definition, or IQS annual publication history
+
+## [2026-06-12 11:00] lint
+- Report: [[_lint/2026-06-12-1100]]
+- Orphans: 0 | Stubs: 2 ([[jv-instability]] stale, source-rating.md schema-nonconforming)
+- Conflicts: 2 (Bai vs. Howell unresolved; saic-motor EU tariff callout cosmetically stale)
+- Missing xrefs: 11 broken [[slug]] links; top priority: [[general-motors]], [[volkswagen-group]], [[byd-company]], dangling [[2026-05-23-saic-motor-financials-2020-2024]]
+- Unpaged mentions: 8
+- Frontmatter stale: 5 pages; highest risk: [[shanghai-sasac]] 63.27% vs AR2025 63.71%
+- Section 2.1/3.1 targeted flags: entity page stale ownership %; Supervisory Board abolition missing; DeWenter & Malatesta deleted but Quellen-Übersicht.md retains entry; R&D figure discrepancy AR2024 vs AR2025 unflagged; NEV subsidy conflict unresolved

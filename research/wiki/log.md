@@ -1,7 +1,17 @@
 # Wiki Log
 
+## [2026-06-12 00:00] query | What are China's 2009 Phase 2 fuel economy standards?
+- Pages consulted: [[2026-05-27-howell-2018-jv-technology-adoption-backfired]]
+- Coverage: Complete
+- Gaps: none
+
 Append-only chronological record of every wiki operation. Entry prefix is
 `## [YYYY-MM-DD HH:MM] <op> | <title>` so the log stays `grep`-parseable:
+
+## [2026-06-12 00:00] query | what is a quasi-experiment (Howell 2018 context)
+- Pages consulted: [[2026-05-27-howell-2018-jv-technology-adoption-backfired]]
+- Coverage: Complete
+- Gaps: none
 
 ```
 grep "^## \[" research/wiki/log.md | tail -10
