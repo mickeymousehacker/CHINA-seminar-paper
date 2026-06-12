@@ -2,8 +2,8 @@
 title: SAIC Motor Corporation Limited
 type: entity
 created: 2026-05-23
-updated: 2026-05-25
-sources: [2026-05-23-saic-annual-report-2024, 2026-05-23-saic-motor-financials-2020-2024, 2026-05-25-saic-motor-sources-web-research]
+updated: 2026-06-12
+sources: [2026-05-23-saic-annual-report-2024, 2026-05-25-saic-motor-sources-web-research, 2026-06-03-saic-annual-report-2025]
 aliases: [SAIC, 上汽集团, SSE 600104, Shanghai Automotive]
 entity_kind: org
 ---
@@ -23,18 +23,19 @@ By 2024, that model is under severe stress. The collapse of [[saic-gm]] sales (�
 ## Key facts
 
 - **Actual controller**: [[shanghai-sasac]] (Shanghai Municipal Government) [[2026-05-23-saic-annual-report-2024]]
-- **Controlling shareholder**: SAIC Group holds **63.27%** of listed entity [[2026-05-23-saic-annual-report-2024]]
+- **Controlling shareholder**: SAIC Group holds **63.71%** of listed entity [[2026-06-03-saic-annual-report-2025]] (AR2024: 63.27%)
 - **Listed**: Shanghai Stock Exchange, A shares, code 600104
 - **Revenue 2024**: RMB 627.59 billion (−15.73% YoY) [[2026-05-23-saic-annual-report-2024]]
 - **Net profit 2024**: RMB 1.666 billion (−88.19% YoY) [[2026-05-23-saic-annual-report-2024]]
-- **Net profit 2021 peak**: RMB 24.53 billion [[2026-05-23-saic-motor-financials-2020-2024]]
+- **Net profit 2021 peak**: RMB 24.53 billion [[2026-05-23-saic-annual-report-2024]]
 - **Vehicle sales 2024**: 4.013 million units (−20.07% YoY) [[2026-05-23-saic-annual-report-2024]]
 - **NEV sales 2024**: 1.368 million retail (+29.9% YoY) [[2026-05-23-saic-annual-report-2024]]
 - **Overseas sales 2024**: 1.082 million (+2.6% YoY) [[2026-05-23-saic-annual-report-2024]]
-- **EU anti-subsidy tariff (final)**: 35.3% countervailing duty under EU Reg. 2024/2754 (effective 30 Oct 2024) + 10% MFN = 45.3% total — highest among sampled Chinese OEMs (BYD 17.0%, Geely 18.8%) [[2026-05-25-saic-motor-sources-web-research]]
-
-> ⚠️ Conflict: [[2026-05-23-saic-annual-report-2024]] cites 36.3%, which was the revised provisional rate (August 2024). [[2026-05-25-saic-motor-sources-web-research]] confirms the final definitive rate under Implementing Regulation (EU) 2024/2754 is **35.3%**. Use 35.3% for all citations. Resolved.
+- **EU anti-subsidy tariff (final)**: 35.3% countervailing duty under EU Reg. 2024/2754 (effective 30 Oct 2024) — highest among sampled Chinese OEMs (BYD 17.0%, Geely 18.8%) [[2026-06-03-eu-regulation-2024-2754-bev-tariffs]]
 - **R&D (incl. JVs) 2024**: RMB 35.16 billion (+7.32% YoY) [[2026-05-23-saic-annual-report-2024]]
+- **R&D (incl. JVs) 2025**: RMB 33.58 billion (−4.5% YoY) [[2026-06-03-saic-annual-report-2025]]
+
+> ⚠️ Conflict: R&D total declined from RMB 35.16bn (AR2024) to RMB 33.58bn (AR2025). Possible methodology change in scope of "total R&D incl. JVs." Unresolved — verify before citing trend.
 - **Cumulative EV/intelligence investment**: >RMB 150 billion [[2026-05-23-saic-annual-report-2024]]
 - **Patents**: ~26,000 valid patents [[2026-05-23-saic-annual-report-2024]]
 - **Auditor**: PricewaterhouseCoopers Zhong Tian LLP (unqualified opinion) [[2026-05-23-saic-annual-report-2024]]
@@ -42,7 +43,7 @@ By 2024, that model is under severe stress. The collapse of [[saic-gm]] sales (�
 ## Governance structure (four comparison dimensions)
 
 ### 1. Governance
-SAIC is controlled by Shanghai SASAC through a two-tier structure: SASAC → SAIC Group → SAIC Motor (listed). The state holds effective veto power over all strategic decisions. JVs are governed by 50/50 boards, but SAIC as SOE benefits from regulatory advantages and political backing in China. The board of SAIC Motor is dominated by state appointees. [[2026-05-23-saic-annual-report-2024]]
+SAIC is controlled by Shanghai SASAC through a two-tier structure: SASAC → SAIC Group → SAIC Motor (listed). The state holds effective veto power over all strategic decisions. JVs are governed by 50/50 boards, but SAIC as SOE benefits from regulatory advantages and political backing in China. The board of SAIC Motor is dominated by state appointees. The CCP mandate is formally codified: SAIC's 2025 Annual Report explicitly states the firm operates under the "two consistencies" principle — "consistent for an important political principle of adhering to the Party's leadership over SOEs" (SAIC Motor, 2026, p. 35). In 2025, the Board of Supervisors was abolished under China's revised Company Law; oversight functions transferred to a strengthened Audit Committee. [[2026-06-03-saic-annual-report-2025]]
 
 ### 2. Financing
 SAIC's historical model was capital-light from a manufacturing perspective: JV partners (VW, GM) co-invested in factories and product development. SAIC collected equity income without bearing sole capital risk. This changed as JVs became loss-making: SAIC now bears 50% of impairment losses (SAIC-GM impairment wiped >RMB 30 billion in 2024). [[2026-05-23-saic-annual-report-2024]]

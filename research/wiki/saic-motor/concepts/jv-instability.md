@@ -2,8 +2,8 @@
 title: Joint Venture Instability
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
-sources: [2026-05-25-saic-motor-sources-web-research]
+updated: 2026-06-12
+sources: [2026-05-25-saic-motor-sources-web-research, 2026-06-03-inkpen-beamish-1997-jv-instability-amr]
 aliases: [IJV instability, JV dissolution, international joint venture instability]
 ---
 
@@ -15,9 +15,9 @@ aliases: [IJV instability, JV dissolution, international joint venture instabili
 
 Inkpen and Beamish (AMR 1997) provide the foundational theory: IJV instability arises when one partner acquires sufficient knowledge and skills to eliminate its dependency on the other, making the JV bargain obsolete. The JV is likely to break up if the learning effect (inter-partner knowledge acquisition) is stronger than the synergy effect (ongoing complementarity). [[2026-05-25-saic-motor-sources-web-research]]
 
-Applied to China's [[quid-pro-quo-policy]] JVs, the theory predicts a natural lifecycle: the domestic Chinese partner enters the JV dependent on the foreign OEM's technology and management know-how. Over time, through worker flows and supplier network integration ([[bai-et-al-2025|Bai et al. AER 2025]]), Chinese OEM capabilities improve. Once the knowledge gap closes, the strategic rationale for maintaining a 50/50 JV weakens — and is further undermined by the 2022 removal of the regulatory mandate that required JV formation in the first place.
+Applied to China's [[quid-pro-quo-policy]] JVs, the theory predicts a natural lifecycle: the domestic Chinese partner enters the JV dependent on the foreign OEM's technology and management know-how. Over time, through worker flows and supplier network integration ([[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer|Bai et al. AER 2025]]), Chinese OEM capabilities improve. Once the knowledge gap closes, the strategic rationale for maintaining a 50/50 JV weakens — and is further undermined by the 2022 removal of the regulatory mandate that required JV formation in the first place.
 
-For [[saic-motor]], this lifecycle is complicated by two factors. First, the JVs generated enormous cash flow for decades — the "synergy effect" was financial as much as technological, so SAIC had weak incentive to rock the boat. Second, [[howell-2018|Howell (2018)'s]] cannibalization effect suggests SAIC's own capability building was suppressed by JV rents, potentially leaving SAIC less capable of autonomous EV development than it would have been had it never entered JVs.
+For [[saic-motor]], this lifecycle is complicated by two factors. First, the JVs generated enormous cash flow for decades — the "synergy effect" was financial as much as technological, so SAIC had weak incentive to rock the boat. Second, [[2026-05-27-howell-2018-jv-technology-adoption-backfired|Howell (2018)'s]] cannibalization effect suggests SAIC's own capability building was suppressed by JV rents, potentially leaving SAIC less capable of autonomous EV development than it would have been had it never entered JVs.
 
 The outcome for SAIC-GM is already visible: sales collapsed −56.54% in 2024, producing massive impairment charges. The SAIC-VW JV outcome is more ambiguous: it was extended to 2040 with a new China-specific EV platform. This could represent genuine renewed complementarity (Chinese-led platform development needs VW's brand and dealer network) or an attempt to avoid dissolution costs. [[2026-05-25-saic-motor-sources-web-research]]
 

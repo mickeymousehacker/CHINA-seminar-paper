@@ -319,3 +319,19 @@ Valid `<op>` values: `ingest`, `query`, `lint`, `resolve`, `refactor`.
 - Pages consulted: [[2026-05-27-holmes-mcgrattan-prescott-2015-quid-pro-quo-res]], [[quid-pro-quo-policy]], [[saic-motor/sources/source-rating/source-rating]]
 - Coverage: Complete
 - Gaps: none — Wiki-Seite enthält vollständige quantitative Ergebnisse, Methodik, Patent-Evidence und Automobilpolitik-Details mit Seitenzahlen
+
+## [2026-06-12 00:00] query | What is J.D. Power's Initial Quality Study (IQS)?
+- Pages consulted: [[2026-06-03-bai-barwick-cao-li-2025-quid-pro-quo-aer]], [[saic-motor/index]]
+- Coverage: Partial — IQS appears as a data source in Bai et al. (2025) Notes but has no dedicated entity or concept page; methodology, scoring details, and publication history are not covered
+- Gaps: No dedicated wiki page for J.D. Power IQS; no standalone explanation of survey methodology, defects-per-100-vehicles metric definition, or IQS annual publication history
+
+## [2026-06-12 11:00] lint
+- Report: [[_lint/2026-06-12-1100]]
+- Scope: research/wiki/saic-motor/ (full) + global index/log cross-check
+- Orphans: 0 high-severity | Stubs: 2 ([[jv-instability]], source-rating.md)
+- Conflicts: 2 (1 active: Bai vs. Howell; 1 cosmetic: saic-motor EU tariff callout marked "Resolved" but still present)
+- Missing xrefs (broken [[slug]] links): 11 (top: [[general-motors]], [[volkswagen-group]], [[byd-company]], [[china-ev-price-war]], dangling [[2026-05-23-saic-motor-financials-2020-2024]])
+- Unpaged mentions: 8 slugs with no page on disk
+- Index drift: global index not updated since 2026-05-25 (expected given sub-wiki architecture); 0 dangling in local index
+- Frontmatter stale: 5 pages (highest risk: [[shanghai-sasac]] 63.27% vs AR2025 63.71%; R&D figure discrepancy AR2024 vs AR2025 not flagged)
+- Section 2.1/3.1 risks flagged: saic-motor entity page stale ownership %, Supervisory Board abolition not captured, DeWenter & Malatesta deleted but still in Quellen-Übersicht.md, NEV subsidy conflict unresolved

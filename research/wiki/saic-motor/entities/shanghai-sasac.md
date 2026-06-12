@@ -2,7 +2,7 @@
 title: Shanghai SASAC
 type: entity
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-06-12
 sources: [2026-05-23-saic-annual-report-2024]
 aliases: [上海市国资委, Shanghai State-owned Assets Supervision and Administration Commission]
 entity_kind: org
@@ -16,13 +16,13 @@ entity_kind: org
 
 Shanghai SASAC (Shanghai State-owned Assets Supervision and Administration Commission, 上海市国资委) is the asset management arm of the Municipal Government of Shanghai. It supervises and manages state-owned assets held by Shanghai-linked enterprises, appointing key management and exercising veto rights over major strategic decisions.
 
-In the [[saic-motor]] ownership chain, Shanghai SASAC sits at the top: Shanghai SASAC → Shanghai Automotive Industry (Group) Co., Ltd. (SAIC Group) → SAIC Motor Corporation Limited (listed, SSE: 600104). SAIC Group holds 63.27% of the listed entity, giving Shanghai SASAC effective control over China's largest automotive group by revenue. [[2026-05-23-saic-annual-report-2024]]
+In the [[saic-motor]] ownership chain, Shanghai SASAC sits at the top: Shanghai SASAC → Shanghai Automotive Industry (Group) Co., Ltd. (SAIC Group) → SAIC Motor Corporation Limited (listed, SSE: 600104). SAIC Group holds **63.71%** of the listed entity (AR2025; AR2024: 63.27%), giving Shanghai SASAC effective control over China's largest automotive group by revenue. [[2026-06-03-saic-annual-report-2025]]
 
 ## Key facts
 
 - **Type**: Municipal-level SASAC (one of China's most powerful city-level SASAC bodies)
 - **Parent**: Municipal Government of Shanghai
-- **Control over SAIC Motor**: Indirect, via SAIC Group (63.27% stake in listed entity) [[2026-05-23-saic-annual-report-2024]]
+- **Control over SAIC Motor**: Indirect, via SAIC Group (**63.71%** stake in listed entity, AR2025) [[2026-06-03-saic-annual-report-2025]]
 - **Role**: Appoints board members, approves major strategic decisions, sets remuneration policy
 
 ## Governance implications
