@@ -2,7 +2,7 @@
 title: "The Dynamics of Competition in the Chinese Electric Vehicle Market: Insights from BYD's Market Evolution"
 type: source
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-19
 sources: []
 origin: https://www.sciencedirect.com/science/article/pii/S0167718726000093
 author: Yiran Hao, Yu Hao
@@ -11,6 +11,9 @@ aliases: [Hao & Hao 2026]
 journal: International Journal of Industrial Organization, Vol. 105, Article 103256
 doi: https://doi.org/10.1016/j.ijindorg.2026.103256
 input_file: research/wiki/byd/input/pdf/hao hao.pdf
+ssrn_preprint: https://doi.org/10.2139/ssrn.5369927
+ssrn_pdf: research/wiki/byd/input/pdf/ssrn-5369927.pdf
+ssrn_posted: 2025-07-29
 ---
 
 # The Dynamics of Competition in the Chinese Electric Vehicle Market: Insights from BYD's Market Evolution (Hao & Hao 2026)
@@ -66,3 +69,5 @@ Direkte empirische Evidenz für zwei Seminararbeit-Dimensionen: (1) **Capability
 ## Notes
 
 International Journal of Industrial Organization (IJIO), Elsevier. JEL: L11, L62, D43. Datenbasis: ~2,87 Mio. Transaktionen aus Kfz-Zulassungsregister Xi'an 2006–2020. Methode: Nested Logit Structural Demand Model + Sequential Counterfactual Decomposition. PDF: `research/wiki/byd/input/pdf/hao hao.pdf` (30 Seiten).
+
+**SSRN-Preprint (2026-06-19 identifiziert):** Die Datei `research/wiki/byd/input/pdf/ssrn-5369927.pdf` ist das SSRN-Preprint dieser Arbeit (posted 2025-07-29, DOI: 10.2139/ssrn.5369927). Es wurde auf CrossRef als separater Eintrag indexiert, ist aber inhaltlich identisch mit der publizierten IJIO-Version. Kein separates Wiki-Eintrag wurde erstellt — diese Seite deckt beide Versionen ab.
