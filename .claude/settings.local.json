@@ -12,7 +12,9 @@
       "Bash(uv --version)",
       "Bash(git stash *)",
       "Bash(git pull *)",
-      "Bash(cmd.exe /c start \"\" \"research\\\\paper\\\\Struktur\\\\Seminararbeit-Struktur.md\")"
+      "Bash(cmd.exe /c start \"\" \"research\\\\paper\\\\Struktur\\\\Seminararbeit-Struktur.md\")",
+      "Bash(uv run *)",
+      "Bash(python *)"
     ]
   },
   "enabledMcpjsonServers": [

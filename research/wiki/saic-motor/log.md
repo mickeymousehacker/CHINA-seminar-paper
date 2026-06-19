@@ -5,6 +5,11 @@
 - Coverage: Complete
 - Gaps: none
 
+## [2026-06-14 00:00] query | What is a "two-tier state ownership structure" in the context of SAIC Motor?
+- Pages consulted: [[shanghai-sasac]], [[saic-motor]], [[state-owned-enterprise]]
+- Coverage: Complete
+- Gaps: none
+
 Append-only chronological record of every wiki operation for `research/wiki/saic-motor/`. Mirrored from `research/wiki/log.md` for all SAIC-related entries.
 
 ## [2026-05-23 00:00] ingest | SAIC Motor Annual Report 2024 (Official Primary Source)
