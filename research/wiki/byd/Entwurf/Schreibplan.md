@@ -1,328 +1,315 @@
-# Schreibplan — China Strategies in the Automotive Industry
+# Writing Plan — China Strategies in the Automotive Industry
 
 ---
 
-## 1. Introduction (~1,5 Seiten)
+## 1. Introduction (~1.5 pages)
 
 ### 1.1 Research Question & Motivation
 
-[Text hier einfügen]
+[Insert text here]
 
-### 1.2 Kurzportrait der drei Modelle
+### 1.2 Brief Portrait of the Three Models
 
-**BYD — Vertikal integriertes Modell**
+**BYD — Vertically Integrated Model**
 
-BYD (*Build Your Dreams*, gegr. 1995) steht für das vertikal integrierte Modell in der
-chinesischen Automobilindustrie: Das Unternehmen kontrolliert nahezu die gesamte
-Wertschöpfungskette intern — von der Batterie- und Halbleiterfertigung über Antriebssysteme
-bis hin zur Fahrzeugelektronik und Software — und bezieht rund 70–80 % seiner Kernkomponenten
-aus eigenen Tochtergesellschaften (He et al. 2025; Wang, Zhao & Ruet 2022). Ausgehend von
-seinen Ursprüngen als Batteriehersteller hat BYD diese Fertigungstiefe organisch aufgebaut
-und damit eine Kostenstruktur und Versorgungssicherheit erreicht, die strukturell schwer zu
-replizieren ist (Harrigan 1985).
+BYD (*Build Your Dreams*, founded 1995) represents the vertically integrated model in the
+Chinese automotive industry: the company controls nearly the entire value chain internally —
+from battery and semiconductor manufacturing through drivetrain systems to vehicle electronics
+and software — sourcing approximately 70–80% of its core components from its own subsidiaries
+(He et al. 2025; Wang, Zhao & Ruet 2022). Starting from its origins as a battery manufacturer,
+BYD built this manufacturing depth organically, thereby achieving a cost structure and supply
+security that is structurally difficult to replicate (Harrigan 1985).
 
 `[[vertical-integration]]` · `[[2026-06-03-he-2025-byd-vi-strategy-ajmss]]` ·
 `[[2026-06-03-wang-zhao-ruet-2022-specialised-vi-ijatm]]` ·
 `[[2026-06-03-harrigan-1985-vertical-integration-amj]]`
 
-### 1.3 Methodik & Aufbau
+### 1.3 Methodology & Structure
 
-[Text hier einfügen]
+[Insert text here]
 
 ---
 
-## 2. Governance (~4 Seiten)
+## 2. Governance (~4 pages)
 
-*Leitfrage: Wer kontrolliert das Unternehmen — und welche Konsequenzen hat das für
-strategische Entscheidungsgeschwindigkeit und Zielfunktion?*
+*Guiding question: Who controls the company — and what are the consequences for strategic
+decision-making speed and objective function?*
 
 ### 2.1 SAIC Motor: State-owned JV Governance
 
-[Text hier einfügen]
+[Insert text here]
 
 ### 2.2 BYD: Founder-led Private Governance
 
-BYD wird von seinem Gründer Wang Chuanfu kontrolliert, der seit der Unternehmensgründung
-1995 gleichzeitig als Chairman und CEO fungiert und rund 17 % der Aktien direkt hält
-(BYD Annual Report 2024). Zusammen mit Mitgründer Lu Xiangyang, der über Youngy Investment
-rund 5,1 % hält und als Non-Executive Director im Board sitzt, verfügt das Gründerteam
-über mehr als ein Drittel der Stimmrechte bei einer One-share-one-vote-Struktur
-(BYD Annual Report 2024). Weitere bedeutende Aktionäre — darunter Berkshire Hathaway und
-BlackRock mit rund 3,0 % — haben keine operative Entscheidungsgewalt und sind im Board
-nicht vertreten. Das Unternehmen ist privatwirtschaftlich organisiert; staatliche Subventionen
-beliefen sich 2024 auf RMB 10,4 Mrd., begründen jedoch keine Kontrollbefugnisse
-(BYD Annual Report 2024). Ein Parteikomitee mit strategischer Weisungsbefugnis — wie es
-bei staatsnahen Unternehmen strukturell verankert ist — existiert auf operativer Ebene nicht.
-Anders als SAIC Motor, das seine Marktposition historisch auf staatlich verordneten Joint
-Ventures mit westlichen OEMs aufbaute, entstand BYD als unabhängiger Privathersteller
-ohne JV-Abhängigkeit — eine strukturelle Freiheit, die sein Governance-Modell von Beginn
-an prägte (Yuan & Brasó Broggi 2025).
+BYD is controlled by its founder Wang Chuanfu, who has served simultaneously as Chairman and
+CEO since the company's founding in 1995 and directly holds approximately 17% of shares
+(BYD Annual Report 2024). Together with co-founder Lu Xiangyang, who holds around 5.1% through
+Youngy Investment and serves as Non-Executive Director on the board, the founding team commands
+more than one third of voting rights under a one-share-one-vote structure
+(BYD Annual Report 2024). Other significant shareholders — including Berkshire Hathaway and
+BlackRock with approximately 3.0% each — have no operational decision-making authority and are
+not represented on the board. The company is privately organised; state subsidies amounted to
+RMB 10.4 billion in 2024 but confer no control rights (BYD Annual Report 2024). A party
+committee with strategic directive authority — as structurally embedded in state-affiliated
+enterprises — does not exist at the operational level. Unlike SAIC Motor, which historically
+built its market position on state-mandated joint ventures with Western OEMs, BYD emerged as
+an independent private manufacturer without JV dependency — a structural freedom that shaped
+its governance model from the outset (Yuan & Brasó Broggi 2025).
 
-Diese Governance-Struktur hat unmittelbare Konsequenzen für die Entscheidungsgeschwindigkeit.
-Wang Chuanfu bezeichnete einen „schnellen Entscheidungsmechanismus" explizit als einen der
-drei zentralen Wettbewerbsvorteile von BYD neben Kerntechnologie und strategischer Ausrichtung
-(Wang Chuanfu, zit. n. He 2025). Strategische Weichenstellungen — der vollständige Ausstieg
-aus der Verbrennungsmotorenproduktion 2022, der frühe Einstieg in die Halbleiterfertigung
-über BYD Semiconductor sowie die formale Ausgliederung der FinDreams-Gruppe 2020 — wurden
-ohne Konsensprozesse mit externen Gesellschaftern oder politischen Instanzen umgesetzt
-(BYD Annual Report 2024; He 2025). Zhang et al. (2025) belegen diesen Mechanismus empirisch: Gründerkontrolle in chinesischen
-High-Tech-Firmen fördert Durchbruchsinnovation, weil sie kurzfristigen Kapitalmarktdruck
-abschirmt und technische Expertise mit Entscheidungsgewalt bündelt. Wang Chuanfus Hintergrund
-als ausgebildeter Chemiker entspricht dabei dem im Paper identifizierten Idealtypus des
-Gründer-Technikers (Zhang et al. 2025).
+This governance structure has direct consequences for decision-making speed. Wang Chuanfu
+explicitly identified a "fast decision-making mechanism" as one of BYD's three central
+competitive advantages alongside core technology and strategic direction
+(Wang Chuanfu, cited in He 2025). Strategic decisions — the complete exit from combustion
+engine production in 2022, the early entry into semiconductor manufacturing through BYD
+Semiconductor, and the formal spin-off of the FinDreams Group in 2020 — were implemented
+without consensus processes involving external shareholders or political authorities
+(BYD Annual Report 2024; He 2025). Zhang et al. (2025) provide empirical support for this
+mechanism: founder control in Chinese high-tech firms promotes breakthrough innovation because
+it shields against short-term capital market pressure and concentrates technical expertise with
+decision-making authority. Wang Chuanfu's background as a trained chemist corresponds to the
+ideal type of founder-technologist identified in the paper (Zhang et al. 2025).
 
-Ein wesentlicher Vorteil ergibt sich aus dieser Eigentumsstruktur: Weil Wang Chuanfu die
-Kontrolle hält und kein breiter Aktionärskreis kurzfristige Gewinnausschüttungen einfordert,
-kann BYD konsequent in langfristige Projekte reinvestieren — eine Disziplin, die unter
-streubesitzdominierten Strukturen mit Quartalsergebnisdruck kaum aufrechtzuerhalten wäre. In 13 von 14 Jahren zwischen
-2011 und 2024 überstiegen BYDs F&E-Ausgaben den Jahresnettogewinn (He 2025); allein 2024
-wurden RMB 54,2 Mrd. in Forschung und Entwicklung investiert — ein Anstieg von 35,7 %
-gegenüber dem Vorjahr — obwohl der Nettogewinn im selben Jahr RMB 40,3 Mrd. betrug
-(BYD Annual Report 2024). Xia (2008) zeigt anhand von 229 chinesischen Börsenunternehmen, dass Investoren
-gründergeführten Firmen mehr Vertrauen entgegenbringen als managerkontrollierten: Der
-Kapitalmarkt bewertet Gründerkontrolle als Signal für verlässliche Unternehmensführung
-und honoriert dies mit einer höheren Marktbewertung (Xia 2008). Xu & Wang (1999) ergänzen
-diesen Befund auf institutioneller Ebene: In einer Analyse chinesischer Börsenunternehmen
-zeigen sie, dass Eigentumskonzentration positiv mit Profitabilität korreliert, während
-staatliche Anteile neutral bis negativ wirken. BYDs gründerkontrollierte, staatsfreie
-Eigentumsstruktur entspricht damit dem empirisch überlegenen Governance-Typus (Xu & Wang 1999).
+A key advantage arises from this ownership structure: because Wang Chuanfu retains control and
+no broad shareholder base demands short-term profit distributions, BYD can consistently
+reinvest in long-term projects — a discipline that would be difficult to sustain under
+dispersed ownership with quarterly earnings pressure. In 13 of 14 years between 2011 and 2024,
+BYD's R&D expenditures exceeded annual net profit (He 2025); in 2024 alone, RMB 54.2 billion
+was invested in research and development — an increase of 35.7% year-on-year — even though net
+profit in the same year amounted to RMB 40.3 billion (BYD Annual Report 2024). Xia (2008)
+shows, based on 229 Chinese listed companies, that investors place greater trust in
+founder-controlled firms than manager-controlled ones: the capital market treats founder control
+as a signal of reliable corporate governance and rewards it with a higher market valuation
+(Xia 2008). Xu & Wang (1999) complement this finding at the institutional level: in an analysis
+of Chinese listed companies, they show that ownership concentration correlates positively with
+profitability, while state ownership has a neutral to negative effect. BYD's founder-controlled,
+state-free ownership structure thus corresponds to the empirically superior governance type
+(Xu & Wang 1999).
 
-**Quellen:**
+**Sources:**
 
-| Quelle | Zugang |
+| Source | Access |
 |---|---|
-| BYD Company Limited — Annual Report 2024 (HKEx, geprüft durch Ernst & Young) | Lokal: `wiki/byd/input/pdf/byd annual report 2024.pdf` · Online: [hkexnews.hk](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0829/2025082902216.pdf) |
+| BYD Company Limited — Annual Report 2024 (HKEx, audited by Ernst & Young) | Local: `wiki/byd/input/pdf/byd annual report 2024.pdf` · Online: [hkexnews.hk](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0829/2025082902216.pdf) |
 | He, C. (2025): *The Motivation and Economic Consequences of BYD's Vertical Integration Strategy.* AJMSS 13(3), 221–227 | DOI: [10.54097/jjqx1v32](https://doi.org/10.54097/jjqx1v32) · Online: [drpress.org](https://drpress.org/ojs/index.php/ajmss/article/view/32614) |
-| Zhang, Z.-Q. et al. (2025): *Founder Control and Breakthrough Innovation.* China Economic Review, Vol. 94, Art. 102572 | DOI: [10.1016/j.chieco.2025.102572](https://doi.org/10.1016/j.chieco.2025.102572) · Preprint: [SSRN 5222994](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222994) · Lokal: `wiki/byd/input/pdf/zhang.pdf` |
-| Xia, L. (2008): *Founder Control, Ownership Structure and Firm Value.* CJAR, Vol. 1, S. 31–49 | PDF: [cityu.edu.hk](https://www.cb.cityu.edu.hk/research/cjar/doc/200806/01_03-Founder%20Control.pdf) |
+| Zhang, Z.-Q. et al. (2025): *Founder Control and Breakthrough Innovation.* China Economic Review, Vol. 94, Art. 102572 | DOI: [10.1016/j.chieco.2025.102572](https://doi.org/10.1016/j.chieco.2025.102572) · Preprint: [SSRN 5222994](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222994) · Local: `wiki/byd/input/pdf/zhang.pdf` |
+| Xia, L. (2008): *Founder Control, Ownership Structure and Firm Value.* CJAR, Vol. 1, pp. 31–49 | PDF: [cityu.edu.hk](https://www.cb.cityu.edu.hk/research/cjar/doc/200806/01_03-Founder%20Control.pdf) |
 | Wang, X.; Zhao, W.; Ruet, J. (2022): *Specialised Vertical Integration.* IJATM 22(2), 178–201 | Online: [inderscienceonline.com](https://www.inderscienceonline.com/doi/abs/10.1504/IJATM.2022.124377) |
-| Gesellschaftsgesetz der VR China (2018), Art. 19 | Online: [npc.gov.cn](http://www.npc.gov.cn/englishnpc/c23934/201912/f627aa3a4651475db936899d69419d1e.shtml) |
+| Company Law of the PRC (2018), Art. 19 | Online: [npc.gov.cn](http://www.npc.gov.cn/englishnpc/c23934/201912/f627aa3a4651475db936899d69419d1e.shtml) |
 
 ### 2.3 Geely: M&A-driven Private Governance
 
-[Text hier einfügen]
+[Insert text here]
 
-### 2.4 Vergleichssynthese
+### 2.4 Comparative Synthesis
 
-| | SAIC (SOE/JV) | BYD (privat/vertikal) | Geely (privat/M&A) |
+| | SAIC (SOE/JV) | BYD (private/vertical) | Geely (private/M&A) |
 |---|---|---|---|
-| Ultimativer Kontrolleur | Shanghai SASAC | Wang Chuanfu | Li Shufu |
-| Entscheidungsgeschwindigkeit | Niedrig | Hoch | Mittel |
-| Politischer Einfluss | Hoch | Gering | Gering |
-| Zielfunktion | Politisch + kommerziell | Kommerziell | Kommerziell |
+| Ultimate controller | Shanghai SASAC | Wang Chuanfu | Li Shufu |
+| Decision-making speed | Low | High | Medium |
+| Political influence | High | Low | Low |
+| Objective function | Political + commercial | Commercial | Commercial |
 
-[Synthesetext hier einfügen]
+[Insert synthesis text here]
 
 ---
 
-## 3. Financing (~4 Seiten)
+## 3. Financing (~4 pages)
 
-*Leitfrage: Wer trägt welches Kapitalrisiko — und zu welchen Kosten?*
+*Guiding question: Who bears which capital risk — and at what cost?*
 
 ### 3.1 SAIC Motor: JV Capital Model
 
-[Text hier einfügen]
+[Insert text here]
 
 ### 3.2 BYD: Vertical Integration Financing
 
-BYDs Finanzierungsmodell unterscheidet sich grundlegend von fremdkapitalintensiven
-Wachstumsstrategien: Das Unternehmen finanziert seine Expansion primär aus dem laufenden
-Geschäftsbetrieb. Im Geschäftsjahr 2024 erwirtschaftete BYD einen operativen Cash Flow
-von RMB 133,5 Mrd. bei einem Umsatz von RMB 777,1 Mrd. (+29 % gegenüber Vorjahr) und
-einem Nettogewinn von RMB 40,25 Mrd. (+34 %) (BYD Annual Report 2024). Die Kassenreserven
-lagen zum Jahresende bei RMB 154,9 Mrd., während die verzinslichen Verbindlichkeiten auf
-RMB 28,58 Mrd. zurückgingen — entsprechend lediglich 4,9 % der Gesamtverbindlichkeiten
-(BYD Annual Report 2024). Ergänzt wird die Innenfinanzierung durch staatliche Subventionen,
-die sich 2024 auf RMB 10,41 Mrd. beliefen und damit rund 26 % des Jahresnettogewinns
-entsprechen (BYD Annual Report 2024).
+BYD's financing model differs fundamentally from debt-intensive growth strategies: the company
+funds its expansion primarily from ongoing operations. In fiscal year 2024, BYD generated
+operating cash flow of RMB 133.5 billion on revenues of RMB 777.1 billion (+29% year-on-year)
+and net profit of RMB 40.25 billion (+34%) (BYD Annual Report 2024). Cash reserves stood at
+RMB 154.9 billion at year-end, while interest-bearing liabilities declined to RMB 28.58
+billion — representing only 4.9% of total liabilities (BYD Annual Report 2024). Internal
+financing is supplemented by state subsidies, which amounted to RMB 10.41 billion in 2024,
+equivalent to approximately 26% of annual net profit (BYD Annual Report 2024).
 
-Der zentrale Vorteil dieses Modells liegt in der Unabhängigkeit vom Kapitalmarkt. Da BYD
-seine Investitionen nicht durch Fremdkapitalgeber oder Aktienemissionen finanzieren muss,
-entfällt der Druck, kurzfristig rentable Projekte gegenüber langfristigen Forschungsvorhaben
-zu priorisieren. Allein 2024 überstiegen die F&E-Ausgaben von RMB 54,2 Mrd. den
-Jahresnettogewinn von RMB 40,25 Mrd. — ein strukturelles Reinvestitionsmuster, das in
-einem disperseren Aktionärskreis kaum aufrechtzuerhalten wäre (BYD Annual Report 2024).
-Hinzu kommt eine strukturelle Margenstärke: Die Bruttomarge stieg 2024 auf einen Rekordwert
-von 19,4 % — trotz intensivem Preiswettbewerb im chinesischen Automobilmarkt
-(BYD Annual Report 2024). Wu (2025) bestätigt diesen Zusammenhang empirisch: Eine Analyse
-von BYDs Jahresabschlüssen zeigt, dass vertikale Integration direkt zu Kostensenkungen,
-Margenverbesserungen und gesteigerter Forschungskapazität führt. Vertikale Integration
-reduziert die Abhängigkeit von externen Zulieferern und schützt damit die Cash-Flow-Basis,
-aus der die Investitionen gespeist werden. Der niedrige Verschuldungsgrad
-verleiht dem Unternehmen zudem finanzielle Resilienz, da keine nennenswerten Zinszahlungen
-die Liquidität belasten.
+The central advantage of this model lies in independence from capital markets. Since BYD does
+not need to finance its investments through external debt or equity issuances, there is no
+pressure to prioritise short-term profitable projects over long-term research initiatives. In
+2024 alone, R&D expenditures of RMB 54.2 billion exceeded annual net profit of RMB 40.25
+billion — a structural reinvestment pattern that would be difficult to sustain under dispersed
+ownership with quarterly earnings pressure (BYD Annual Report 2024). A further structural
+strength is margin resilience: gross margin rose to a record 19.4% in 2024 — despite intense
+price competition in the Chinese automotive market (BYD Annual Report 2024). Wu (2025)
+confirms this relationship empirically: an analysis of BYD's financial statements shows that
+vertical integration directly reduces costs, improves margins, and increases research capacity.
+Vertical integration reduces dependence on external suppliers, thereby protecting the cash flow
+base from which investments are funded. The low leverage ratio additionally confers financial
+resilience, as no significant interest payments weigh on liquidity.
 
-Das Modell weist jedoch strukturelle Grenzen auf. Erstens ist die Wachstumsgeschwindigkeit
-an die intern generierbare Liquidität gebunden. In der frühen Wachstumsphase war BYD auf
-externes Kapital angewiesen: 2008 investierte Berkshire Hathaway 230 Mio. USD für einen
-damaligen Anteil von rund 10 %, was BYD den Zugang zu internationalem Kapital und Reputation
-verschaffte (BYD Annual Report 2024). Zweitens birgt die Subventionsabhängigkeit ein
-politisches Risiko: Staatliche Förderungen belaufen sich aktuell auf rund ein Viertel des
-Nettogewinns und sind an die Fortsetzung der chinesischen Industriepolitik geknüpft. Eine
-Kürzung oder ein Wegfall dieser Mittel würde die Investitionskapazität unmittelbar
-einschränken. Zu relativieren ist dieses Risiko jedoch: Jiang & Xu (2023) zeigen anhand
-von 196 chinesischen NEV-Unternehmen, dass staatliche Subventionen primär die Quantität
-von Innovationen steigern, nicht deren Qualität — BYDs strukturelle Innovationstiefe,
-getragen durch vertikale Integration und eigene F&E-Kapazitäten, bliebe bei einem
-Subventionsrückgang im Kern erhalten. Drittens setzt ein auf Cash Flow basiertes Modell voraus, dass die operative
-Profitabilität stabil bleibt. Angesichts des anhaltenden Preisdrucks im chinesischen Markt
-zeigen sich bereits Belastungen: Im dritten Quartal 2024 sank der Quartalsgewinn um 33 %
-gegenüber dem Vorjahresquartal (CNBC 2025). Sollte sich der Margendruck strukturell
-verfestigen, gerät auch die Fähigkeit zur Selbstfinanzierung unter Druck.
+However, the model has structural limits. First, growth speed is constrained by internally
+generated liquidity. In the early growth phase, BYD depended on external capital: in 2008,
+Berkshire Hathaway invested USD 230 million for what was then approximately a 10% stake,
+providing BYD with access to international capital and reputation (BYD Annual Report 2024).
+Second, subsidy dependence carries political risk: state subsidies currently amount to
+approximately one quarter of net profit and are tied to the continuation of Chinese industrial
+policy. A reduction or elimination of these funds would immediately constrain investment
+capacity. This risk should be qualified, however: Jiang & Xu (2023) show, based on 196 Chinese
+NEV companies, that state subsidies primarily increase the quantity of innovations rather than
+their quality — BYD's structural innovation depth, sustained by vertical integration and
+proprietary R&D capabilities, would remain largely intact in the event of a subsidy reduction.
+Third, a cash-flow-based model requires stable operational profitability. Given ongoing price
+pressure in the Chinese market, signs of strain are already visible: in the third quarter of
+2024, quarterly profit declined 33% year-on-year (CNBC 2025). Should margin pressure become
+structurally entrenched, the capacity for self-financing would come under strain as well.
 
 ### 3.3 Geely: Acquisition Financing
 
-[Text hier einfügen]
+[Insert text here]
 
-### 3.4 Vergleichssynthese
+### 3.4 Comparative Synthesis
 
-| Kennzahl | SAIC | BYD | Geely |
+| Metric | SAIC | BYD | Geely |
 |---|---|---|---|
-| Hauptkapitalquelle | JV-Equity-Income (historisch) | Intern + Subventionen | Fremdkapital |
-| Risikoträger | 50/50 mit JV-Partner | Eigenkapital | Fremdkapitalgeber |
-| ROE 2024 / 2025 | 0,58% / 3,43% | ~22% | — |
-| EU-Zoll (Subventionsproxy) | 35,3% | 17,0% | 18,8% |
+| Primary capital source | JV equity income (historical) | Internal + subsidies | Debt |
+| Risk bearer | 50/50 with JV partner | Equity | Debt providers |
+| ROE 2024 / 2025 | 0.58% / 3.43% | ~22% | — |
+| EU tariff (subsidy proxy) | 35.3% | 17.0% | 18.8% |
 
-[Synthesetext hier einfügen]
+[Insert synthesis text here]
 
 ---
 
-## 4. Capability Building (~4 Seiten)
+## 4. Capability Building (~4 pages)
 
-*Leitfrage: Wie wurden technologische Kernkompetenzen aufgebaut — und reichen sie für die EV-Ära?*
+*Guiding question: How were technological core competencies built — and are they sufficient for
+the EV era?*
 
 ### 4.1 SAIC Motor: JV-based Technology Transfer
 
-[Text hier einfügen]
+[Insert text here]
 
 ### 4.2 BYD: Internal Build
 
-BYDs Kompetenzaufbau folgt einer evolutionären Eigenlogik, die sich grundlegend von
-JV-basiertem Technologietransfer oder akquisitionsgetriebenem Fähigkeitserwerb unterscheidet.
-Das Unternehmen trat nicht als Automobilhersteller in die Batterietechnologie ein, sondern
-umgekehrt: Gegründet 1995 als Hersteller von Mobilfunk- und Konsumgüterbatterien, verfügte
-BYD bereits über tiefes Wissen in der Zellchemie, bevor es 2003 in die Fahrzeugproduktion
-einstieg. Whitfield & Wuttke (2026) belegen, dass BYD seine Batterieinvestitionen für den
-Automobilbereich ab Mitte der 2000er Jahre aufnahm — nicht als Reaktion auf staatliche
-Industriepolitik, sondern ihr vorauseilend und damit die politische Agenda aktiv
-mitgestaltend. Wang, Zhao & Ruet (2022) beschreiben BYDs Vorgehen als „Specialised Vertical
-Integration": eine selektive, auf strategisch komplementäre Wertschöpfungsstufen
-konzentrierte Integration, die Kernkompetenzen vertieft statt diffundiert.
+BYD's capability building follows an evolutionary internal logic that differs fundamentally from
+JV-based technology transfer or acquisition-driven capability acquisition. The company did not
+enter battery technology as an automaker — rather the reverse: founded in 1995 as a manufacturer
+of mobile phone and consumer electronics batteries, BYD already possessed deep knowledge in
+cell chemistry before entering vehicle production in 2003. Whitfield & Wuttke (2026) document
+that BYD began investing in automotive batteries from the mid-2000s — not in response to state
+industrial policy, but ahead of it, thereby actively shaping the policy agenda. Wang, Zhao &
+Ruet (2022) describe BYD's approach as "Specialised Vertical Integration": a selective
+integration concentrated on strategically complementary value chain stages, which deepens core
+competencies rather than diffusing them.
 
-Dieses Modell erzeugt Vorteile, die strukturell schwer zu replizieren sind. Teece, Pisano
-& Shuen (1997) zeigen, dass nachhaltiger Wettbewerbsvorteil aus pfadabhängig aufgebautem,
-tacitem Wissen entsteht — Wissen, das in organisationalen Routinen verankert ist und sich
-nicht durch Lizenzkauf oder Personalabwerbung übertragen lässt. BYDs interne Entwicklung
-über Jahrzehnte erzeugt genau diese Art von Nicht-Imitierbarkeit. Darüber hinaus eröffnet
-jede beherrschte Kompetenz den Zugang zur nächsten: Whitfield & Wuttke (2026) dokumentieren,
-wie BYD vorhandene Fähigkeiten aus dem Konsumgüter-Batteriesektor nutzte, um schrittweise
-automotive-spezifisches Wissen aufzubauen — von der Zellchemie über Batteriepacks und
-Leistungselektronik bis hin zur Fahrzeugsoftware. BYD blieb durch diese Frühpositionierung
-nicht nur Technologiefolger, sondern wurde zum Marktgestalter, dessen Entwicklungsrichtung
-staatliche Förderprogramme erst nachträglich aufgriffen (Whitfield & Wuttke 2026).
+This model generates advantages that are structurally difficult to replicate. Teece, Pisano &
+Shuen (1997) show that sustainable competitive advantage arises from path-dependently
+accumulated tacit knowledge — knowledge embedded in organisational routines that cannot be
+transferred through licensing or talent recruitment. BYD's decades of internal development
+produce precisely this kind of non-imitability. Moreover, each mastered competency opens access
+to the next: Whitfield & Wuttke (2026) document how BYD leveraged existing capabilities from
+the consumer battery sector to build automotive-specific knowledge incrementally — from cell
+chemistry through battery packs and power electronics to vehicle software. Through this early
+positioning, BYD did not merely remain a technology follower but became a market architect
+whose development trajectory state subsidy programmes subsequently adopted (Whitfield & Wuttke
+2026).
 
-Das Modell hat jedoch strukturelle Grenzen. Erstens ist interner Kompetenzaufbau
-zeitintensiv: Während ein Konkurrent eine neue Fähigkeit durch Akquisition innerhalb von
-Monaten erwerben kann, benötigt organisches Lernen Jahre oder Jahrzehnte — ein Nachteil
-in technologischen Umbruchphasen mit komprimiertem Zeitfenster. Zweitens ist das Modell
-kapitalintensiv: Investitionen fallen lange vor ihrer kommerziellen Verwertung an, was die
-Abhängigkeit von stabilen Cash-Flow-Quellen erhöht. Drittens birgt Pfadabhängigkeit das
-Risiko der Pfadstarrheit: Ein Paradigmenwechsel in der Technologie würde BYDs aufgebautes
-Wissenskapital partiell entwerten, da eine Umlenkung fundamentale Reorganisation erfordern
-würde (Teece, Pisano & Shuen 1997). Schließlich stellt die gleichzeitige Beherrschung
-hochheterogener Kompetenzfelder hohe Anforderungen an das Management: Die Integration
-verschiedener technologischer Domänen in einem einzigen Unternehmen erzeugt organisatorische
-Komplexität, die mit zunehmender Unternehmensgröße schwerer zu koordinieren ist.
+The model nevertheless has structural limits. First, internal capability building is
+time-intensive: while a competitor can acquire a new capability through acquisition within
+months, organic learning requires years or decades — a disadvantage during technological
+disruptions with compressed time windows. Second, the model is capital-intensive: investments
+occur long before their commercial exploitation, increasing dependence on stable cash flow
+sources. Third, path dependence carries the risk of path rigidity: a paradigm shift in
+technology would partially devalue BYD's accumulated knowledge capital, as any redirection
+would require fundamental reorganisation (Teece, Pisano & Shuen 1997). Finally, simultaneous
+mastery of highly heterogeneous competency domains places significant demands on management:
+integrating diverse technological domains within a single firm generates organisational
+complexity that becomes harder to coordinate as the company grows.
 
 ### 4.3 Geely: Acquisition-based Capability Building
 
-[Text hier einfügen]
+[Insert text here]
 
-### 4.4 Vergleichssynthese
+### 4.4 Comparative Synthesis
 
-| | SAIC (JV-Transfer) | BYD (Intern) | Geely (Akquisition) |
+| | SAIC (JV transfer) | BYD (internal) | Geely (acquisition) |
 |---|---|---|---|
-| Kompetenzquelle | JV-Spillover | Eigenentwicklung | M&A |
-| Geschwindigkeit | Mittel | Langsam aber tief | Schnell |
-| EV-Plattform-Eigenständigkeit | Gering | Hoch | Mittel |
-| Nachhaltigkeit | Fraglich | Hoch | Integrationsabhängig |
+| Competency source | JV spillover | Proprietary development | M&A |
+| Speed | Medium | Slow but deep | Fast |
+| EV platform autonomy | Low | High | Medium |
+| Sustainability | Questionable | High | Integration-dependent |
 
-[Synthesetext hier einfügen]
+[Insert synthesis text here]
 
 ---
 
-## 5. Long-term Viability (~3 Seiten)
+## 5. Long-term Viability (~3 pages)
 
-*Leitfrage: Welches Modell überlebt den EV-Übergang — und schafft langfristig Shareholder Value?*
+*Guiding question: Which model survives the EV transition — and creates long-term shareholder
+value?*
 
 ### 5.1 SAIC Motor
 
-[Text hier einfügen]
+[Insert text here]
 
 ### 5.2 BYD
 
-BYD hat den Übergang zur Elektromobilität strukturell vollzogen. Nach dem vollständigen
-Ausstieg aus der Verbrennungsmotorenproduktion 2022 belastet kein ICE-Segment mehr die
-Kapitalallokation. Für das Geschäftsjahr 2025 weist der Annual Report erstmals mehr als
-eine Million exportierte Fahrzeuge aus — ein Anstieg von 140 % gegenüber dem Vorjahr —
-bei einer Präsenz in 119 Ländern, womit BYD seine Abhängigkeit vom chinesischen
-Inlandsmarkt strukturell reduziert (BYD Annual Report 2025). Für das vierte Jahr in
-Folge war BYD globaler Marktführer im NEV-Segment. Allen et al. (2024) zeigen, dass
-extern gelistete chinesische Privatunternehmen — wie BYD mit seiner primären Notierung
-an der Hongkonger Börse — langfristig eine Kapitalmarktperformance auf globalem
-Marktniveau erreichen, während staatsdominierte A-Share-Unternehmen strukturell
-underperformen. Die Kapitalerhöhung von 5,6 Mrd. USD im März 2025 unter Beteiligung
-institutioneller Langfristinvestoren und Staatsfonds signalisiert anhaltende
-Investorennachfrage (BYD Annual Report 2025).
+BYD has structurally completed the transition to electric mobility. Following the complete exit
+from combustion engine production in 2022, no ICE segment burdens capital allocation any
+further. For fiscal year 2025, the Annual Report shows more than one million exported vehicles
+for the first time — an increase of 140% year-on-year — with a presence in 119 countries,
+structurally reducing BYD's dependence on the Chinese domestic market (BYD Annual Report 2025).
+For the fourth consecutive year, BYD was the global market leader in the NEV segment. Allen et
+al. (2024) show that externally listed Chinese private companies — such as BYD with its primary
+listing on the Hong Kong Stock Exchange — achieve long-term capital market performance at global
+market level, while state-dominated A-share companies structurally underperform. The capital
+increase of USD 5.6 billion in March 2025, involving institutional long-term investors and
+sovereign wealth funds, signals sustained investor demand (BYD Annual Report 2025).
 
-Gleichwohl bestehen strukturelle Risiken. Der anhaltende Preiskrieg im chinesischen
-Markt hinterlässt sichtbare Spuren: Die Bruttomarge fiel von 19 % (2024) auf 18 %
-(2025), der Nettogewinn sank um rund 19 % auf RMB 32,6 Mrd. — ein Zeichen, dass
-vertikale Integration den systemischen Preisdruck dämpfen, aber nicht vollständig
-abfedern kann (BYD Annual Report 2025). Parallel dazu wechselte die Verschuldungsquote
-durch die kapitalintensive globale Fabrikexpansion von einem Netto-Kassenüberschuss zu
-einer Nettoverbindlichkeitsposition, was den in Kapitel 3 beschriebenen
-Eigenfinanzierungsvorteil partiell einschränkt. Der vollständige Ausstieg von Berkshire
-Hathaway aus seiner BYD-Beteiligung bis 2025 entfernte zudem einen langjährigen
-reputativen Anker (CNBC 2025). Für die Exportstrategie bleibt der EU-Ausgleichszoll von
-17 % — bei einem Gesamtzoll von 27 % einschließlich des regulären Einfuhrzolls — ein
-strukturelles Hindernis im profitabelsten Zielmarkt (EU Implementing Regulation
-2024/2754).
+Structural risks nonetheless persist. The ongoing price war in the Chinese market leaves
+visible marks: gross margin fell from 19% (2024) to 18% (2025), and net profit declined by
+approximately 19% to RMB 32.6 billion — indicating that vertical integration can dampen but
+not fully absorb systemic price pressure (BYD Annual Report 2025). In parallel, the leverage
+ratio shifted from a net cash surplus to a net debt position as a result of capital-intensive
+global factory expansion, partially constraining the self-financing advantage described in
+Chapter 3. The complete exit of Berkshire Hathaway from its BYD stake by 2025 also removed a
+longstanding reputational anchor (CNBC 2025). For the export strategy, the EU countervailing
+duty of 17% — with a combined tariff of 27% including the standard import duty — remains a
+structural obstacle in the most profitable target market (EU Implementing Regulation 2024/2754).
 
 ### 5.3 Geely
 
-[Text hier einfügen]
+[Insert text here]
 
-### 5.4 Vergleichssynthese
+### 5.4 Comparative Synthesis
 
 | | SAIC | BYD | Geely |
 |---|---|---|---|
-| Nettogewinn-Trend | −88% (2024) → +506% (2025, Basiseffekt) | Positiv, wachsend | — |
-| JV-Kapazitätsauslastung | GM 37%, VW 55%, MEB 14% | — | — |
-| EV-Readiness | Mittel | Hoch | Mittel |
-| Exportposition | Gefährdet (35,3% EU-Zoll) | Wachsend | Volvo-gestützt |
-| Modell-Resilienz | Niedrig–Mittel | Hoch | Mittel |
+| Net profit trend | −88% (2024) → +506% (2025, base effect) | Positive, growing | — |
+| JV capacity utilisation | GM 37%, VW 55%, MEB 14% | — | — |
+| EV readiness | Medium | High | Medium |
+| Export position | At risk (35.3% EU tariff) | Growing | Volvo-supported |
+| Model resilience | Low–Medium | High | Medium |
 
-[Synthesetext hier einfügen]
-
----
-
-## 6. Generalizable Lessons (~1,5 Seiten)
-
-### Lesson 1: JV-Renten können Innovationsanreize zerstören
-
-[Text hier einfügen]
-
-### Lesson 2: Governance-Struktur determiniert Anpassungsgeschwindigkeit
-
-[Text hier einfügen]
-
-### Lesson 3: Kapitalstruktur und Risikozuweisung entscheiden über Resilienz bei Marktschocks
-
-[Text hier einfügen]
+[Insert synthesis text here]
 
 ---
 
-## 7. Conclusion (~0,5 Seiten)
+## 6. Generalizable Lessons (~1.5 pages)
 
-[Text hier einfügen]
+### Lesson 1: JV Rents Can Destroy Innovation Incentives
+
+[Insert text here]
+
+### Lesson 2: Governance Structure Determines Adaptation Speed
+
+[Insert text here]
+
+### Lesson 3: Capital Structure and Risk Allocation Determine Resilience under Market Shocks
+
+[Insert text here]
+
+---
+
+## 7. Conclusion (~0.5 pages)
+
+[Insert text here]
