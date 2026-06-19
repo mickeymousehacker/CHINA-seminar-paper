@@ -7,6 +7,7 @@ target: claude
 dependencies:
   apm:
   - anthropics/skills/skills/pdf
+  - tfriedel/claude-office-skills/public/pptx
   mcp:
   - name: parallel-search
     registry: false

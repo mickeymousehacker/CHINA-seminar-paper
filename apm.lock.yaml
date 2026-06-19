@@ -1,5 +1,5 @@
 lockfile_version: '1'
-generated_at: '2026-05-20T15:56:26.946747+00:00'
+generated_at: '2026-06-19T13:12:00.243689+00:00'
 apm_version: 0.14.1
 dependencies:
 - repo_url: anthropics/skills
@@ -11,6 +11,15 @@ dependencies:
   deployed_files:
   - .claude/skills/pdf
   content_hash: sha256:69e2ac9eb2bbe2881df26acc53b46b39a15cfda206f5357e5f9c83feb0fadcc7
+- repo_url: tfriedel/claude-office-skills
+  host: github.com
+  resolved_commit: d4241e43b60e8f96b0a80c3b1eb75fe8858437c0
+  virtual_path: public/pptx
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .claude/skills/pptx
+  content_hash: sha256:df52847949d33851ce3e53f0f8815d56df6b7fa1668a2b1011b7b91713c65195
 mcp_servers:
 - deepwiki
 - parallel-search
