@@ -3,7 +3,7 @@ title: "Geely Automobile Holdings"
 type: entity
 created: 2026-05-22
 updated: 2026-06-19
-sources: [2026-05-22-geely-ma-strategy-web-research, 2026-06-19-geely-annual-report-2022, 2026-06-19-geely-annual-report-2023, 2026-06-19-geely-annual-report-2025]
+sources: [2026-05-22-geely-ma-strategy-web-research, 2026-06-19-geely-annual-report-2022, 2026-06-19-geely-annual-report-2023, 2026-06-19-geely-annual-report-2024, 2026-06-19-geely-annual-report-2025, 2026-06-19-geely-h1-2025-interim-results]
 aliases: [Geely Auto, HK 0175, GELYY, GELYF]
 entity_kind: org
 ---
@@ -20,33 +20,40 @@ Governance follows a single-class share structure (one share, one vote) with no 
 
 The listed entity is distinct from the broader Geely Holding portfolio. Volvo Cars, for instance, is owned at the Zhejiang Geely Holding level, not by the listed Geely Auto, though the listed arm contributed equity financing for the 2010 Volvo acquisition. The listed entity does hold 49.9% of Proton Holdings (Malaysia), which was consolidated onto Geely Auto's balance sheets in July 2023 [[2026-06-19-geely-annual-report-2023]].
 
-In FY2022, Geely Auto reported revenue of approximately USD 21.99bn (approximately RMB 147bn), broadly flat versus FY2021, reflecting COVID-related supply chain disruptions and softness in overall Chinese auto demand. Net profit attributable to equity holders was approximately CNY 4.94bn. Total group vehicle sales were approximately 1.43 million units, including ZEEKR (71,941 units, first full year), Lynk & Co (180,127 units), and Geometry (approximately 160,000–170,000 units as a standalone sub-brand at the time). FY2022 also saw the first deliveries of Smart Automobile JV vehicles and the Polestar SPAC listing [[2026-06-19-geely-annual-report-2022]].
+In FY2022, Geely Auto reported revenue of approximately USD 21.99bn (~RMB 147bn). Total group vehicle sales were approximately 1.43 million units, including ZEEKR (71,941 units, first full year), Lynk & Co (180,127 units). FY2022 also saw the first deliveries of Smart Automobile JV vehicles and the Polestar SPAC listing [[2026-06-19-geely-annual-report-2022]].
 
-In FY2023, Geely Auto reported revenue of ~USD 25.32bn (+15% YoY), with net income attributable to equity holders of approximately CNY 4.945bn (~USD 700–750m). Total group vehicle sales exceeded 1.68 million units, including 118,685 ZEEKR vehicles, 220,250 Lynk & Co vehicles, 83,497 Galaxy vehicles (partial year), 191,346 Geometry units, and 1,034,737 Geely brand vehicles [[2026-06-19-geely-annual-report-2023]].
+In FY2023, revenue grew to ~USD 25.32bn (+15% YoY). Total group vehicle sales exceeded 1.68 million units, including 118,685 ZEEKR vehicles, 220,250 Lynk & Co vehicles, 83,497 Galaxy vehicles (partial year), 191,346 Geometry units, and 1,034,737 Geely brand vehicles [[2026-06-19-geely-annual-report-2023]].
 
-By FY2024, performance surged substantially: revenue reached USD 33.4bn (+32% YoY), profit jumped 240% to RMB 16.8bn, and basic EPS climbed 219% to RMB 1.64 — the strongest annual result in the company's listed history. The FY2024 dividend payout ratio was 42.03%, with a proposed 50% increase in the final dividend per share [[2026-05-22-geely-ma-strategy-web-research]] [[2026-06-19-geely-annual-report-2025]].
+By FY2024, performance surged substantially: revenue reached approximately CN¥ 240.2bn (~USD 33.4bn, +34% YoY), profit attributable to shareholders jumped 213% to RMB 16.63bn, and basic EPS climbed 219% to RMB 1.64. Group vehicle sales reached approximately 2.17 million units [[2026-06-19-geely-annual-report-2024]].
 
-As of end-2023, Geely Auto held 62.8% of ZEEKR, ahead of ZEEKR's NYSE IPO in May 2024 (ticker: ZK; raised ~USD 441m; largest Chinese company NYSE IPO since 2021; ZEEKR subsequently taken private again in 2025) [[2026-06-19-geely-annual-report-2023]]. Lynk & Co was simultaneously restructured: ZEEKR now holds 51% and Geely Auto 49%, rationalising the premium-EV portfolio under a single umbrella [[2026-06-19-geely-annual-report-2025]].
+In FY2025, revenue grew to approximately CN¥ 345.2bn (~USD 47.6bn), driven by the first full consolidated year of ZEEKR revenues and strong volume growth to approximately 3,024,567 units, exceeding the 2,710,000-unit target. Core profit attributable to owners reached RMB 14.41bn (+36% YoY). ZEEKR's privatisation from NYSE was completed in December 2025 [[2026-06-19-geely-annual-report-2025]].
+
+In H1 2025, Geely Auto reported revenue of RMB 150.3bn (+27% YoY) with gross margin of 16.4% (–0.3 pp YoY). Reported net profit attributable to shareholders was RMB 9.29bn (–14% YoY), but this reflects the absence of a one-off RMB 7.73bn Volvo Cars / Horse Powertrain gain that inflated H1 2024; adjusted operating profit rose 102% YoY to RMB 6.66bn. Total vehicle sales reached 1,409,180 units (+47% YoY), with NEV volume of 725,151 units (+126% YoY) crossing 51.5% of total sales — the first time NEVs exceeded half of group volume. R&D expenditure was RMB 7.33bn (+21% YoY). The annual sales target was raised to 3 million units [[2026-06-19-geely-h1-2025-interim-results]].
 
 ## Key facts
 
 - Listed on HKEX March 2004 (HK: 0175); OTC ADR tickers GELYY / GELYF [[2026-05-22-geely-ma-strategy-web-research]]
 - ZGH ~39.94% + Proper Glory ~26.2% = ~66% controlling stake; single-class shares [[2026-05-22-geely-ma-strategy-web-research]]
-- FY2022 revenue: ~USD 21.99bn (~RMB 147bn); net profit: ~CNY 4.94bn; DPS: ~CNY 0.29 [[2026-06-19-geely-annual-report-2022]]
-- FY2022 total vehicle sales: ~1.43m units (ZEEKR 71,941; Lynk & Co 180,127; Geometry ~160–170k; Geely brand ~980–1,000k) [[2026-06-19-geely-annual-report-2022]]
-- FY2022: ZEEKR first full year of deliveries; Smart JV first deliveries; Polestar SPAC listing [[2026-06-19-geely-annual-report-2022]]
-- FY2023 revenue: ~USD 25.32bn (+15% from FY2022's USD 21.99bn) [[2026-06-19-geely-annual-report-2023]]
-- FY2023 net income: ~CNY 4.945bn (~USD 700–750m); broadly flat vs. FY2022 [[2026-06-19-geely-annual-report-2023]]
-- FY2023 total vehicle sales: ~1.68m units (ZEEKR 118,685; Lynk & Co 220,250; Galaxy 83,497; Geometry 191,346; Geely brand 1,034,737) [[2026-06-19-geely-annual-report-2023]]
-- Galaxy NEV sub-brand launched February 2023; Geometry consolidated into Geely brand March 2023 [[2026-06-19-geely-annual-report-2023]]
-- Proton Holdings (49.9%) consolidated onto balance sheet July 2023; FY2023 Proton production: 154,611 units [[2026-06-19-geely-annual-report-2023]]
-- ZEEKR held at 62.8% as of end-FY2023; ZEEKR NYSE IPO (ZK) May 2024 raised ~USD 441m [[2026-06-19-geely-annual-report-2023]]
-- FY2024 revenue: USD 33.4bn (+32% YoY); profit: RMB 16.8bn (+240%); basic EPS: RMB 1.64 (+219%) [[2026-05-22-geely-ma-strategy-web-research]] [[2026-06-19-geely-annual-report-2025]]
-- FY2024 dividend payout ratio: 42.03%; proposed 50% increase in final DPS [[2026-06-19-geely-annual-report-2025]]
-- Lynk & Co restructured November 2024: ZEEKR 51%, Geely Auto 49% [[2026-06-19-geely-annual-report-2025]]
-- Market cap ~USD 21.23bn (mid-2025, per search engine data) [[2026-05-22-geely-ma-strategy-web-research]]
-- 13 manufacturing plants; combined capacity 2.61m vehicles/year; 73,000 employees [[2026-06-19-geely-annual-report-2023]]
-- Smart Geely 2025 strategy: 7 technology pillars; targets 3.65m vehicle sales/year [[2026-06-19-geely-annual-report-2023]]
+- FY2022 revenue: ~USD 21.99bn (~RMB 147bn); net profit: ~CNY 4.94bn; group sales ~1.43m units [[2026-06-19-geely-annual-report-2022]]
+- FY2023 revenue: ~USD 25.32bn (+15%); net income: ~CNY 4.945bn; group sales ~1.68m units [[2026-06-19-geely-annual-report-2023]]
+- FY2024 revenue: CN¥ 240.2bn (~USD 33.4bn, +34%); profit: RMB 16.63bn (+213%); EPS: RMB 1.64 (+219%); group sales ~2.17m units [[2026-06-19-geely-annual-report-2024]]
+- FY2024 dividend payout ratio: 42.03%; DPS: CNY 0.22; proposed 50% increase in final DPS [[2026-06-19-geely-annual-report-2024]]
+- FY2025 revenue: ~CN¥ 345.2bn (~USD 47.6bn, +44%); core profit: RMB 14.41bn (+36%); production ~3.02m units [[2026-06-19-geely-annual-report-2025]]
+- FY2025 EPS: ~CN¥ 1.63; DPS: ~CN¥ 0.33 (+50% YoY) [[2026-06-19-geely-annual-report-2025]]
+- H1 2025 revenue: RMB 150.3bn (+27% YoY) [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 gross margin: 16.4% (–0.3 pp YoY) [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 net profit attributable: RMB 9.29bn (–14% YoY; H1 2024 inflated by RMB 7.73bn one-off) [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 adjusted operating profit: RMB 6.66bn (+102% YoY) [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 total vehicle sales: 1,409,180 units (+47% YoY) [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 NEV sales: 725,151 units (+126% YoY); NEV share 51.5% — first majority-NEV period [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 R&D: RMB 7.33bn (+21% YoY) [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 total assets: RMB 274bn; cash: RMB 58.8bn; net cash: RMB 38.9bn; gearing: 22.2% (vs. 8.8% end-2024) [[2026-06-19-geely-h1-2025-interim-results]]
+- H1 2025 borrowings: RMB 19.9bn (+162% YoY) — driven by Lynk & Co acquisition debt [[2026-06-19-geely-h1-2025-interim-results]]
+- FY2025 annual sales target raised to 3 million units [[2026-06-19-geely-h1-2025-interim-results]]
+- 2026 group sales target: 3,450,000 units [[2026-06-19-geely-annual-report-2025]]
+- ZEEKR privatised December 2025; now wholly owned by Geely Auto [[2026-06-19-geely-annual-report-2025]]
+- Lynk & Co fully integrated into ZEEKR, completed February 2025 [[2026-06-19-geely-h1-2025-interim-results]]
+- 13 manufacturing plants; combined capacity 2.61m vehicles/year; ~64,000 employees (December 2024) [[2026-06-19-geely-annual-report-2023]]
 
 > ⚠️ Conflict: [[2026-05-22-geely-ma-strategy-web-research]] states ZGH + Proper Glory = ~76% of shares; [[2026-06-19-geely-annual-report-2023]] (derived from annual report disclosures) gives ZGH 39.94% + Proper Glory 26.2% = 66.14%. The prior figure of ~76% may have included additional smaller ZGH-connected vehicles; the 66.14% sum of the two named entities is confirmed by the annual report. Unresolved until the PDF can be read directly.
 
@@ -55,8 +62,8 @@ As of end-2023, Geely Auto held 62.8% of ZEEKR, ahead of ZEEKR's NYSE IPO in May
 - [[zhejiang-geely-holding-group]] — parent holding company (private, 100% owned by Li Shufu)
 - [[li-shufu]] — founder, chairman, ultimate controlling shareholder
 - [[volvo-cars]] — sister company held at ZGH level; contributed equity to 2010 acquisition financing
-- [[zeekr]] — majority-owned (62.8% as of end-2023) premium EV brand; NYSE listed May 2024, privatised December 2025
-- [[lynk-co]] — joint brand; Geely Auto 49% / ZEEKR 51% post-November 2024 restructuring
+- [[zeekr]] — wholly owned (post-December 2025 privatisation) premium EV brand
+- [[lynk-co]] — Geely Auto 49% / ZEEKR 51% post-November 2024; fully integrated into ZEEKR February 2025
 - [[proton]] — 49.9% stake; consolidated July 2023
 - [[smart-automobile-jv]] — ZGH-level 50:50 JV with Mercedes-Benz
 - [[cross-border-ma]] — core strategic driver of group capability building
@@ -64,10 +71,7 @@ As of end-2023, Geely Auto held 62.8% of ZEEKR, ahead of ZEEKR's NYSE IPO in May
 
 ## Open questions
 
-- What is the exact FY2022 EPS (basic and diluted) in RMB as reported in the annual report?
-- What is the exact FY2022 R&D expenditure line in the income statement?
-- What is the exact FY2024 RMB-denominated revenue figure (annual report likely states ~RMB 240bn)?
-- What are the FY2024 interim and final dividends per share in absolute HKD/RMB terms?
-- What R&D expenditure figure does Geely Auto report on its FY2024 income statement?
-- What is the precise holding-company discount applied by analysts given ZGH's unlisted assets?
-- What is Geely Auto's FY2024 gross margin by brand segment?
+- What is Geely Auto's H1 2025 / FY2025 net profit excluding the one-off Volvo/Horse Powertrain gain (to give a clean H1 2024 vs. H1 2025 recurring comparison)?
+- What is the H1 2025 brand-level sales breakdown (Geely / Galaxy / Lynk & Co / ZEEKR / Proton)?
+- What is Geely Auto's FY2025 gross margin and by-segment margin breakdown?
+- What is the final DPS for FY2025 as declared (estimated CN¥ 0.33; needs PDF confirmation)?
