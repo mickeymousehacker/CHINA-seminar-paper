@@ -39,7 +39,7 @@ ZEEKR's delivery volumes grew strongly year-on-year: 71,941 (FY2022) → 118,685
 - NYSE IPO (ZK) May 2024; raised ~USD 441m [[2026-06-19-geely-annual-report-2023]]
 - Privatisation announced July 2025; total deal value ~USD 2.4bn; completed December 2025 [[2026-06-19-geely-h1-2025-interim-results]] [[2026-06-19-geely-annual-report-2025]]
 - Lynk & Co fully integrated into ZEEKR group: completed February 2025 [[2026-06-19-geely-h1-2025-interim-results]]
-- Post-integration: ZEEKR holds 51% of Lynk & Co; Geely Auto holds 49% [[2026-06-19-geely-annual-report-2024]]
+- Post-integration: ZEEKR holds 51% of Lynk & Co; Geely Auto holds 29%; ZGH holds 20% [[2026-06-19-geely-annual-report-2024]]
 - ZEEKR + Lynk & Co combined deliveries FY2025: ~574,628 units [[2026-06-19-geely-annual-report-2025]]
 - Models (current): ZEEKR 001, 007, 007GT, 009, X, 7X, 8X, 9X, Mix; Waymo Ojai robotaxi (Alphabet partnership)
 
