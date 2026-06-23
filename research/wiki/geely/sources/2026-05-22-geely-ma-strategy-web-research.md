@@ -60,7 +60,8 @@ aliases: [geely-web-research-2026-05-22]
 - [[mercedes-benz]]
 - [[general-motors]]
 - [[volkswagen-ag]]
-- [[alvstam-ivarsson]]
+- [[alvstam-ivarsson-2014]]
+- [[alvstam-ivarsson-2020]]
 
 ## Concepts mentioned
 - [[cross-border-ma]]

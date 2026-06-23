@@ -63,7 +63,7 @@ In H1 2025, Geely Auto reported revenue of RMB 150.3bn (+27% YoY) with gross mar
 - [[li-shufu]] — founder, chairman, ultimate controlling shareholder
 - [[volvo-cars]] — sister company held at ZGH level; contributed equity to 2010 acquisition financing
 - [[zeekr]] — wholly owned (post-December 2025 privatisation) premium EV brand
-- [[lynk-co]] — Geely Auto 49% / ZEEKR 51% post-November 2024; fully integrated into ZEEKR February 2025
+- [[lynk-co]] — Geely Auto 29% / ZEEKR 51% / ZGH 20% post-November 2024; fully integrated into ZEEKR February 2025
 - [[proton]] — 49.9% stake; consolidated July 2023
 - [[smart-automobile-jv]] — ZGH-level 50:50 JV with Mercedes-Benz
 - [[cross-border-ma]] — core strategic driver of group capability building

@@ -14,6 +14,13 @@
 - Contradictions flagged: none
 - Note: PDF at http://new.geelyauto.com.hk/wp-content/uploads/2023/04/e00175.pdf was not machine-readable via WebFetch (binary-compressed PDF). All claims sourced from training knowledge of Geely FY2022 results (knowledge cutoff August 2025), cross-referenced against existing wiki inputs (geely_facts.md, geely_quantitative_data.md) and the FY2023 Annual Report source page (which provides FY2022 baseline figures for year-over-year comparisons). Re-verification against the actual PDF is recommended when poppler or equivalent tooling is available.
 
+## [2026-06-19 19:00] ingest | Geely Wiki Overview + lint fixes
+- New: [[overview]] (research/wiki/geely/overview.md)
+- Fixed: Lynk & Co ownership error — 49% corrected to 29% on [[lynk-co]], [[zeekr]], [[geely-automobile-holdings]], [[zhejiang-geely-holding-group]]
+- Fixed: broken link [[alvstam-ivarsson]] → [[alvstam-ivarsson-2014]] + [[alvstam-ivarsson-2020]] in [[2026-05-22-geely-ma-strategy-web-research]]
+- Updated: [[index]] (added overview entry)
+- Contradictions flagged: none (existing ZGH ownership conflict callout carried over)
+
 ## [2026-06-19 18:00] lint
 - Report: full wiki health-check, 2026-06-19
 - Pages scanned: 40 (12 sources, 19 entities, 11 concepts)

@@ -3,6 +3,10 @@
 This is the content catalog for the LLM wiki. Every page has a one-line
 summary under the right group. Keep entries alphabetical within each group.
 
+## Overview
+
+- [[overview]] — Synthesis of Geely's M&A-driven model: governance, financing, capability building, financial trajectory FY2022–H1 2025, portfolio risks.
+
 ## Sources
 
 - [[2026-05-22-geely-ma-strategy-web-research]] — Web research run: Geely M&A strategy vs. SAIC/BYD/NIO; 7 search angles, 2026-05-22.
