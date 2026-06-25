@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  html { background: #FFFFFF; }
+  body {
+    width: 720pt; height: 405pt; margin: 0; padding: 0;
+    background: #FFFFFF; font-family: Arial, sans-serif; display: flex;
+  }
+  .wrap { margin: 26pt 34pt; width: 100%; position: relative; }
+  h1 { color: #0F172A; font-size: 21pt; line-height: 1.15; margin: 0; font-weight: bold; }
+  .rule { background: #2563EB; }
+  .cap { color: #64748B; font-size: 9.5pt; margin: 0; position: absolute; top: 344pt; left: 0; }
+
+  .axisY { position: absolute; top: 50pt; left: 0; width: 366pt; color: #475569; font-size: 9.5pt; font-weight: bold; margin: 0; }
+  .axisX { position: absolute; top: 316pt; left: 0; width: 366pt; color: #475569; font-size: 9.5pt; font-weight: bold; text-align: center; margin: 0; }
+
+  .matrix { position: absolute; top: 70pt; left: 0; width: 366pt; height: 240pt; }
+  .quad { position: absolute; width: 178pt; height: 115pt; box-sizing: border-box; }
+  .q-tl { top: 0; left: 0; background: #EFF6FF; border: 1px solid #DBEAFE; }
+  .q-tr { top: 0; left: 184pt; background: #ECFEFF; border: 1px solid #CFFAFE; }
+  .q-bl { top: 121pt; left: 0; background: #F1F5F9; border: 1px solid #E2E8F0; }
+  .q-br { top: 121pt; left: 184pt; background: #FEF2F2; border: 1px solid #FECACA; }
+
+  .bubble { position: absolute; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 2px 2px 6px rgba(15,23,42,0.22); }
+  .bubble p { color: #FFFFFF; font-size: 13pt; font-weight: bold; margin: 0; }
+  .b-byd { top: 25pt; left: 57pt; width: 64pt; height: 64pt; background: #2563EB; }
+  .b-geely { top: 27pt; left: 243pt; width: 60pt; height: 60pt; background: #06B6D4; }
+  .b-saic { top: 148pt; left: 243pt; width: 60pt; height: 60pt; background: #DC2626; }
+
+  .side { position: absolute; top: 66pt; left: 404pt; width: 258pt; }
+  .side h2 { color: #2563EB; font-size: 13pt; margin: 0 0 9pt 0; font-weight: bold; }
+  .side ul { margin: 0; padding-left: 14pt; }
+  .side li { color: #1E293B; font-size: 11.5pt; line-height: 1.32; margin: 0 0 10pt 0; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Speed versus depth: BYD's organic stack is the slowest to build but the least imitable</h1>
+    <div class="rule" style="width: 100%; height: 2pt; margin: 9pt 0 0 0;"></div>
+
+    <p class="axisY">&#8593; Higher proprietary / autonomous depth</p>
+    <div class="matrix">
+      <div class="quad q-tl"></div>
+      <div class="quad q-tr"></div>
+      <div class="quad q-bl"></div>
+      <div class="quad q-br"></div>
+      <div class="bubble b-byd"><p>BYD</p></div>
+      <div class="bubble b-geely"><p>Geely</p></div>
+      <div class="bubble b-saic"><p>SAIC</p></div>
+    </div>
+    <p class="axisX">Slow &#8592;&#8195;Speed of capability acquisition&#8195;&#8594; Fast</p>
+
+    <div class="side">
+      <h2>What to take away</h2>
+      <ul>
+        <li><b>BYD &#8212; slow but deep:</b> three decades from cell chemistry to vehicle software; path-dependent, non-imitable (Teece et al. 1997).</li>
+        <li><b>Geely &#8212; fast and deep:</b> acquisition compressed the timeline; CMA co-development, patent convergence (Konda et al. 2022).</li>
+        <li><b>SAIC &#8212; fast but shallow:</b> 8.3% quality gain via JV transfer, yet rent cannibalization left no proprietary EV platforms (Bai et al. 2025; Howell 2018).</li>
+      </ul>
+    </div>
+
+    <p class="cap">Source: Bai et al. (2025); Zheng et al. (2022); Konda et al. (2022); Teece, Pisano &amp; Shuen (1997)</p>
+  </div>
+</body>
+</html>

@@ -3,3 +3,14 @@ sandbox/
 
 # APM dependencies
 apm_modules/
+
+# Node dependencies
+node_modules/
+
+# Office lock/temp files
+~$*
+
+# Presentation working artifacts (regenerable)
+research/presentation/workspace/qa_*.png
+research/presentation/workspace/shot_*.png
+research/presentation/workspace/deck.md

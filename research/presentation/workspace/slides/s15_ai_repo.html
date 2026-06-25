@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  html { background: #FFFFFF; }
+  body { width: 720pt; height: 405pt; margin: 0; padding: 0; background: #FFFFFF; font-family: Arial, sans-serif; display: flex; }
+  .wrap { margin: 26pt 34pt; width: 100%; position: relative; }
+  h1 { color: #0F172A; font-size: 21pt; line-height: 1.15; margin: 0; font-weight: bold; }
+  .rule { background: #2563EB; }
+  .cap { color: #64748B; font-size: 9.5pt; margin: 0; position: absolute; top: 344pt; left: 0; }
+  .col { position: absolute; top: 78pt; }
+  .left { left: 0; width: 312pt; }
+  .right { left: 344pt; width: 308pt; }
+  h2 { color: #2563EB; font-size: 13pt; margin: 0 0 10pt 0; font-weight: bold; }
+  .tree { background: #0F172A; box-sizing: border-box; padding: 14pt 16pt; }
+  .tree p { color: #E2E8F0; font-family: 'Courier New', monospace; font-size: 11.5pt; margin: 0 0 5pt 0; }
+  .tree .root { color: #06B6D4; font-weight: bold; }
+  .right ul { margin: 0; padding-left: 15pt; }
+  .right li { color: #1E293B; font-size: 12.5pt; line-height: 1.36; margin: 0 0 12pt 0; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>A shared git wiki let three cases be compared without manual data hand-offs</h1>
+    <div class="rule" style="width: 100%; height: 2pt; margin: 9pt 0 0 0;"></div>
+
+    <div class="col left">
+      <h2>One repository, four layers</h2>
+      <div class="tree">
+        <p class="root">research/wiki/</p>
+        <p>&#160;&#160;saic-motor/</p>
+        <p>&#160;&#160;byd/</p>
+        <p>&#160;&#160;geely/</p>
+        <p>&#160;&#160;shared/&#160;&#160;EU reg &#183; IEA data</p>
+      </div>
+    </div>
+
+    <div class="col right">
+      <h2>Discipline that kept it clean</h2>
+      <ul>
+        <li><b>Rule:</b> git pull before every session, git push after.</li>
+        <li>Claude Code read all three wikis at once &#8212; direct cross-case comparison, no manual sharing.</li>
+        <li>One merge conflict resolved with git stash before pulling the remote state.</li>
+      </ul>
+    </div>
+
+    <p class="cap">Three group members, one shared repository; each case in a dedicated subfolder.</p>
+  </div>
+</body>
+</html>

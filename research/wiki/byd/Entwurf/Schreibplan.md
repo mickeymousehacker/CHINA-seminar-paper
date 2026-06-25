@@ -75,15 +75,14 @@ reinvest in long-term projects — a discipline that would be difficult to susta
 dispersed ownership with quarterly earnings pressure. In 13 of 14 years between 2011 and 2024,
 BYD's R&D expenditures exceeded annual net profit (He 2025); in 2024 alone, RMB 54.2 billion
 was invested in research and development — an increase of 35.7% year-on-year — even though net
-profit in the same year amounted to RMB 40.3 billion (BYD Annual Report 2024). Xia (2008)
-shows, based on 229 Chinese listed companies, that investors place greater trust in
-founder-controlled firms than manager-controlled ones: the capital market treats founder control
-as a signal of reliable corporate governance and rewards it with a higher market valuation
-(Xia 2008). Xu & Wang (1999) complement this finding at the institutional level: in an analysis
-of Chinese listed companies, they show that ownership concentration correlates positively with
-profitability, while state ownership has a neutral to negative effect. BYD's founder-controlled,
-state-free ownership structure thus corresponds to the empirically superior governance type
-(Xu & Wang 1999).
+profit in the same year amounted to RMB 40.3 billion (BYD Annual Report 2024). Because founder ownership concentrates control and aligns managerial incentives directly with
+shareholder interests, it eliminates the principal-agent conflict inherent in externally managed
+firms — a governance quality that capital markets recognise and reward with higher firm value
+(Jensen & Meckling 1976). At the institutional level, Allen et al. (2024) provide empirical confirmation for the Chinese
+context: state-controlled listed firms consistently underperform their privately governed
+counterparts, with weak corporate governance identified as the primary driver. BYD's
+founder-controlled, state-free ownership structure thus represents the governance model that
+both theory and evidence identify as superior (Allen et al. 2024).
 
 **Sources:**
 
@@ -92,8 +91,9 @@ state-free ownership structure thus corresponds to the empirically superior gove
 | BYD Company Limited — Annual Report 2024 (HKEx, audited by Ernst & Young) | Local: `wiki/byd/input/pdf/byd annual report 2024.pdf` · Online: [hkexnews.hk](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0829/2025082902216.pdf) |
 | He, C. (2025): *The Motivation and Economic Consequences of BYD's Vertical Integration Strategy.* AJMSS 13(3), 221–227 | DOI: [10.54097/jjqx1v32](https://doi.org/10.54097/jjqx1v32) · Online: [drpress.org](https://drpress.org/ojs/index.php/ajmss/article/view/32614) |
 | Zhang, Z.-Q. et al. (2025): *Founder Control and Breakthrough Innovation.* China Economic Review, Vol. 94, Art. 102572 | DOI: [10.1016/j.chieco.2025.102572](https://doi.org/10.1016/j.chieco.2025.102572) · Preprint: [SSRN 5222994](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222994) · Local: `wiki/byd/input/pdf/zhang.pdf` |
-| Xia, L. (2008): *Founder Control, Ownership Structure and Firm Value.* CJAR, Vol. 1, pp. 31–49 | PDF: [cityu.edu.hk](https://www.cb.cityu.edu.hk/research/cjar/doc/200806/01_03-Founder%20Control.pdf) |
+| Jensen, M. C.; Meckling, W. H. (1976): *Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure.* Journal of Financial Economics, Vol. 3(4), pp. 305–360 | DOI: [10.1016/0304-405X(76)90026-X](https://doi.org/10.1016/0304-405X(76)90026-X) |
 | Wang, X.; Zhao, W.; Ruet, J. (2022): *Specialised Vertical Integration.* IJATM 22(2), 178–201 | Online: [inderscienceonline.com](https://www.inderscienceonline.com/doi/abs/10.1504/IJATM.2022.124377) |
+| Allen, F.; Qian, J.; Shan, C.; Zhu, J. L. (2024): *Dissecting the Long-Term Performance of the Chinese Stock Market.* Journal of Finance, Vol. LXXIX, No. 2 | DOI: [10.1111/jofi.13312](https://doi.org/10.1111/jofi.13312) · Local: `wiki/byd/input/pdf/The Journal of Finance - 2024 - ALLEN - Dissecting the Long‑Term Performance of the Chinese Stock Market.pdf` |
 | Company Law of the PRC (2018), Art. 19 | Online: [npc.gov.cn](http://www.npc.gov.cn/englishnpc/c23934/201912/f627aa3a4651475db936899d69419d1e.shtml) |
 
 ### 2.3 Geely: M&A-driven Private Governance
@@ -139,12 +139,11 @@ pressure to prioritise short-term profitable projects over long-term research in
 billion — a structural reinvestment pattern that would be difficult to sustain under dispersed
 ownership with quarterly earnings pressure (BYD Annual Report 2024). A further structural
 strength is margin resilience: gross margin rose to a record 19.4% in 2024 — despite intense
-price competition in the Chinese automotive market (BYD Annual Report 2024). Wu (2025)
-confirms this relationship empirically: an analysis of BYD's financial statements shows that
-vertical integration directly reduces costs, improves margins, and increases research capacity.
-Vertical integration reduces dependence on external suppliers, thereby protecting the cash flow
-base from which investments are funded. The low leverage ratio additionally confers financial
-resilience, as no significant interest payments weigh on liquidity.
+price competition in the Chinese automotive market (BYD Annual Report 2024). BYD's financial statements confirm this directly: vertical integration has steadily expanded
+research capacity while reducing supplier dependence, generating an internal cash flow base
+sufficient to fund investment without recourse to external debt (BYD Annual Report 2024). The
+resulting net cash position eliminates significant interest obligations, conferring a liquidity
+buffer that externally financed competitors structurally cannot replicate.
 
 However, the model has structural limits. First, growth speed is constrained by internally
 generated liquidity. In the early growth phase, BYD depended on external capital: in 2008,
@@ -238,7 +237,21 @@ complexity that becomes harder to coordinate as the company grows.
 | EV platform autonomy | Low | High | Medium |
 | Sustainability | Questionable | High | Integration-dependent |
 
-[Insert synthesis text here]
+The three pathways represent fundamentally different positions along two dimensions: speed of capability acquisition and depth of autonomous competency. SAIC's JV-based transfer was the fastest route to production quality — Bai et al. (2025) document an 8.3% quality improvement attributable to quid pro quo affiliation — but simultaneously generated the "capability paradox" described in Section 4.1: JV rents suppressed the proprietary innovation that EV-era competition demands, producing a firm that mastered conventional vehicle assembly without building the battery, power electronics, or software platforms that now define competitive advantage. Geely's acquisition of Volvo compressed the capability timeline decisively and, uniquely among the three, converted external acquisition into genuine co-development — four sequential integration stages producing the CMA platform, with measurable patent portfolio convergence as evidence of bilateral knowledge creation rather than one-directional extraction (Zheng, Noorderhaven & Du 2022; Konda, Slepnikov & Jin 2022). BYD's organic path was the slowest but produced the deepest and most autonomous competency stack: the path-dependent tacit knowledge Teece, Pisano & Shuen (1997) identify as structurally non-imitable, accumulated across three decades of internal development from cell chemistry through power electronics to vehicle software.
+
+These structural origins are now legible in the competitive record. SAIC-GM's 37% capacity utilisation and Volkswagen's dedicated MEB electric plant at 14% in 2025 mark the structural endpoint of capability dependency becoming capability deficit as the technology paradigm shifted — precisely the JV instability mechanism Inkpen and Beamish (1997) predict when asymmetric learning dissolves the knowledge-dependency sustaining the partnership (SAIC Motor 2026). Geely's platform-based electrification demonstrates that the acquisition model can generate competitive EV products from absorbed capabilities, yet residual co-development dependencies — on Volvo Cars and the Smart JV with Mercedes-Benz — constrain unilateral technology decisions in ways BYD does not face. BYD's full proprietary command of battery chemistry, semiconductor design, and vehicle software confers maximum platform autonomy and a pace of technology iteration that no partner-dependent architecture can replicate. Capability building is therefore not merely a historical record of how each firm learned — it is the structural foundation that determines which model enters the EV era from a position of strength.
+
+**Sources:**
+
+| Source | Access |
+|---|---|
+| Bai, J.; Barwick, P.J.; Cao, S.; Li, S. (2025): *Quid Pro Quo, Technology Capital Transfers for Market Access in China.* American Economic Review, 115(1), 1–42 | DOI: [10.1257/aer.20210972](https://doi.org/10.1257/aer.20210972) · Local: `wiki/saic-motor/input/pdf/` |
+| Howell, S.T. (2018): *Joint Ventures and Technology Adoption: A Chinese Industrial Policy That Backfired.* Research Policy, 47(8), 1448–1462 | DOI: [10.1016/j.respol.2018.04.021](https://doi.org/10.1016/j.respol.2018.04.021) · Local: `wiki/saic-motor/input/pdf/` |
+| Inkpen, A.C.; Beamish, P.W. (1997): *Knowledge, Bargaining Power, and the Instability of International Joint Ventures.* Academy of Management Review, 22(1), 177–202 | DOI: [10.2307/259228](https://doi.org/10.2307/259228) · Local: `wiki/saic-motor/input/pdf/` |
+| Zheng, V.; Noorderhaven, N.; Du, J. (2022): *Making the acquired firm "one of us": A qualitative study of post-acquisition integration stages.* Journal of World Business, 57(3), Art. 101305 | DOI: [10.1016/j.jwb.2021.101305](https://doi.org/10.1016/j.jwb.2021.101305) |
+| Konda, V.; Slepnikov, A.; Jin, Y. (2022): *From transaction to co-creation in Geely's acquisition of Volvo Cars.* Asian Journal of Technology Innovation, 31(3) | DOI: [10.1080/19761597.2022.2133777](https://doi.org/10.1080/19761597.2022.2133777) · Local: `wiki/geely/input/pdf/` |
+| Teece, D.J.; Pisano, G.; Shuen, A. (1997): *Dynamic capabilities and strategic management.* Strategic Management Journal, 18(7), 509–533 | DOI: [10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z) · Local: `wiki/byd/input/pdf/` |
+| SAIC Motor Corporation — Annual Report 2025 | Local: `wiki/saic-motor/input/pdf/` |
 
 ---
 

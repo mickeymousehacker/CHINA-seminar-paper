@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  html { background: #FFFFFF; }
+  body { width: 720pt; height: 405pt; margin: 0; padding: 0; background: #FFFFFF; font-family: Arial, sans-serif; display: flex; }
+  .wrap { margin: 26pt 34pt; width: 100%; position: relative; }
+  h1 { color: #0F172A; font-size: 21pt; line-height: 1.15; margin: 0; font-weight: bold; }
+  .rule { background: #2563EB; }
+  .cap { color: #64748B; font-size: 9.5pt; margin: 0; position: absolute; top: 344pt; left: 0; }
+  .layer { color: #2563EB; font-size: 11pt; font-weight: bold; margin: 0; position: absolute; }
+  .l1 { top: 76pt; left: 0; }
+  .l2 { top: 150pt; left: 0; }
+  .l3 { top: 268pt; left: 0; }
+  .chip { position: absolute; box-sizing: border-box; background: #0F172A; padding: 9pt 14pt; }
+  .chip p { color: #FFFFFF; font-size: 12pt; font-weight: bold; margin: 0; }
+  .m1 { top: 92pt; left: 150pt; width: 230pt; }
+  .m2 { top: 92pt; left: 392pt; width: 270pt; }
+  .agent { position: absolute; top: 166pt; box-sizing: border-box; background: #EFF6FF; border-top: 3pt solid #06B6D4; padding: 9pt 8pt; width: 122pt; height: 78pt; }
+  .agent p { color: #0F172A; font-size: 10.5pt; font-weight: bold; margin: 0 0 3pt 0; }
+  .agent .d { color: #64748B; font-size: 9pt; font-weight: normal; margin: 0; line-height: 1.2; }
+  .a1 { left: 0; } .a2 { left: 132pt; } .a3 { left: 264pt; } .a4 { left: 396pt; } .a5 { left: 528pt; }
+  .base { position: absolute; top: 284pt; left: 0; width: 652pt; box-sizing: border-box; background: #06B6D4; padding: 11pt 16pt; }
+  .base p { color: #FFFFFF; font-size: 12pt; font-weight: bold; margin: 0; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>A layered agent system, not a single chatbot, carried the research</h1>
+    <div class="rule" style="width: 100%; height: 2pt; margin: 9pt 0 0 0;"></div>
+
+    <p class="layer l1">MODELS</p>
+    <div class="chip m1"><p>claude-sonnet-4-6 &#183; primary</p></div>
+    <div class="chip m2"><p>claude-opus-4 &#183; cross-case &amp; argument logic</p></div>
+
+    <p class="layer l2">SPECIALIZED AGENTS</p>
+    <div class="agent a1"><p>wiki-ingest</p><p class="d">structured ingest of PDFs &amp; web</p></div>
+    <div class="agent a2"><p>wiki-query</p><p class="d">retrieval from the knowledge base</p></div>
+    <div class="agent a3"><p>wiki-lint</p><p class="d">broken links, contradictions, stale data</p></div>
+    <div class="agent a4"><p>verify-claims</p><p class="d">trace claims to primary sources</p></div>
+    <div class="agent a5"><p>find-references</p><p class="d">identify supporting literature</p></div>
+
+    <p class="layer l3">PERSISTENT STORE</p>
+    <div class="base"><p>Shared git wiki knowledge base &#8212; read across all three cases simultaneously</p></div>
+
+    <p class="cap">Platform: Claude Code (Anthropic). Agents deployed via the apm package manager.</p>
+  </div>
+</body>
+</html>
