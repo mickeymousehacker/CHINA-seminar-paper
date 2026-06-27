@@ -61,6 +61,15 @@ def blank(prs):
     return prs.slides.add_slide(prs.slide_layouts[6])
 
 
+# Global readability scale: enlarges body/label/table text uniformly while
+# leaving big headlines and stat numbers (>= 24 pt) untouched.
+FONT_SCALE = 1.18
+
+
+def _sz(pt):
+    return Pt(pt * FONT_SCALE if pt < 24 else pt)
+
+
 def fill(shape, color):
     shape.fill.solid()
     shape.fill.fore_color.rgb = color
@@ -117,7 +126,7 @@ def text(slide, l, t, w, h, lines, size, color, *, font=BODY_FONT,
             r = p.add_run()
             r.text = rtxt
             r.font.name = ro.get("font", opts.get("font", font))
-            r.font.size = Pt(ro.get("size", opts.get("size", size)))
+            r.font.size = _sz(ro.get("size", opts.get("size", size)))
             r.font.bold = ro.get("bold", opts.get("bold", bold))
             r.font.italic = ro.get("italic", opts.get("italic", italic))
             r.font.color.rgb = ro.get("color", opts.get("color", color))
@@ -149,13 +158,13 @@ def bullets(slide, l, t, w, h, items, size, color=INK, *, gap=6,
             rm = p.add_run()
             rm.text = mk
             rm.font.name = BODY_FONT
-            rm.font.size = Pt(size)
+            rm.font.size = _sz(size)
             rm.font.bold = False
             rm.font.color.rgb = marker_color or BLUE
         r = p.add_run()
         r.text = it
         r.font.name = BODY_FONT
-        r.font.size = Pt(size)
+        r.font.size = _sz(size)
         r.font.color.rgb = color if lvl == 0 else GREY
     return tb
 
@@ -168,7 +177,7 @@ def kicker_headline(slide, kicker, headline, kcolor=BLUE, hsize=27):
     """Standard light content-slide top: small kicker + Cambria headline."""
     rect(slide, 0, 0, W, H, BG)
     text(slide, MARGIN, Inches(0.42), Inches(12.1), Inches(0.3),
-         kicker.upper(), 12.5, kcolor, font=BODY_FONT, bold=True)
+         kicker.upper(), 14, kcolor, font=BODY_FONT, bold=True)
     text(slide, MARGIN, Inches(0.72), Inches(12.1), Inches(1.0),
          headline, hsize, NAVY, font=HEAD_FONT, bold=True, line_spacing=1.0)
 
@@ -176,9 +185,9 @@ def kicker_headline(slide, kicker, headline, kcolor=BLUE, hsize=27):
 def footer(slide, page):
     text(slide, MARGIN, H - Inches(0.42), Inches(9.0), Inches(0.3),
          "China Strategies in the Automotive Industry  ·  Session 6",
-         9, GREY, font=BODY_FONT)
+         10.5, GREY, font=BODY_FONT)
     text(slide, W - Inches(1.6), H - Inches(0.42), Inches(1.0), Inches(0.3),
-         str(page), 9, GREY, font=BODY_FONT, align=PP_ALIGN.RIGHT)
+         str(page), 10.5, GREY, font=BODY_FONT, align=PP_ALIGN.RIGHT)
 
 
 def chip(slide, l, t, w, label, color, h=Inches(0.4), size=12):
@@ -189,21 +198,21 @@ def chip(slide, l, t, w, label, color, h=Inches(0.4), size=12):
 
 
 def card(slide, l, t, w, h, top_color, title, body_items, *,
-         title_size=15, body_size=12, body_color=INK):
+         title_size=16, body_size=13.5, body_color=INK):
     """White card with a thin colour cap, a title, and bullet body."""
     rect(slide, l, t, w, h, CARD, line_color=LINE, line_w=Pt(0.75))
     rect(slide, l, t, w, Inches(0.09), top_color)
-    text(slide, l + Inches(0.18), t + Inches(0.22), w - Inches(0.36), Inches(0.4),
-         title, title_size, top_color, font=BODY_FONT, bold=True)
-    bullets(slide, l + Inches(0.18), t + Inches(0.72),
-            w - Inches(0.36), h - Inches(0.9), body_items, body_size,
+    text(slide, l + Inches(0.18), t + Inches(0.22), w - Inches(0.36), Inches(0.6),
+         title, title_size, top_color, font=BODY_FONT, bold=True, line_spacing=0.98)
+    bullets(slide, l + Inches(0.18), t + Inches(0.86),
+            w - Inches(0.36), h - Inches(1.04), body_items, body_size,
             color=body_color, gap=5, marker="–", marker_color=top_color)
 
 
 # ── Table helper ──────────────────────────────────────────────────────────────
 
 def grid_table(slide, top, left, col_ws, row_h, headers, rows, *,
-               head_bg=NAVY, head_fg=WHITE, font_size=12, head_size=12.5,
+               head_bg=NAVY, head_fg=WHITE, font_size=13.5, head_size=14,
                first_col_fg=None, zebra=True, cell_colors=None):
     """col_ws: list of column widths. cell_colors: optional dict {(r,c):RGB}."""
     # header
@@ -240,7 +249,7 @@ def grid_table(slide, top, left, col_ws, row_h, headers, rows, *,
 
 def source_note(slide, txt, y=None):
     text(slide, MARGIN, y or (H - Inches(0.72)), Inches(12.1), Inches(0.3),
-         txt, 9.5, GREY, font=BODY_FONT, italic=True)
+         txt, 11, GREY, font=BODY_FONT, italic=True)
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -308,7 +317,7 @@ def s02_context(prs):
         text(s, x, Inches(2.2), cw, Inches(0.9), num, 40, c,
              font=HEAD_FONT, bold=True, align=PP_ALIGN.CENTER)
         text(s, x + Inches(0.12), Inches(3.12), cw - Inches(0.24), Inches(0.65),
-             lbl, 12, INK, font=BODY_FONT, align=PP_ALIGN.CENTER, line_spacing=1.0)
+             lbl, 13, INK, font=BODY_FONT, align=PP_ALIGN.CENTER, line_spacing=1.0)
         x += Inches(3.05)
 
     bullets(s, MARGIN, Inches(4.25), Inches(12.1), Inches(2.1), [
@@ -352,12 +361,12 @@ def s03_question(prs):
         text(s, x + Inches(0.18), Inches(3.13), cw - Inches(0.36), Inches(0.4),
              title, 16, c, font=BODY_FONT, bold=True)
         text(s, x + Inches(0.18), Inches(3.58), cw - Inches(0.36), Inches(0.7),
-             desc, 12.5, INK, font=BODY_FONT, line_spacing=1.05)
+             desc, 13.5, INK, font=BODY_FONT, line_spacing=1.05)
         x += Inches(4.08)
 
     # four dimensions arrow strip
     text(s, MARGIN, Inches(4.55), Inches(12.1), Inches(0.3),
-         "FOUR ANALYTICAL DIMENSIONS — APPLIED TO EACH CASE", 12, BLUE,
+         "FOUR ANALYTICAL DIMENSIONS — APPLIED TO EACH CASE", 13, BLUE,
          font=BODY_FONT, bold=True)
     dims = ["1  Governance", "2  Financing", "3  Capability Building", "4  Long-term Viability"]
     dw = Inches(2.8)
@@ -419,9 +428,9 @@ def s04_theory(prs):
         text(s, x + Inches(0.22), y + Inches(0.18), cw - Inches(0.36), Inches(0.55),
              t, 14.5, NAVY, font=BODY_FONT, bold=True, line_spacing=0.95)
         text(s, x + Inches(0.22), y + Inches(0.82), cw - Inches(0.36), Inches(0.3),
-             cite, 11.5, c, font=BODY_FONT, bold=True, italic=True)
+             cite, 13, c, font=BODY_FONT, bold=True, italic=True)
         text(s, x + Inches(0.22), y + Inches(1.18), cw - Inches(0.36), Inches(0.85),
-             body, 12, INK, font=BODY_FONT, line_spacing=1.0)
+             body, 13.5, INK, font=BODY_FONT, line_spacing=1.0)
     footer(s, 4)
     notes(s, """Our argument stands on six well-known ideas. Shleifer and Vishny and also Megginson
 and Netter explain why state firms tend to lag private ones. Jensen and Meckling show why a
@@ -449,7 +458,7 @@ def s05_framework(prs):
     top = Inches(1.95)
     row_h = Inches(0.92)
     grid_table(s, top, MARGIN, col_ws, row_h, headers, rows,
-               font_size=12.5, head_size=13, cell_colors=cell_colors)
+               font_size=14, head_size=14, cell_colors=cell_colors)
     # white text on coloured label cells (overlay)
     labels = [("SAIC", RED), ("BYD", BLUE), ("Geely", TEAL)]
     for ri, (lbl, c) in enumerate(labels):
@@ -481,21 +490,21 @@ def s06_governance(prs):
         "Politically connected firms lag ~18% post-IPO (Fan et al., 2007)",
         "Cannot exit unprofitable JVs without state sign-off",
         "Slow capital reallocation → strategic rigidity",
-    ], body_size=12)
+    ], body_size=13.5)
     card(s, MARGIN + Inches(4.08), Inches(1.85), Inches(3.93), Inches(4.2), BYD, "BYD — Founder control", [
         "Wang Chuanfu ~17%; founding team >1/3 of votes",
         "No JV dependency; one clear commercial objective",
         "Founder control aids breakthrough innovation (Zhang et al., 2025)",
         "ICE exit (2022) decided unilaterally, no state approval",
         "Fastest decision cycle of the three",
-    ], body_size=12)
-    card(s, MARGIN + Inches(8.16), Inches(1.85), Inches(3.93), Inches(4.2), GEELY, "Geely — Founder apex, multi-brand", [
+    ], body_size=13.5)
+    card(s, MARGIN + Inches(8.16), Inches(1.85), Inches(3.93), Inches(4.2), GEELY, "Geely — Founder apex", [
         "Li Shufu ~41% attributable via ZGH (64.4% combined)",
         "No state committee or JV-partner consent at the top",
         "Agile in M&A, but coordination cost across brands",
         "Volvo / Polestar / Lotus add complexity",
         "Loss-making subsidiaries = contingent liability",
-    ], body_size=12)
+    ], body_size=13.5)
     source_note(s, "Theory: Shleifer & Vishny (1994) · Fan et al. (2007) · Jensen & Meckling (1976) · Megginson & Netter (2001)")
     footer(s, 6)
     notes(s, """Governance means two things: who holds control, and what they try to maximise. SAIC
@@ -523,7 +532,7 @@ def s07_governance_synth(prs):
         text(s, x, Inches(3.05), cw, Inches(0.4), name, 16, NAVY,
              font=BODY_FONT, bold=True, align=PP_ALIGN.CENTER)
         text(s, x + Inches(0.12), Inches(3.45), cw - Inches(0.24), Inches(0.55),
-             note_, 11.5, GREY, font=BODY_FONT, italic=True,
+             note_, 13, GREY, font=BODY_FONT, italic=True,
              align=PP_ALIGN.CENTER, line_spacing=1.0)
         x += Inches(3.85)
 
@@ -559,7 +568,7 @@ def s08_financing(prs):
     col_ws = [Inches(4.0), Inches(2.7), Inches(2.7), Inches(2.7)]
     row_h = Inches(0.55)
     grid_table(s, Inches(1.75), MARGIN, col_ws, row_h, headers, rows,
-               font_size=12.5, head_size=13)
+               font_size=13.5, head_size=14)
     # colour the company header cells
     for i, c in enumerate([SAIC, BYD, GEELY]):
         x = MARGIN + col_ws[0] + sum(col_ws[1:1+i], Inches(0))
@@ -605,7 +614,7 @@ def s09_financing_synth(prs):
     cw = Inches(3.93)
     x = MARGIN
     for title, c, items in cols:
-        card(s, x, Inches(1.85), cw, Inches(3.65), c, title, items, body_size=12)
+        card(s, x, Inches(1.85), cw, Inches(3.65), c, title, items, body_size=13.5)
         x += Inches(4.08)
 
     rect(s, MARGIN, Inches(5.75), Inches(12.1), Inches(0.85), NAVY)
@@ -649,7 +658,7 @@ def s10_capability(prs):
     cw = Inches(3.93)
     x = MARGIN
     for title, c, items in cols:
-        card(s, x, Inches(1.85), cw, Inches(4.2), c, title, items, body_size=11.5)
+        card(s, x, Inches(1.85), cw, Inches(4.2), c, title, items, body_size=13)
         x += Inches(4.08)
     source_note(s, "Bai et al. (2025) · Howell (2018) · Teece et al. (1997) · Whitfield & Wuttke (2026) · Konda et al. (2022)")
     footer(s, 10)
@@ -684,24 +693,24 @@ def s11_capability_synth(prs):
         d = Inches(0.34)
         oval(s, cx - d/2, cy - d/2, d, c)
         text(s, cx + Inches(0.22), cy - Inches(0.18), Inches(2.6), Inches(0.5),
-             label, 12.5, NAVY, font=BODY_FONT, bold=True)
+             label, 14, NAVY, font=BODY_FONT, bold=True)
     plot(ox + Inches(5.3), oy + Inches(3.25), "SAIC", SAIC)  # fast entry, shallow & dependent
     plot(ox + Inches(1.4), oy + Inches(0.95), "BYD", BYD)    # slow, deep & independent
     plot(ox + Inches(5.1), oy + Inches(1.55), "Geely", GEELY)  # fast, medium-deep
     # quadrant hints
     text(s, ox + Inches(0.15), oy + Inches(0.12), Inches(3.4), Inches(0.3),
-         "slow · deep & independent", 10, GREY, font=BODY_FONT, italic=True)
+         "slow · deep & independent", 11, GREY, font=BODY_FONT, italic=True)
     text(s, ox + mw - Inches(3.5), oy + Inches(0.12), Inches(3.4), Inches(0.3),
-         "fast · deep (rare)", 10, GREY, font=BODY_FONT, italic=True, align=PP_ALIGN.RIGHT)
+         "fast · deep (rare)", 11, GREY, font=BODY_FONT, italic=True, align=PP_ALIGN.RIGHT)
     text(s, ox + Inches(0.15), oy + mh - Inches(0.32), Inches(3.4), Inches(0.3),
-         "slow · shallow", 10, GREY, font=BODY_FONT, italic=True)
+         "slow · shallow", 11, GREY, font=BODY_FONT, italic=True)
     text(s, ox + mw - Inches(3.5), oy + mh - Inches(0.32), Inches(3.4), Inches(0.3),
-         "fast · shallow & dependent", 10, GREY, font=BODY_FONT, italic=True, align=PP_ALIGN.RIGHT)
+         "fast · shallow & dependent", 11, GREY, font=BODY_FONT, italic=True, align=PP_ALIGN.RIGHT)
 
     # right side takeaways
     rx = ox + mw + Inches(0.4)
     rw = Inches(4.1)
-    text(s, rx, oy, rw, Inches(0.35), "THE PROOF IN UTILISATION", 12, BLUE,
+    text(s, rx, oy, rw, Inches(0.35), "THE PROOF IN UTILISATION", 13, BLUE,
          font=BODY_FONT, bold=True)
     for i, (num, lbl, c) in enumerate([
         ("37%", "SAIC-GM capacity utilisation (2025)", RED),
@@ -712,7 +721,7 @@ def s11_capability_synth(prs):
         text(s, rx + Inches(0.15), y + Inches(0.1), Inches(1.4), Inches(0.7),
              num, 30, c, font=HEAD_FONT, bold=True, anchor=MSO_ANCHOR.MIDDLE)
         text(s, rx + Inches(1.6), y, rw - Inches(1.7), Inches(0.9),
-             lbl, 12, INK, font=BODY_FONT, anchor=MSO_ANCHOR.MIDDLE, line_spacing=1.0)
+             lbl, 13.5, INK, font=BODY_FONT, anchor=MSO_ANCHOR.MIDDLE, line_spacing=1.0)
     text(s, rx, oy + Inches(2.55), rw, Inches(1.5),
          "Mandatory transfer (SAIC) built scale fast but shallow — dependency hardened into a "
          "capability deficit. Organic depth (BYD) and co-development (Geely) preserved autonomy.",
@@ -753,7 +762,7 @@ def s12_viability(prs):
     cw = Inches(3.93)
     x = MARGIN
     for title, c, items in cols:
-        card(s, x, Inches(1.85), cw, Inches(4.2), c, title, items, body_size=11.5)
+        card(s, x, Inches(1.85), cw, Inches(4.2), c, title, items, body_size=13)
         x += Inches(4.08)
     source_note(s, "Annual Reports 2025 (FY2024) & 2026 (FY2025) · Geely interim results H1 2025 · European Commission (2024)")
     footer(s, 12)
@@ -786,7 +795,7 @@ def s13_scorecard(prs):
     rect(s, MARGIN, top, lab_w, Inches(0.6), NAVY)
     for c in crit:
         rect(s, x, top, cw, Inches(0.6), NAVY)
-        text(s, x + Inches(0.05), top, cw - Inches(0.1), Inches(0.6), c, 11.5, WHITE,
+        text(s, x + Inches(0.05), top, cw - Inches(0.1), Inches(0.6), c, 13, WHITE,
              font=BODY_FONT, bold=True, align=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE, line_spacing=0.9)
         x += cw
     # rows
@@ -802,7 +811,7 @@ def s13_scorecard(prs):
             val = data[comp][ci]
             d = Inches(0.32)
             oval(s, x + cw/2 - d/2, y + Inches(0.18), d, colormap[val])
-            text(s, x, y + Inches(0.55), cw, Inches(0.35), labelmap[val], 10.5,
+            text(s, x, y + Inches(0.55), cw, Inches(0.35), labelmap[val], 12,
                  colormap[val], font=BODY_FONT, bold=True, align=PP_ALIGN.CENTER)
             x += cw
 
@@ -816,7 +825,7 @@ def s13_scorecard(prs):
     for i, (v, lbl) in enumerate([(2, "Strong"), (1, "Mixed"), (0, "Weak")]):
         oval(s, lx + i * Inches(1.5), H - Inches(0.46), Inches(0.18), colormap[v])
         text(s, lx + i * Inches(1.5) + Inches(0.24), H - Inches(0.5), Inches(1.2), Inches(0.3),
-             lbl, 10, GREY, font=BODY_FONT)
+             lbl, 11, GREY, font=BODY_FONT)
     footer(s, 13)
     notes(s, """This scorecard puts the audit on one page. Green means strong, amber mixed, red weak.
 BYD is green almost everywhere — ready for EVs, strong balance sheet, fast to adapt. SAIC is
@@ -834,7 +843,7 @@ def s14_lessons12(prs):
     rect(s, MARGIN, Inches(1.85), Inches(5.95), Inches(4.2), CARD, line_color=LINE)
     rect(s, MARGIN, Inches(1.85), Inches(5.95), Inches(0.09), BLUE)
     text(s, MARGIN + Inches(0.2), Inches(2.05), Inches(5.55), Inches(0.3),
-         "LESSON 1", 12, BLUE, font=BODY_FONT, bold=True)
+         "LESSON 1", 13, BLUE, font=BODY_FONT, bold=True)
     text(s, MARGIN + Inches(0.2), Inches(2.35), Inches(5.55), Inches(0.8),
          "Capability mode determines durability across technology cycles", 16, NAVY,
          font=BODY_FONT, bold=True, line_spacing=1.0)
@@ -849,7 +858,7 @@ def s14_lessons12(prs):
     rect(s, lx, Inches(1.85), Inches(5.95), Inches(4.2), CARD, line_color=LINE)
     rect(s, lx, Inches(1.85), Inches(5.95), Inches(0.09), RED)
     text(s, lx + Inches(0.2), Inches(2.05), Inches(5.55), Inches(0.3),
-         "LESSON 2", 12, RED, font=BODY_FONT, bold=True)
+         "LESSON 2", 13, RED, font=BODY_FONT, bold=True)
     text(s, lx + Inches(0.2), Inches(2.35), Inches(5.55), Inches(0.8),
          "Governance is a first-order determinant of adaptability", 16, NAVY,
          font=BODY_FONT, bold=True, line_spacing=1.0)
@@ -860,11 +869,11 @@ def s14_lessons12(prs):
     # mini contrast
     rect(s, lx + Inches(0.2), Inches(5.05), Inches(2.65), Inches(0.85), RGBColor(0xFE, 0xE2, 0xE2))
     text(s, lx + Inches(0.3), Inches(5.1), Inches(2.45), Inches(0.75),
-         "SAIC, 2022: ICE exit\nstructurally impossible", 12, RED, font=BODY_FONT,
+         "SAIC, 2022: ICE exit\nstructurally impossible", 13, RED, font=BODY_FONT,
          bold=True, anchor=MSO_ANCHOR.MIDDLE, line_spacing=1.0)
     rect(s, lx + Inches(3.0), Inches(5.05), Inches(2.75), Inches(0.85), RGBColor(0xDB, 0xEA, 0xFE))
     text(s, lx + Inches(3.1), Inches(5.1), Inches(2.55), Inches(0.75),
-         "BYD, 2022: full ICE exit\ndecided in one year", 12, BLUE, font=BODY_FONT,
+         "BYD, 2022: full ICE exit\ndecided in one year", 13, BLUE, font=BODY_FONT,
          bold=True, anchor=MSO_ANCHOR.MIDDLE, line_spacing=1.0)
     footer(s, 14)
     notes(s, """Two general lessons come out of the cases. First, how a firm builds skills decides how
@@ -880,14 +889,14 @@ def s15_lesson3_concl(prs):
     rect(s, 0, 0, W, H, NAVY)
     rect(s, 0, 0, Inches(0.16), H, BLUE)
     text(s, MARGIN, Inches(0.45), Inches(12.1), Inches(0.3),
-         "GENERALIZABLE LESSONS · CONCLUSION", 12.5, TEAL, font=BODY_FONT, bold=True)
+         "GENERALIZABLE LESSONS · CONCLUSION", 13, TEAL, font=BODY_FONT, bold=True)
     text(s, MARGIN, Inches(0.78), Inches(12.1), Inches(0.6),
          "Lesson 3 & conclusion: governance is strategy, not its footnote", 26, WHITE,
          font=HEAD_FONT, bold=True)
 
     # Lesson 3
     text(s, MARGIN, Inches(1.75), Inches(7.3), Inches(0.35),
-         "LESSON 3", 12, TEAL, font=BODY_FONT, bold=True)
+         "LESSON 3", 13, TEAL, font=BODY_FONT, bold=True)
     text(s, MARGIN, Inches(2.05), Inches(7.3), Inches(0.5),
          "Capital structure determines resilience when markets contract", 16, WHITE,
          font=BODY_FONT, bold=True, line_spacing=1.0)
@@ -965,7 +974,7 @@ def s17_ai_platform(prs):
                     "AI used as research infrastructure — a layered agent architecture")
     # models
     text(s, MARGIN, Inches(1.8), Inches(12.1), Inches(0.3),
-         "PLATFORM: CLAUDE CODE (ANTHROPIC)", 12, BLUE, font=BODY_FONT, bold=True)
+         "PLATFORM: CLAUDE CODE (ANTHROPIC)", 13, BLUE, font=BODY_FONT, bold=True)
     models = [("claude-sonnet-4-6", "Primary model: ingestion, drafting, APA checks, comparison table"),
               ("claude-opus-4", "Selective: cross-case reasoning, central argument, logic checks")]
     x = MARGIN
@@ -975,12 +984,12 @@ def s17_ai_platform(prs):
         text(s, x + Inches(0.2), Inches(2.28), Inches(5.55), Inches(0.35),
              m, 14, NAVY, font=BODY_FONT, bold=True)
         text(s, x + Inches(0.2), Inches(2.65), Inches(5.55), Inches(0.45),
-             d, 12, INK, font=BODY_FONT, line_spacing=1.0)
+             d, 13.5, INK, font=BODY_FONT, line_spacing=1.0)
         x += Inches(6.15)
 
     # agents
     text(s, MARGIN, Inches(3.4), Inches(12.1), Inches(0.3),
-         "FIVE SPECIALISED AGENTS", 12, BLUE, font=BODY_FONT, bold=True)
+         "FIVE SPECIALISED AGENTS", 13, BLUE, font=BODY_FONT, bold=True)
     agents = [("wiki-ingest", "Structured\nsource ingestion"),
               ("wiki-query", "Retrieval from\nknowledge base"),
               ("wiki-lint", "Health-check\n& consistency"),
@@ -992,9 +1001,9 @@ def s17_ai_platform(prs):
         rect(s, x, Inches(3.75), aw, Inches(1.35), CARD, line_color=LINE)
         rect(s, x, Inches(3.75), aw, Inches(0.07), TEAL)
         text(s, x + Inches(0.12), Inches(3.9), aw - Inches(0.24), Inches(0.35),
-             name, 12.5, TEAL, font=BODY_FONT, bold=True)
+             name, 13.5, TEAL, font=BODY_FONT, bold=True)
         text(s, x + Inches(0.12), Inches(4.3), aw - Inches(0.24), Inches(0.7),
-             desc, 11.5, INK, font=BODY_FONT, line_spacing=1.0)
+             desc, 13, INK, font=BODY_FONT, line_spacing=1.0)
         x += Inches(2.42)
 
     bullets(s, MARGIN, Inches(5.4), Inches(12.1), Inches(1.3), [
@@ -1028,11 +1037,11 @@ def s18_ai_value(prs):
         text(s, x + Inches(0.18), Inches(2.05), cw - Inches(0.36), Inches(0.4),
              f"Error {i+1} · {t}", 14, GREEN, font=BODY_FONT, bold=True)
         text(s, x + Inches(0.18), Inches(2.5), cw - Inches(0.36), Inches(1.2),
-             d, 12.5, INK, font=BODY_FONT, line_spacing=1.05)
+             d, 13.5, INK, font=BODY_FONT, line_spacing=1.05)
         x += Inches(4.08)
 
     text(s, MARGIN, Inches(4.05), Inches(12.1), Inches(0.3),
-         "WHAT WORKED IN PRACTICE", 12, BLUE, font=BODY_FONT, bold=True)
+         "WHAT WORKED IN PRACTICE", 13, BLUE, font=BODY_FONT, bold=True)
     bullets(s, MARGIN, Inches(4.4), Inches(12.1), Inches(2.1), [
         "Best prompt pattern: “review this as a Dozent looking for overclaims, logical gaps and APA errors.”",
         "Fact-checking: isolate one claim and ask it to trace the exact source passage before it enters the draft.",
@@ -1112,9 +1121,9 @@ def s20_references(prs):
         "Annual Reports: SAIC Motor (2025, 2026); BYD (2025, 2026); Geely Automobile Holdings (2025a, 2025b, 2026).",
         "Also cited: Bortolotti & Faccio (2009); Inkpen & Beamish (1997); Wang et al. (2022); Zhang et al. (2025); Zheng et al. (2022); Allen et al. (2024).",
     ]
-    bullets(s, MARGIN, Inches(1.85), Inches(5.95), Inches(5.0), refs_l, 10.5,
+    bullets(s, MARGIN, Inches(1.85), Inches(5.95), Inches(5.0), refs_l, 11.5,
             gap=8, marker="", line_spacing=1.0)
-    bullets(s, MARGIN + Inches(6.15), Inches(1.85), Inches(5.95), Inches(5.0), refs_r, 10.5,
+    bullets(s, MARGIN + Inches(6.15), Inches(1.85), Inches(5.95), Inches(5.0), refs_r, 11.5,
             gap=8, marker="", line_spacing=1.0)
     footer(s, 20)
     notes(s, """These are the main sources behind the talk, in APA 7 style. The core theory comes from
