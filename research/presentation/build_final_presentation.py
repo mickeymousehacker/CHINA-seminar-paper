@@ -525,27 +525,24 @@ def s10_capability(prs):
     kicker_headline(s, "Dimension 3 · Capability building",
                     "How a firm learns determines what it can do next")
     cols = [("SAIC — mandatory transfer", SAIC,
-             ["Tech-for-access through state-mandated JVs",
-              "+8.3% product quality from quid pro quo (Bai et al., 2025)",
-              "But JV rents suppressed own R&D — “like opium” (Howell, 2018)",
-              "No proprietary EV platform when the cycle turned",
-              "Capability paradox: scale without sovereignty"]),
+             ["Tech-for-access via state-mandated JVs",
+              "+8.3% quality, but rents killed own R&D (Bai 2025; Howell 2018)",
+              "No proprietary EV platform when the cycle turned"]),
             ("BYD — organic build", BYD_C,
-             ["Battery → power electronics → software, in-house",
-              "Built ahead of state policy (Whitfield & Wuttke, 2026)",
-              "Tacit, path-dependent knowledge — non-imitable (Teece et al., 1997)",
-              "Slowest to build, but the deepest and most durable",
-              "Full vertical stack = a structural moat"]),
+             ["Built in-house: battery → power electronics → software",
+              "Path-dependent, non-imitable knowledge (Teece, 1997)",
+              "Slowest to build, but the deepest moat"]),
             ("Geely — acquisition + co-dev", GEELY,
-             ["Volvo (2010): brand and engineering depth at once",
-              "CMA platform = genuine cross-brand co-development",
-              "Patent convergence confirms co-creation (Konda et al., 2022)",
-              "Fastest of the three to global technology parity",
-              "Risk: depends on arm's-length partner relations"])]
+             ["Volvo (2010): engineering depth and brand at once",
+              "Real co-development, not copying (CMA platform)",
+              "Patent convergence confirms co-creation (Konda, 2022)"])]
     x = MARGIN
     for title, c, items in cols:
-        card(s, x, Inches(1.85), Inches(3.93), Inches(4.15), c, title, items, bsize=12)
+        card(s, x, Inches(2.15), Inches(3.93), Inches(2.7), c, title, items, bsize=13.5)
         x = Emu(x + Inches(4.08))
+    text(s, MARGIN, Inches(5.35), Inches(12.1), Inches(0.6),
+         "The mode of learning sets durability: handed-over technology fades when the cycle turns; "
+         "built or co-developed knowledge lasts.", 14, NAVY, bold=True, ls=1.05)
     source(s, "Bai et al. (2025) · Howell (2018) · Teece et al. (1997) · Whitfield & Wuttke (2026) · Konda et al. (2022)")
     footer(s, 10)
     notes(s, """How a firm learns shapes what it can build later, and our three firms learned in three
@@ -565,31 +562,29 @@ def s11_cap_synth(prs):
     s = blank(prs)
     kicker_headline(s, "Dimension 3 · Speed vs. depth",
                     "Capability building trades speed against depth against independence")
-    cols = [("SAIC — fast, but shallow", SAIC,
-             ["JV transfer delivered quality fastest (+8.3%, Bai et al., 2025)",
-              "But rent cannibalisation suppressed own innovation (Howell, 2018)",
-              "No proprietary EV platform when the cycle turned"]),
-            ("Geely — fast and deep", GEELY,
-             ["Acquisition compressed the capability timeline",
-              "Converted purchase into genuine co-development (CMA platform)",
-              "Measurable patent convergence (Konda et al., 2022)"]),
-            ("BYD — slow, but deepest", BYD_C,
-             ["Three decades, cell chemistry → vehicle software",
-              "Path-dependent tacit knowledge — non-imitable (Teece et al., 1997)",
-              "Slowest to build, but structurally hardest to copy"])]
-    x = MARGIN
-    for title, c, items in cols:
-        card(s, x, Inches(1.85), Inches(3.93), Inches(2.95), c, title, items, bsize=12.5)
-        x = Emu(x + Inches(4.08))
-    rect(s, MARGIN, Inches(5.05), Inches(12.1), Inches(1.35), NAVY)
-    text(s, MARGIN + Inches(0.25), Inches(5.2), Inches(11.6), Inches(0.45),
-         "The proof in utilisation", 15, TEAL, bold=True)
-    text(s, MARGIN + Inches(0.25), Inches(5.62), Inches(11.6), Inches(0.7),
-         "SAIC-GM plants run at 37% capacity and VW's MEB plant at 14% (2025) — mandatory transfer "
-         "built scale fast but shallow, and dependency hardened into a capability deficit. Organic "
-         "depth (BYD) and co-development (Geely) preserved autonomy.",
-         13, WHITE, ls=1.1)
-    source(s, "Bai et al. (2025) · Howell (2018) · Konda et al. (2022) · Teece et al. (1997) · SAIC Motor (2026)")
+    rowsd = [(SAIC, "SAIC", "Fast, but shallow",
+              "Fastest to quality (+8.3%) — but dependent, with no EV platform of its own."),
+             (GEELY, "Geely", "Fast and deep",
+              "Turned the Volvo purchase into real co-development (CMA platform; patent convergence)."),
+             (BYD_C, "BYD", "Slow, but deepest",
+              "30 years from cells to software — non-imitable, fully its own (Teece, 1997).")]
+    y = Inches(2.0)
+    for c, firm, verdict, body in rowsd:
+        rect(s, MARGIN, y, Inches(12.1), Inches(0.95), CARD, line_color=LINE)
+        rect(s, MARGIN, y, Inches(1.7), Inches(0.95), c)
+        text(s, MARGIN, y, Inches(1.7), Inches(0.95), firm, 16, WHITE, bold=True,
+             align=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE)
+        text(s, MARGIN + Inches(1.95), y, Inches(3.2), Inches(0.95), verdict, 15, c, bold=True,
+             anchor=MSO_ANCHOR.MIDDLE)
+        text(s, MARGIN + Inches(5.2), y, Inches(6.7), Inches(0.95), body, 13.5, INK,
+             anchor=MSO_ANCHOR.MIDDLE, ls=1.05)
+        y = Emu(y + Inches(1.08))
+    rect(s, MARGIN, Inches(5.4), Inches(12.1), Inches(1.0), NAVY)
+    text(s, MARGIN + Inches(0.25), Inches(5.4), Inches(11.6), Inches(1.0),
+         "The proof: SAIC-GM plants run at just 37% capacity and VW's MEB plant at 14% (2025) — "
+         "dependency hardened into a capability deficit, while organic depth and co-development kept autonomy.",
+         14, WHITE, bold=True, anchor=MSO_ANCHOR.MIDDLE, ls=1.1)
+    source(s, "Bai et al. (2025) · Konda et al. (2022) · Teece et al. (1997) · SAIC Motor (2026)")
     footer(s, 11)
     notes(s, """This chart sums up learning as a trade-off between three things: speed, depth, and
 independence. Moving right means faster; moving up means deeper and more independent. SAIC sits low
@@ -608,27 +603,24 @@ def s12_viability(prs):
     kicker_headline(s, "Dimension 4 · Long-term viability",
                     "The EV transition tests which model was built to adapt")
     cols = [("SAIC — most exposed", SAIC,
-             ["JV plants at 14–37% capacity — dependency now deficit",
-              "But the own-brand pivot has real substance:",
-              "NEV 1.643 m units (+33%), with zero direct subsidies",
-              "SHANGJIE with Huawei; first mass semi-solid battery",
-              "A race: eroding JV rents vs. thin own-brand margin"]),
+             ["JV plants at 14–37% capacity",
+              "But own-brand NEV +33%, with zero subsidies",
+              "A race: eroding JV rents vs. thin margin"]),
             ("BYD — strongest position", BYD_C,
-             ["No combustion engines since 2022",
-              "World #1 NEV maker for four straight years",
-              ">1 m exports in 2025 (+140%); 119 countries",
-              "Self-funded EV scale-up; lowest tariff (17%)",
-              "Margin pressure: gross margin 19.4% → 17.7%"]),
+             ["No combustion engines since 2022; #1 NEV 4 years",
+              ">1 m exports (+140%), 119 countries",
+              "Self-funded; only margin under pressure"]),
             ("Geely — most asymmetric", GEELY,
-             ["NEV share 51.5% in H1 2025 (+126%)",
-              "3.02 m deliveries FY2025; H1 adj. profit +102%",
-              "Operating cash flow RMB 47.3 bn = headroom",
-              "But platforms depend on Volvo / Smart partners",
-              "Polestar & Lotus losses = contingent liability"])]
+             ["NEV 51.5% in H1 2025; H1 profit +102%",
+              "Strong cash flow gives headroom",
+              "But partner-dependent; Polestar/Lotus losses"])]
     x = MARGIN
     for title, c, items in cols:
-        card(s, x, Inches(1.85), Inches(3.93), Inches(4.15), c, title, items, bsize=12)
+        card(s, x, Inches(2.15), Inches(3.93), Inches(2.7), c, title, items, bsize=13.5)
         x = Emu(x + Inches(4.08))
+    text(s, MARGIN, Inches(5.35), Inches(12.1), Inches(0.6),
+         "Same technology shock, three very different outcomes — exactly what the governance and "
+         "capability choices predicted.", 14, NAVY, bold=True, ls=1.05)
     source(s, "Annual Reports 2025 (FY2024) & 2026 (FY2025) · Geely interim results H1 2025 · European Commission (2024)")
     footer(s, 12)
     notes(s, """The EV transition works like an audit — it tests every earlier choice. SAIC is the most
@@ -783,7 +775,7 @@ def s16_conclusion(prs):
     text(s, MARGIN, Inches(0.5), Inches(12), Inches(0.3),
          "CONCLUSION", 14, TEAL, bold=True)
     text(s, MARGIN, Inches(0.95), Inches(12.1), Inches(0.6),
-         "Governance is not a footnote to strategy — it is strategy", 28, WHITE, font=HEAD, bold=True)
+         "Structure, more than technology, decided the outcome", 28, WHITE, font=HEAD, bold=True)
     qx = MARGIN
     rect(s, qx, Inches(1.95), Inches(7.3), Inches(4.0), NAVY2)
     rect(s, qx, Inches(1.95), Inches(7.3), Inches(0.09), TEAL)
@@ -855,34 +847,37 @@ def s18_ai_arch(prs):
     s = blank(prs)
     kicker_headline(s, "AI annex · Architecture & workflow",
                     "AI as research infrastructure — a layered agent system, not a chatbot")
-    text(s, MARGIN, Inches(1.85), Inches(12.1), Inches(0.3), "PLATFORM: CLAUDE CODE (ANTHROPIC)",
-         12.5, BLUE, bold=True)
-    models = [("claude-sonnet-4-6", "Primary: ingestion, drafting, APA checks, comparison table"),
-              ("claude-opus-4", "Selective: cross-case reasoning, central argument, logic checks")]
-    x = MARGIN
-    for m, d in models:
-        rect(s, x, Inches(2.2), Inches(5.95), Inches(1.0), CARD, line_color=LINE)
-        rect(s, x, Inches(2.2), Inches(0.09), Inches(1.0), BLUE)
-        text(s, x + Inches(0.2), Inches(2.33), Inches(5.55), Inches(0.35), m, 14, NAVY, bold=True)
-        text(s, x + Inches(0.2), Inches(2.7), Inches(5.55), Inches(0.45), d, 12.5, INK, ls=1.0)
-        x = Emu(x + Inches(6.15))
-    text(s, MARGIN, Inches(3.45), Inches(12.1), Inches(0.3), "FIVE SPECIALISED AGENTS", 12.5,
-         BLUE, bold=True)
-    agents = [("wiki-ingest", "structured\ningest of sources"), ("wiki-query", "retrieval from\nthe knowledge base"),
-              ("wiki-lint", "links, contradictions,\nstale data"), ("verify-claims", "trace claims to\nprimary sources"),
-              ("find-references", "find supporting\nliterature")]
-    x = MARGIN
-    for name, desc in agents:
-        rect(s, x, Inches(3.8), Inches(2.32), Inches(1.35), CARD, line_color=LINE)
-        rect(s, x, Inches(3.8), Inches(2.32), Inches(0.07), TEAL)
-        text(s, x + Inches(0.12), Inches(3.95), Inches(2.08), Inches(0.35), name, 12.5, TEAL, bold=True)
-        text(s, x + Inches(0.12), Inches(4.35), Inches(2.08), Inches(0.7), desc, 11.5, INK, ls=1.0)
-        x = Emu(x + Inches(2.42))
-    text(s, MARGIN, Inches(5.45), Inches(12.1), Inches(0.9),
-         "Shared git repository: one wiki subfolder per case (SAIC / BYD / Geely) plus a shared layer "
-         "(EU regulation, IEA data). Rule: git pull before every session, git push after — so the tool "
-         "could read all three case wikis at once and compare them directly, with no manual hand-offs.",
-         13, INK, ls=1.1)
+    # Compact models + agents line (de-emphasised)
+    text(s, MARGIN, Inches(1.8), Inches(12.1), Inches(0.3),
+         "Platform: Claude Code (Anthropic) — claude-sonnet-4-6 (primary) · claude-opus-4 (hard analysis)",
+         12, GREY, bold=True)
+    text(s, MARGIN, Inches(2.18), Inches(12.1), Inches(0.3),
+         "5 agents: wiki-ingest · wiki-query · wiki-lint · verify-claims · find-references",
+         12, GREY, bold=True)
+    # Prominent shared-repo folder tree (the core of the workflow)
+    rect(s, MARGIN, Inches(2.75), Inches(6.5), Inches(3.55), CARD, line_color=LINE)
+    rect(s, MARGIN, Inches(2.75), Inches(6.5), Inches(0.09), BLUE)
+    text(s, MARGIN + Inches(0.25), Inches(2.95), Inches(6.0), Inches(0.4),
+         "One shared git repository", 17, NAVY, bold=True)
+    tree = [("research/wiki/", NAVY, 0),
+            ("├─ saic-motor/", SAIC, 1),
+            ("├─ byd/", BYD_C, 1),
+            ("├─ geely/", GEELY, 1),
+            ("└─ shared/   — EU regulation · IEA data", GREY, 1)]
+    yy = Inches(3.5)
+    for txt_, col, lvl in tree:
+        text(s, MARGIN + Inches(0.4) + Inches(0.3) * lvl, yy, Inches(5.8), Inches(0.4),
+             txt_, 15, col, bold=(lvl == 0), font="Consolas")
+        yy = Emu(yy + Inches(0.46))
+    # Right: why it matters
+    rx = Emu(MARGIN + Inches(6.9))
+    text(s, rx, Inches(2.95), Inches(5.4), Inches(0.4), "Why it mattered", 17, BLUE, bold=True)
+    bullets(s, rx, Inches(3.5), Inches(5.4), Inches(2.8), [
+        "One folder per case + a shared layer for common data",
+        "Rule: git pull before each session, push after",
+        "The tool read all three case wikis at once",
+        "Direct cross-case comparison — no manual hand-offs",
+    ], 14, gap=10)
     footer(s, 17)
     notes(s, """Now the AI reflection, which the seminar asks us to include. The first thing to say is
 that we did not use a simple chatbot. We used Claude Code as a layered system. A main model did most
@@ -900,26 +895,30 @@ actually added to the quality of the work.""")
 def s19_ai_value(prs):
     s = blank(prs)
     kicker_headline(s, "AI annex · Value & quality control",
-                    "Most valuable: catching three real data errors before submission")
-    errs = [("EU tariff", "Provisional 36.3% → final 35.3% for SAIC, traced to the regulation."),
-            ("Currency unit", "A net-profit figure inflated 10× by a unit ambiguity in a secondary source."),
-            ("Share count", "A BYD EPS figure built on the wrong share count, fixed via the audited report.")]
+                    "Where AI added the most value")
+    # Positives first and prominent
+    text(s, MARGIN, Inches(1.8), Inches(12.1), Inches(0.3), "WHAT WORKED IN PRACTICE", 13,
+         BLUE, bold=True)
+    bullets(s, MARGIN, Inches(2.15), Inches(12.1), Inches(2.0), [
+        "Compressed research time: 30+ papers and reports ingested, indexed and made searchable.",
+        "Source discipline: every source rated by quality (Q1–Q5) × relevance (R1–R4), arguments on Q1/Q2 only.",
+        "Sharpest prompt: “review this as a Dozent looking for overclaims, logical gaps and APA errors.”",
+        "Fact-checking: isolate one claim and make it quote the exact source passage before use.",
+    ], 14, gap=9)
+    # Errors as a smaller supporting row at the bottom
+    text(s, MARGIN, Inches(4.55), Inches(12.1), Inches(0.3),
+         "AND IT CAUGHT THREE DATA ERRORS BEFORE SUBMISSION", 12, GREEN, bold=True)
+    errs = [("EU tariff", "Provisional 36.3% → final 35.3% (SAIC)."),
+            ("Currency unit", "A net-profit figure inflated 10× in a source."),
+            ("Share count", "A BYD EPS built on the wrong share count.")]
     x = MARGIN
     for i, (t, d) in enumerate(errs):
-        rect(s, x, Inches(1.85), Inches(3.93), Inches(1.95), CARD, line_color=LINE)
-        rect(s, x, Inches(1.85), Inches(3.93), Inches(0.09), GREEN)
-        text(s, x + Inches(0.18), Inches(2.05), Inches(3.6), Inches(0.4), f"Error {i+1} · {t}",
-             14, GREEN, bold=True)
-        text(s, x + Inches(0.18), Inches(2.5), Inches(3.6), Inches(1.2), d, 12.5, INK, ls=1.05)
+        rect(s, x, Inches(4.9), Inches(3.93), Inches(1.15), CARD, line_color=LINE)
+        rect(s, x, Inches(4.9), Inches(0.09), Inches(1.15), GREEN)
+        text(s, x + Inches(0.18), Inches(5.02), Inches(3.6), Inches(0.35), f"{i+1} · {t}",
+             13, GREEN, bold=True)
+        text(s, x + Inches(0.18), Inches(5.4), Inches(3.6), Inches(0.6), d, 12, INK, ls=1.0)
         x = Emu(x + Inches(4.08))
-    text(s, MARGIN, Inches(4.05), Inches(12.1), Inches(0.3), "WHAT WORKED IN PRACTICE", 12.5,
-         BLUE, bold=True)
-    bullets(s, MARGIN, Inches(4.4), Inches(12.1), Inches(2.0), [
-        "Source discipline: every source rated by journal quality (Q1–Q5) × relevance (R1–R4); arguments built on Q1/Q2 only, with a per-case writing guide for consistency.",
-        "Best prompt pattern: “review this as a Dozent looking for overclaims, logical gaps and APA errors.”",
-        "Fact-checking: isolate one claim and ask it to quote the exact source passage before it enters the draft.",
-        "Cross-case work was reliable only with explicit wiki access — “compare X using only verified wiki data,” not free recall.",
-    ], 13, gap=8)
     source(s, "All three corrections traced back to the PwC- / Ernst & Young-audited annual reports.")
     footer(s, 18)
     notes(s, """The single most valuable thing the tool did was catch mistakes before they reached the
@@ -943,7 +942,7 @@ def s20_ai_limits(prs):
     text(s, MARGIN + Inches(0.2), Inches(2.15), Inches(5.55), Inches(0.4), "Real limitations", 16,
          AMBER, bold=True)
     bullets(s, MARGIN + Inches(0.2), Inches(2.65), Inches(5.55), Inches(2.7), [
-        "No access to paywalled journals (e.g. AER behind the Goethe paywall).",
+        "Cannot download paywalled PDFs — it knows the papers' content, but key claims still needed manual reading and checking.",
         "Geely PDFs were not machine-readable → more manual web research.",
         "Token / context limits hit quickly on the stronger model in long sessions.",
         "Output was often verbose and needed active editing; some DOIs were wrong.",
