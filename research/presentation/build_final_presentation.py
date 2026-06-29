@@ -75,6 +75,15 @@ def _no_bullet(p):
     pPr.append(pPr.makeelement(qn("a:buNone"), {}))
 
 
+# Global readability scale (Julia enlarged most body/label text to ~15-16 pt).
+# Applied to all run sizes below 18 pt; big headlines and stat numbers stay as-is.
+FONT_SCALE = 1.16
+
+
+def _sz(pt):
+    return Pt(pt * FONT_SCALE if pt < 18 else pt)
+
+
 def text(s, l, t, w, h, lines, size, color, *, font=BODY, bold=False, italic=False,
          align=PP_ALIGN.LEFT, anchor=MSO_ANCHOR.TOP, ls=1.0, sa=2):
     tb = s.shapes.add_textbox(l, t, w, h); tf = tb.text_frame
@@ -87,7 +96,7 @@ def text(s, l, t, w, h, lines, size, color, *, font=BODY, bold=False, italic=Fal
         p = tf.paragraphs[0] if first else tf.add_paragraph(); first = False
         p.alignment = align; p.line_spacing = ls; p.space_before = Pt(0); p.space_after = Pt(sa)
         r = p.add_run(); r.text = ln
-        r.font.name = font; r.font.size = Pt(size); r.font.bold = bold
+        r.font.name = font; r.font.size = _sz(size); r.font.bold = bold
         r.font.italic = italic; r.font.color.rgb = color
     return tb
 
@@ -102,11 +111,11 @@ def bullets(s, l, t, w, h, items, size, color=INK, *, gap=6, marker="–",
         p = tf.paragraphs[0] if first else tf.add_paragraph(); first = False
         p.space_after = Pt(gap); p.space_before = Pt(0); p.line_spacing = ls
         _no_bullet(p)
-        if marker:
+        if marker and not it.startswith("→"):
             rm = p.add_run(); rm.text = marker + "  "
-            rm.font.name = BODY; rm.font.size = Pt(size); rm.font.color.rgb = mcolor or BLUE
+            rm.font.name = BODY; rm.font.size = _sz(size); rm.font.color.rgb = mcolor or BLUE
         r = p.add_run(); r.text = it
-        r.font.name = BODY; r.font.size = Pt(size); r.font.color.rgb = color
+        r.font.name = BODY; r.font.size = _sz(size); r.font.color.rgb = color
     return tb
 
 
@@ -354,8 +363,8 @@ def s05_framework(prs):
              align=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE)
     text(s, MARGIN, Inches(5.95), Inches(12.1), Inches(0.6),
          "Reading the matrix: the firm that is least adaptable in governance is also the most "
-         "exposed in viability — the columns are linked, not independent.", 14, NAVY, bold=True, ls=1.05)
-    source(s, "Anchors: Shleifer & Vishny (1994) · Megginson & Netter (2001) · Teece et al. (1997) · Luo & Tung (2007) · Fan et al. (2007)")
+         "exposed in viability", 14, NAVY, bold=True, ls=1.05)
+    source(s, "Shleifer & Vishny (1994) · Megginson & Netter (2001) · Teece et al. (1997) · Luo & Tung (2007) · Fan et al. (2007)")
     footer(s, 5)
     notes(s, """This matrix is the map for the rest of the talk, so it is worth a moment. The three
 rows are the three firms. The four columns are our four lenses. If you read across a row, you see
@@ -389,7 +398,7 @@ def s06_governance(prs):
         "Agile in M&A, but coordination cost across brands",
         "Volvo / Polestar / Lotus add portfolio complexity",
         "Loss-making subsidiaries = contingent liability"], bsize=12.5)
-    source(s, "Theory: Shleifer & Vishny (1994) · Fan et al. (2007) · Jensen & Meckling (1976) · Megginson & Netter (2001)")
+    source(s, "Shleifer & Vishny (1994) · Fan et al. (2007) · Jensen & Meckling (1976) · Megginson & Netter (2001)")
     footer(s, 6)
     notes(s, """Governance is really two questions: who holds control, and what they try to maximise.
 SAIC sits under the state. The asset commission owns about seventy-three percent, and the Party
@@ -507,7 +516,7 @@ def s09_table(prs):
     text(s, MARGIN, Inches(6.35), Inches(12.1), Inches(0.45),
          "BYD's R&D exceeds its net profit; SAIC's headline 2025 recovery is mostly the absence of "
          "2024 write-downs, not a structural turnaround.", 13, NAVY, bold=True, ls=1.0)
-    source(s, "Table 1 (paper, §3.4) · Annual Reports SAIC/BYD/Geely 2024 & 2025 · EU Reg. 2024/2754")
+    source(s, "Annual Reports SAIC/BYD/Geely 2024 & 2025 · EU Reg. 2024/2754")
     footer(s, 9)
     notes(s, """This is the financial picture in one table, taken straight from our paper. Look at a few
 rows. Return on equity: BYD and Geely are near twenty percent, while SAIC is below one — that single
@@ -691,7 +700,7 @@ def s14_verdict(prs):
     s = blank(prs)
     rect(s, 0, 0, W, H, NAVY)
     rect(s, 0, 0, Inches(0.16), H, BLUE)
-    text(s, MARGIN, Inches(0.5), Inches(12), Inches(0.3), "VERDICT", 14, TEAL, bold=True)
+    text(s, MARGIN, Inches(0.5), Inches(12), Inches(0.3), "RESULT", 14, TEAL, bold=True)
     text(s, MARGIN, Inches(0.85), Inches(12.1), Inches(1.0),
          "BYD's founder-led vertical integration is the model most likely\nto create long-term "
          "shareholder value", 26, WHITE, font=HEAD, bold=True, ls=1.0)
@@ -943,7 +952,6 @@ def s20_ai_limits(prs):
          AMBER, bold=True)
     bullets(s, MARGIN + Inches(0.2), Inches(2.65), Inches(5.55), Inches(2.7), [
         "Cannot download paywalled PDFs — it knows the papers' content, but key claims still needed manual reading and checking.",
-        "Geely PDFs were not machine-readable → more manual web research.",
         "Token / context limits hit quickly on the stronger model in long sessions.",
         "Output was often verbose and needed active editing; some DOIs were wrong.",
     ], 12.5, gap=8, mcolor=AMBER)
@@ -978,7 +986,7 @@ that, let me show our sources, and then we are happy to take your questions.""")
 
 def s21_refs(prs):
     s = blank(prs)
-    kicker_headline(s, "References", "Key sources (APA 7)")
+    kicker_headline(s, "References", "Key sources")
     refs_l = [
         "Allen, F., Qian, J., Shan, C., & Zhu, J. L. (2024). Dissecting the long-term performance of the Chinese stock market. Journal of Finance, 79(2).",
         "Bai, J., Barwick, P. J., Cao, S., & Li, S. (2025). Quid pro quo, knowledge spillovers, and industrial quality upgrading. American Economic Review, 115(11).",
