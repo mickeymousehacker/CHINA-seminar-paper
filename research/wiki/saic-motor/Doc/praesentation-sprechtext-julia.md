@@ -2,7 +2,7 @@
 
 **Quelle:** `research/presentation/China-Strategies-Presentation-FINAL.pptx` — Sprecherzuordnung laut Notizen.
 **Deine Folien:** 6 (Einleitung + SAIC), 7 (komplett), 8 (Einleitung + SAIC), 10 (Einleitung + SAIC), 11 (komplett), 12 (Einleitung + SAIC), 13, 14, 15, 16 (komplett)
-**Geschätzte Redezeit:** ~1.779 Wörter ≈ **~13 Minuten** (12,7 min @140 wpm / 13,7 min @130 wpm)
+**Geschätzte Redezeit:** ~1.774 Wörter ≈ **~13 Minuten** (12,7 min @140 wpm / 13,6 min @130 wpm)
 **Timing-Logik:** 20 Folien × 2 Min = 40 Min Gesamt ÷ 3 Personen ≈ 13,3 Min/Person. Auf den geteilten Folien (6, 8, 10, 12) ist dein SAIC-Teil bewusst auf ~100–110 Wörter (~0,8 Min) gekürzt, damit Batu (BYD) und Chiara (Geely + Fazit-Box) im selben 2-Minuten-Slot noch Platz haben. Deine Solo-Folien (7, 11, 13–16) sind dafür näher an den vollen 2 Minuten.
 **Sprache:** Englisch (wie die Präsentation)
 
@@ -61,7 +61,7 @@
 
 > Each firm funds its growth differently, and the difference shows up in a downturn.
 >
-> SAIC was capital-light: its joint-venture partners — Volkswagen, General Motors — co-invested in the factories, and SAIC collected roughly half the equity income without carrying the full risk. That felt safe — until SAIC-GM sales fell by more than half, triggering write-downs of over thirty billion renminbi in 2024. The same fifty-fifty structure that once shared the upside now shared the downside, and SAIC was still bound to absorb its share, with no unilateral control to fix the business. Net profit fell eighty-eight percent, and return on equity dropped to just zero point five eight percent — the capital-light model had become a capital trap.
+> SAIC was capital-light: its joint-venture partners — Volkswagen, General Motors — co-invested in the factories, and SAIC collected roughly half the equity income without carrying the full risk. That felt safe — until SAIC-GM sales fell fifty-six point five percent, triggering impairments. The same fifty-fifty structure that once shared the upside now shared the downside, and SAIC was still bound to absorb its share, with no unilateral control to fix the business. Net profit fell eighty-eight percent, and return on equity dropped to just zero point five eight percent — the capital-light model had become a capital trap.
 
 **→ [HANDOFF]** Batu übernimmt den BYD-Teil, Chiara den Geely-Teil. Chiara beendet die Folie mit der Fazit-Box:
 *"Risk-sharing captures upside in growth but exposes the firm in a downturn; self-financing trades growth speed for resilience; leverage trades balance-sheet safety for strategic speed."*
@@ -73,7 +73,7 @@
 
 > How a firm learns shapes what it can build later.
 >
-> SAIC's route was mandated technology transfer: the price of market access was a joint venture meant to work as a classroom. It did work, to a point — studies find roughly an eight percent quality gain. But steady JV profit also removed the pressure to invent: why fund risky in-house R&D when the joint venture already pays the dividend? SAIC has poured over one hundred fifty billion renminbi cumulatively into EV investment, and still had no EV platform of its own when the cycle turned. It had the capital, but not the platform.
+> SAIC's route was mandated technology transfer: the price of market access was a joint venture meant to work as a classroom. It did work, to a point — Bai and Howell find an eight point three percent quality gain. But steady JV profit also killed its own R&D: why fund risky in-house work when the joint venture already pays the dividend? SAIC has poured over one hundred fifty billion renminbi cumulatively into EV investment, and still had no EV platform of its own when the cycle turned. It had the capital, but not the platform.
 
 **→ [HANDOFF]** Batu übernimmt den BYD-Teil, Chiara den Geely-Teil. Chiara beendet die Folie mit der Fazit-Box:
 *"The mode of learning sets durability: handed-over technology fades when the cycle turns; built or co-developed knowledge lasts."*
@@ -102,7 +102,7 @@
 
 > The EV shift tests every earlier choice.
 >
-> SAIC is the most exposed — we just saw its plants running at a fraction of capacity — but to be fair, its own brand is genuinely growing: NEV sales up roughly a third year over year, with no direct state subsidies. SAIC has also launched a new brand with Huawei, SHANGJIE, part of what it calls "Joint Venture 2.0" — repurposing idle JV factory floor for its own-brand products.
+> SAIC is the most exposed — we just saw its plants running at a fraction of capacity — but to be fair, its own brand is genuinely growing: NEV sales up thirty-three percent year over year, with zero subsidies behind that growth. SAIC has also launched a new brand with Huawei, SHANGJIE, part of what it calls "Joint Venture 2.0" — repurposing idle JV factory floor for its own-brand products.
 >
 > So its future is a race: can the own-brand margin scale up faster than the joint-venture income keeps eroding — at SAIC's slowest possible pace, not its fastest.
 
@@ -198,13 +198,13 @@
 **KARTE 3 · Folie 8 — Financing (bis Handoff!)**
 - Einleitung: jede Firma finanziert sich anders — zeigt sich im Abschwung
 - SAIC capital-light-Mechanik: JV-Partner (VW/GM) investieren, SAIC kassiert ~50% Equity Income
-- Kipppunkt: SAIC-GM Absatz −56,5% → Abschreibungen >30 Mrd. RMB (2024) → Gewinn −88% → **ROE nur 0,58%** (steht auf der Folie!)
+- Kipppunkt (exakte Folien-Zahlen!): SAIC-GM Absatz **−56,5%** → Abschreibungen → Gewinn **−88%** → **ROE nur 0,58%**
 - "capital trap": Verpflichtungen bleiben, Upside ist weg
 - ⚠️ STOPP nach "...had become a capital trap." → Batu (BYD) und Chiara (Geely) folgen, Chiara übernimmt Fazit-Box
 
 **KARTE 4 · Folie 10 — Capability (bis Handoff!)**
 - Einleitung: wie eine Firma lernt, bestimmt was sie später kann
-- SAIC: Pflicht-Techtransfer als "Klassenzimmer" → Qualität +8,3% (Studienbeleg)
+- SAIC: Pflicht-Techtransfer als "Klassenzimmer" → Qualität **+8,3%** (exakte Zahl, nicht "ca. 8%"; Bai & Howell)
 - ABER: JV-Rente nimmt Erfindungsdruck weg → >150 Mrd. RMB kumuliert investiert, trotzdem **kein eigenes EV-Plattform** (exakter Folien-Wortlaut, nicht "Batterie-Lieferkette"!)
 - Kapital ja, Plattform nein
 - ⚠️ STOPP nach "...but not the platform." → Batu (BYD) und Chiara (Geely) folgen, Chiara übernimmt Fazit-Box
@@ -218,8 +218,8 @@
 
 **KARTE 6 · Folie 12 — Viability (bis Handoff!)**
 - Einleitung: EV-Shift testet jede frühere Entscheidung
-- SAIC: am exponiertesten (Auslastung), ABER eigene Marke NEV +~33% ohne Subventionen
-- Huawei-Kooperation: neue Marke SHANGJIE, erstes Modell 2025 · Konzept "Joint Venture 2.0" (freie JV-Kapazität für Eigenmarken)
+- SAIC: am exponiertesten (Auslastung), ABER eigene Marke NEV **+33%** (exakte Zahl!), **zero subsidies** (nicht "keine direkten")
+- Huawei-Kooperation: neue Marke SHANGJIE, erstes Modell 2025 · Konzept "Joint Venture 2.0" (freie JV-Kapazität für Eigenmarken) — ⚠️ *steht NICHT auf der Folie, ist Zusatzwissen aus dem Wiki (AR2025), inhaltlich korrekt aber optional*
 - Frage: Eigenmarken-Marge schneller als JV-Erosion? Tempo bleibt langsam wegen Governance-Kette
 - ⚠️ STOPP nach "...not its fastest." → Batu (BYD) und Chiara (Geely) folgen, Chiara übernimmt Fazit-Box
 
@@ -280,13 +280,13 @@
 **CARD 3 · Slide 8 — Financing (up to handoff!)**
 - Opener: each firm funds growth differently — shows up in a downturn
 - SAIC capital-light mechanics: JV partners (VW/GM) invest, SAIC collects ~50% equity income
-- Tipping point: SAIC-GM sales −56.5% → write-downs >RMB 30bn (2024) → profit −88% → **ROE just 0.58%** (it's on the slide!)
+- Tipping point (exact slide numbers!): SAIC-GM sales **−56.5%** → impairments → profit **−88%** → **ROE just 0.58%**
 - "Capital trap": obligations stay, upside is gone
 - ⚠️ STOP after "...had become a capital trap." → Batu (BYD) and Chiara (Geely) continue, Chiara takes the takeaway line
 
 **CARD 4 · Slide 10 — Capability (up to handoff!)**
 - Opener: how a firm learns shapes what it can build later
-- SAIC: mandatory tech transfer as "classroom" → quality +8% (study evidence)
+- SAIC: mandatory tech transfer as "classroom" → quality **+8.3%** (exact figure, not "roughly 8%"; Bai & Howell)
 - BUT: steady JV profit removes pressure to invent → >RMB 150bn cumulative investment, still **no EV platform of its own** (exact slide wording — not "battery supply chain"!)
 - Capital yes, platform no
 - ⚠️ STOP after "...but not the platform." → Batu (BYD) and Chiara (Geely) continue, Chiara takes the takeaway line
@@ -300,8 +300,8 @@
 
 **CARD 6 · Slide 12 — Viability (up to handoff!)**
 - Opener: the EV shift tests every earlier choice
-- SAIC: most exposed (utilization), BUT own-brand NEV +~33%, no subsidies
-- Huawei tie-up: new brand SHANGJIE, first model 2025 · "Joint Venture 2.0" concept (idle JV capacity → own brands)
+- SAIC: most exposed (utilization), BUT own-brand NEV **+33%** (exact figure!), **zero subsidies** (not "no direct")
+- Huawei tie-up: new brand SHANGJIE, first model 2025 · "Joint Venture 2.0" concept (idle JV capacity → own brands) — ⚠️ *NOT on the slide, extra wiki background (AR2025), accurate but optional*
 - Question: own-brand margin outrunning JV erosion? Pace stays slow — governance chain
 - ⚠️ STOP after "...not its fastest." → Batu (BYD) and Chiara (Geely) continue, Chiara takes the takeaway line
 
