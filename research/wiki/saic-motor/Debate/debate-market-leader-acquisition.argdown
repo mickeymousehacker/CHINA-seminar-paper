@@ -1,0 +1,72 @@
+===
+title: Market Leader Acquisition — Opposition
+author: Julia's Group (CON side)
+date: 2026-06-30
+color:
+  colorScheme: colorbrewer-set3
+  tagColors:
+    con: "#E53935"
+    pro: "#43A047"
+    rebuttal: "#1E88E5"
+dot:
+  graphVizSettings:
+    rankdir: BT
+    size: "24,18"
+map:
+  statementLabelMode: title
+  argumentLabelMode: title
+===
+
+# Zentrale Frage
+
+[Akquisition annehmen?]: Ein durchschnittliches Unternehmen im deutschen Kfz-Sektor in moderatem finanziellem Stress soll das Übernahmeangebot des Marktführers annehmen.
+
+## Opposition (CON)
+
+[Akquisition ablehnen]: Das Unternehmen soll das Übernahmeangebot NICHT annehmen.
+  +> [Akquisition annehmen?]
+
+<O1 – Wertvernichtung durch schlechtes Timing>: Empirisch erzielen Käufer bei Distressed-M&A-Transaktionen Abschläge von 20–40 % auf den fairen Wert (Andrade et al. 2001). Moderater Stress ist vorübergehend — nach Restrukturierung ist derselbe Wert höher. Die Wertsteigerung nach der Erholung fließt dem Acquirer zu, nicht den bisherigen Eigentümern. Einmal verkauft ist dieser Upside dauerhaft verloren. #con
+  +> [Akquisition ablehnen]
+
+<O2 – Alternativen existieren und sind erprobt>: Moderater finanzieller Stress schließt Alternativen nicht aus — er öffnet sie. Kurzarbeit als strukturelle Kostenbremse, ein Minderheitsinvestor (PE oder strategischer Partner) oder eine technologische Allianz ohne Kontrollabgabe sind im deutschen Kfz-Sektor gelebte Praxis. Die Übernahme ist eine Wahl, keine Notwendigkeit. #con
+  +> [Akquisition ablehnen]
+
+<O3 – Marktführer hat Interesse an Elimination, nicht Integration>: Ein Marktführer, der einen direkten Wettbewerber erwirbt, hat strukturell den Anreiz, Kapazitäten zu konsolidieren, Marken zu schwächen und Standorte zu schließen — nicht zu entwickeln. Hinzu kommt: Betriebsrat/IG Metall-Widerstand erzeugt hohe Integrationskosten, und das Bundeskartellamt prüft bei Marktführer-Akquisitionen schärfer. Die versprochenen Synergien werden durch diese Reibungskosten regelmäßig aufgezehrt. #con
+  +> [Akquisition ablehnen]
+
+## Proposition (PRO) — erwartete Gegenargumente
+
+[PRO-These]: Das Unternehmen soll die Übernahme annehmen.
+  -> [Akquisition ablehnen]
+
+<P1 – Ressourcen und Technologie>: Der Marktführer bringt Kapital, Technologie und Skaleneffekte, die das Unternehmen allein nicht erreichen kann. #pro
+  +> [PRO-These]
+
+<P2 – Insolvenzrisiko>: Ohne externe Unterstützung droht Insolvenz — dann verlieren alle: Eigentümer, Beschäftigte, Gläubiger. #pro
+  +> [PRO-These]
+
+<P3 – Marktkonsolidierung unvermeidlich>: Der deutsche Kfz-Sektor konsolidiert sich strukturell. Wer jetzt nicht mitmacht, wird später zu schlechteren Konditionen übernommen. #pro
+  +> [PRO-These]
+
+## Julias Argument — Der Umkehrschluss
+
+<J1 – Predatory Distress Timing>: Marktführer bieten gezielt im Stressfenster, weil sie den fairen Wert kennen und wissen, dass der Marktpreis ihn nicht widerspiegelt. Das Angebot selbst beweist, dass der Wert höher ist als der Preis. (Shleifer & Vishny 1992) #con
+  +> [Akquisition ablehnen]
+
+<J2 – Opel und PSA 2017 als empirischer Beweis>: GM verkaufte Opel in moderatem Stress für 1,3 Mrd. € an PSA. PSA machte Opel binnen zwei Jahren profitabel — mit denselben Werken, denselben Ingenieuren, derselben Marke. Den gesamten Upside kassierte PSA, nicht GM. Das ist die Motion im Realfall. #con
+  +> [Akquisition ablehnen]
+
+<R-J – Kapital ist käuflich, Kontrolle nicht rückholbar>: KfW-Krisenfinanzierung (u.a. ZF Friedrichshafen 2020) zeigt: Kapital ist ohne Eigentumsabgabe erreichbar. P1 verwechselt den Bedarf nach Ressourcen mit der Notwendigkeit einer Übernahme. Wer Kapital braucht, muss nicht verkaufen. #rebuttal
+  -> <P1 – Ressourcen und Technologie>
+
+## Rebuttals — Gegenangriffe der Opposition
+
+<R1 – P2 ist ein Strohmann>: Das Szenario selbst definiert den Zustand als "moderate financial distress". Drohende Zahlungsunfähigkeit ist im Sachverhalt nicht gegeben. P2 ersetzt das tatsächliche Szenario durch ein Extremszenario — das ist ein Strohmann-Argument. Wer "moderaten Stress" mit "Insolvenz" gleichsetzt, verändert die Debattenfrage, antwortet aber nicht auf sie. #rebuttal
+  -> <P2 – Insolvenzrisiko>
+
+<R2 – Kapital ist käuflich, Kontrolle nicht rückholbar>: Kapital und Technologie sind auf dem Markt verfügbar — über PE-Minderheitsbeteiligungen, Wandelanleihen oder Technologielizenzverträge — ohne Eigentum abzutreten. Der entscheidende Unterschied: Fremdkapital wird zurückgezahlt, Eigentumsübertragung ist permanent. P1 verwechselt den Bedarf nach Ressourcen mit der Notwendigkeit einer Übernahme. #rebuttal
+  -> <P1 – Ressourcen und Technologie>
+
+<R3 – Konsolidierung belohnt Stärke, nicht Schwäche>: P3 sagt, Konsolidierung komme so oder so — aber verschweigt, dass Akquisitionspreise stark von der Verhandlungsposition abhängen. Gesunde Unternehmen erzielen Kontrollprämien von 25–40 % (Mergerstat); unter Druck verkaufte Unternehmen deutlich weniger. Wer jetzt verkauft, nimmt freiwillig den schlechtesten Zeitpunkt der unvermeidlichen Konsolidierung — und das ist eine strategische Entscheidung, keine Sachzwanglogik. #rebuttal
+  -> <P3 – Marktkonsolidierung unvermeidlich>
