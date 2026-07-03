@@ -2,7 +2,7 @@
 
 **Quelle:** `research/presentation/China-Strategies-Presentation-FINAL.pptx` — Sprecherzuordnung laut Notizen.
 **Deine Folien:** 6 (Einleitung + SAIC), 7 (komplett), 8 (Einleitung + SAIC), 10 (Einleitung + SAIC), 11 (komplett), 12 (Einleitung + SAIC), 13, 14, 15, 16 (komplett)
-**Geschätzte Redezeit:** ~1.725 Wörter ≈ **~13 Minuten** (12,3 min @140 wpm / 13,3 min @130 wpm)
+**Geschätzte Redezeit:** ~1.779 Wörter ≈ **~13 Minuten** (12,7 min @140 wpm / 13,7 min @130 wpm)
 **Timing-Logik:** 20 Folien × 2 Min = 40 Min Gesamt ÷ 3 Personen ≈ 13,3 Min/Person. Auf den geteilten Folien (6, 8, 10, 12) ist dein SAIC-Teil bewusst auf ~100–110 Wörter (~0,8 Min) gekürzt, damit Batu (BYD) und Chiara (Geely + Fazit-Box) im selben 2-Minuten-Slot noch Platz haben. Deine Solo-Folien (7, 11, 13–16) sind dafür näher an den vollen 2 Minuten.
 **Sprache:** Englisch (wie die Präsentation)
 
@@ -35,12 +35,9 @@
 
 > Governance is really two questions: who holds control, and what they want.
 >
-> Start with SAIC. Control runs through two layers: Shanghai's state asset commission, SASAC, sits above SAIC Group, which holds about sixty-four percent of the listed company. So "state-owned" means a chain of command, not just a big shareholder — SAIC's own 2025 annual report writes the Party's leadership into the charter, under what it calls the "two consistencies" principle.
->
-> What does that cost in practice? Speed. Take SAIC-GM: sales collapsed, but SAIC could not restructure the venture unilaterally — any major move needs sign-off up that chain. A private board could act in weeks. Here it took years.
+> Start with SAIC. The state owns roughly seventy-three percent — that is not one single block, it is SASAC's own stake plus several other Chinese state-linked institutional holders, all pulling in the same direction — and the Party mandate is written directly into the charter, so SAIC does not just optimise for shareholder value, it optimises beyond it. That has a real cost: politically connected firms like this one lag about eighteen percent in performance after listing, according to Fan and colleagues. And it shows up operationally too — SAIC cannot exit an unprofitable joint venture without state sign-off. Put those together and you get slow capital reallocation, and strategic inflexibility exactly when speed matters most.
 
-**→ [HANDOFF]** Batu übernimmt den BYD-Teil, Chiara den Geely-Teil. Chiara beendet die Folie:
-*"So control runs on a scale, from political at SAIC to fully commercial at BYD. Next, the EU put a real price on this difference."*
+**→ [HANDOFF]** Batu übernimmt den BYD-Teil, Chiara den Geely-Teil. **Achtung:** Anders als Folie 8/10/12 gibt es hier **keine gemeinsame Fazit-Box** — jede Spalte hat nur ihre eigene Ein-Zeiler-Pointe (SAIC: "Slow capital reallocation → strategic inflexibility", die du gerade mit gesagt hast). Chiara schließt die Folie einfach mit Geelys Pointe ("Loss-making subsidiaries = contingent liability") und leitet dann zu Folie 7 über — kein wörtliches Zitat nötig, das ist ihre eigene Überleitung.
 
 ---
 
@@ -51,9 +48,9 @@
 >
 > The EU spent months investigating state support in the Chinese EV sector and then set individual countervailing duties, firm by firm: 35.3 percent for SAIC, 17 for BYD, 18.8 for Geely, effective from the end of October 2024. That is not a blanket China tariff — it is priced per company, based on how much state subsidy the Commission could document. And the gap is large: SAIC pays more than double BYD's rate.
 >
-> That gap is not about car quality — it is about state dependence. For SAIC the Commission even used what is called "facts available," a formal finding that applies when a company does not fully cooperate — in this case, because the group held back some financing data. Interesting detail: the provisional rate before the final ruling was even higher, 36.3 percent. The correction moved by just one point — SAIC still sits at the top of the scale by a wide margin over its domestic rivals.
+> That gap is not about car quality — it is about state dependence. For SAIC the Commission even used what is called "facts available," a formal finding that applies when a company does not fully cooperate — in this case, because the group held back some financing data. There is a pattern behind that number, too: adaptability rises the more control concentrates — a joint-venture board that needs both partners' consent moves slower than state oversight, which moves slower still than a single founder deciding alone.
 >
-> So a neutral regulator, with its own investigators and its own incentive to get this right, reached the same conclusion we reach from the inside: control structure drives competitive position. And for a firm like SAIC that depends on exports such as MG to offset a shrinking home market, that tariff is not a one-off fine — it is a direct, lasting cost of the governance model it chose, one that compounds every year exports continue.
+> So a neutral regulator, with its own investigators and its own incentive to get this right, reached the same conclusion we reach from the inside: governance is a first-order determinant of competitive position, not an administrative footnote. And for a firm like SAIC that depends on exports such as MG to offset a shrinking home market, that tariff is a direct, lasting cost of the governance model it chose.
 >
 > **Now we follow the money.**
 
@@ -64,7 +61,7 @@
 
 > Each firm funds its growth differently, and the difference shows up in a downturn.
 >
-> SAIC was capital-light: its joint-venture partners — Volkswagen, General Motors — co-invested in the factories, and SAIC collected roughly half the equity income without carrying the full risk. That felt safe — until SAIC-GM sales fell by more than half, triggering write-downs of over thirty billion renminbi in 2024. The same fifty-fifty structure that once shared the upside now shared the downside, and SAIC was still bound to absorb its share, with no unilateral control to fix the business. Net profit fell eighty-eight percent; the capital-light model had become a capital trap.
+> SAIC was capital-light: its joint-venture partners — Volkswagen, General Motors — co-invested in the factories, and SAIC collected roughly half the equity income without carrying the full risk. That felt safe — until SAIC-GM sales fell by more than half, triggering write-downs of over thirty billion renminbi in 2024. The same fifty-fifty structure that once shared the upside now shared the downside, and SAIC was still bound to absorb its share, with no unilateral control to fix the business. Net profit fell eighty-eight percent, and return on equity dropped to just zero point five eight percent — the capital-light model had become a capital trap.
 
 **→ [HANDOFF]** Batu übernimmt den BYD-Teil, Chiara den Geely-Teil. Chiara beendet die Folie mit der Fazit-Box:
 *"Risk-sharing captures upside in growth but exposes the firm in a downturn; self-financing trades growth speed for resilience; leverage trades balance-sheet safety for strategic speed."*
@@ -76,7 +73,7 @@
 
 > How a firm learns shapes what it can build later.
 >
-> SAIC's route was mandated technology transfer: the price of market access was a joint venture meant to work as a classroom. It did work, to a point — studies find roughly an eight percent quality gain. But steady JV profit also removed the pressure to invent: why fund risky in-house R&D when the joint venture already pays the dividend? SAIC has poured over one hundred fifty billion renminbi cumulatively into EV investment, and still holds no proprietary battery supply chain, unlike BYD. It had the capital, but not the platform.
+> SAIC's route was mandated technology transfer: the price of market access was a joint venture meant to work as a classroom. It did work, to a point — studies find roughly an eight percent quality gain. But steady JV profit also removed the pressure to invent: why fund risky in-house R&D when the joint venture already pays the dividend? SAIC has poured over one hundred fifty billion renminbi cumulatively into EV investment, and still had no EV platform of its own when the cycle turned. It had the capital, but not the platform.
 
 **→ [HANDOFF]** Batu übernimmt den BYD-Teil, Chiara den Geely-Teil. Chiara beendet die Folie mit der Fazit-Box:
 *"The mode of learning sets durability: handed-over technology fades when the cycle turns; built or co-developed knowledge lasts."*
@@ -149,7 +146,7 @@
 ### Folie 15 — Conclusion
 *Komplett du.*
 
-> Here is the core point. Across all four lenses — governance, financing, capability, and viability — structure, more than starting technology, decided the outcome.
+> Here is the core point. Across all four lenses — governance, financing, capability, and viability — structure, more than starting technology, decided the outcome. Think of 2020 to 2025 as a natural experiment: same industry, same technology shock, three different governance structures — and the outcomes split exactly along those structural lines.
 >
 > The joint-venture model did not lose to a better battery chemistry or a smarter engineer. It lost to a better way of allocating control and capital: BYD's founder control plus self-financing proved the most adaptive combination once the EV transition hit all three firms at once. SAIC's state model, by contrast, optimises for goals beyond shareholder value — employment, policy, political stability — and that shows up in our numbers not as a one-off loss, but as a permanent structural discount: lower margins, a higher EU tariff, and idle factories that a purely commercial owner would have restructured years ago. Geely sits in between, showing that the discount is not simply "state versus private" — it tracks how directly commercial the controlling principal actually is.
 >
@@ -182,29 +179,33 @@
 
 **KARTE 1 · Folie 6 — Governance (bis Handoff!)**
 - Einleitung: Governance = 2 Fragen: Kontrolle? Ziel?
-- SAIC: SASAC → SAIC Group (~64%) → SAIC Motor · "two consistencies" im Statut · 2025: Aufsichtsrat abgeschafft → Audit Committee
-- Beispiel Speed-Kosten: SAIC-GM — keine einseitige Restrukturierung möglich, Jahre statt Wochen
-- ⚠️ STOPP nach "...it took years." → Batu (BYD) und Chiara (Geely) folgen, Chiara beendet die Folie
+- SAIC: Staat ~73% (SASAC + weitere chinesische staatsnahe Blockholder zusammen, kein Einzelblock!) · Partei-Mandat im Statut → optimiert über Shareholder Value hinaus
+- Connected firms lag ~18% post-IPO (Fan et al., 2007)
+- Kann unprofitable JV nicht ohne Staats-Sign-off verlassen
+- Pointe (steht so auf der Folie!): "Slow capital reallocation → strategic inflexibility"
+- ⚠️ STOPP nach "...matters most." → Batu (BYD) und Chiara (Geely) folgen. Kein gemeinsamer Fazit-Kasten auf dieser Folie — Chiara schließt mit Geelys eigener Pointe
 
 **KARTE 2 · Folie 7 — EU-Zoll**
 - Externer Beweis, unabhängiger Regulator: EU-Zölle 35,3% SAIC / 17% BYD / 18,8% Geely, ab Ende Okt. 2024
 - SAIC zahlt >2× BYD-Satz
 - Nicht Qualität → Staatsabhängigkeit
 - SAIC: "facts available" (Daten zurückgehalten!)
+- 2. Folien-Bullet (nicht vergessen!): Anpassungsfähigkeit steigt mit Kontrollkonzentration — JV-Board (beide Partner) → Staatsaufsicht → Founder-Control
+- Merksatz (Fazit-Box): "Governance is a first-order determinant of competitive position, not an administrative footnote."
 - Bezug Export: MG-Exporte direkt betroffen
 - Ende: *"Now we follow the money."*
 
 **KARTE 3 · Folie 8 — Financing (bis Handoff!)**
 - Einleitung: jede Firma finanziert sich anders — zeigt sich im Abschwung
-- SAIC capital-light-Mechanik: JV-Partner (VW/GM) investieren, SAIC kassiert ~50% Equity Income, fast 40 Jahre lang gut gegangen
-- Kipppunkt: SAIC-GM Absatz −56,5% → Abschreibungen >30 Mrd. RMB (2024) → Gewinn −88% → ROE nur 0,58%
+- SAIC capital-light-Mechanik: JV-Partner (VW/GM) investieren, SAIC kassiert ~50% Equity Income
+- Kipppunkt: SAIC-GM Absatz −56,5% → Abschreibungen >30 Mrd. RMB (2024) → Gewinn −88% → **ROE nur 0,58%** (steht auf der Folie!)
 - "capital trap": Verpflichtungen bleiben, Upside ist weg
 - ⚠️ STOPP nach "...had become a capital trap." → Batu (BYD) und Chiara (Geely) folgen, Chiara übernimmt Fazit-Box
 
 **KARTE 4 · Folie 10 — Capability (bis Handoff!)**
 - Einleitung: wie eine Firma lernt, bestimmt was sie später kann
 - SAIC: Pflicht-Techtransfer als "Klassenzimmer" → Qualität +8,3% (Studienbeleg)
-- ABER: JV-Rente nimmt Erfindungsdruck weg → >150 Mrd. RMB kumuliert investiert, trotzdem keine eigene Batterie-Lieferkette (anders als BYD)
+- ABER: JV-Rente nimmt Erfindungsdruck weg → >150 Mrd. RMB kumuliert investiert, trotzdem **kein eigenes EV-Plattform** (exakter Folien-Wortlaut, nicht "Batterie-Lieferkette"!)
 - Kapital ja, Plattform nein
 - ⚠️ STOPP nach "...but not the platform." → Batu (BYD) und Chiara (Geely) folgen, Chiara übernimmt Fazit-Box
 
@@ -238,6 +239,7 @@
 
 **KARTE 9 · Folie 15 — Conclusion**
 - Kernaussage: Struktur > Technologie, über alle 4 Dimensionen
+- 2020–2025 als natürliches Experiment (Folien-Bullet!): gleiche Branche, gleicher Schock, 3 Strukturen, 3 Ergebnisse
 - JV-Modell verlor nicht an bessere Batterie, sondern an bessere Kontroll-/Kapitalallokation
 - SAIC-Struktur = dauerhafter struktureller Abschlag (Marge, Zoll, Leerstand), nicht einmaliger Verlust
 - Merksatz (Zitat aus der Box): *"When technology moves faster than firms can decide, governance is no longer a footnote to strategy, it is strategy."*
@@ -259,30 +261,33 @@
 
 **CARD 1 · Slide 6 — Governance (up to handoff!)**
 - Opener: governance = 2 questions: who controls? what's the goal?
-- SAIC: SASAC → SAIC Group (~64%) → SAIC Motor · "two consistencies" in the charter · 2025: supervisory board abolished → audit committee
-- Speed-cost example: SAIC-GM — no unilateral restructuring, years not weeks
-- ⚠️ STOP after "...it took years." → Batu (BYD) and Chiara (Geely) continue, Chiara closes the slide
+- SAIC: state ~73% (SASAC + several other Chinese state-linked blockholders combined, not one single stake!) · Party mandate in the charter → optimises beyond shareholder value
+- Connected firms lag ~18% post-IPO (Fan et al., 2007)
+- Cannot exit an unprofitable JV without state sign-off
+- Punchline (it's literally on the slide): "Slow capital reallocation → strategic inflexibility"
+- ⚠️ STOP after "...matters most." → Batu (BYD) and Chiara (Geely) continue. No shared takeaway box on this slide — Chiara closes with Geely's own one-liner
 
 **CARD 2 · Slide 7 — EU tariff**
 - Outside proof, independent regulator: EU duties 35.3% SAIC / 17% BYD / 18.8% Geely, effective late Oct 2024
 - SAIC pays >2× BYD's rate
 - Not quality → state dependence
 - SAIC: "facts available" (withheld data!)
-- Provisional rate was 36.3% → corrected by just 1 point
+- 2nd slide bullet (don't skip!): adaptability rises with control concentration — JV board (both partners) → state oversight → founder control
+- Takeaway box: "Governance is a first-order determinant of competitive position, not an administrative footnote."
 - Export link: MG exports directly hit
 - End: *"Now we follow the money."*
 
 **CARD 3 · Slide 8 — Financing (up to handoff!)**
 - Opener: each firm funds growth differently — shows up in a downturn
-- SAIC capital-light mechanics: JV partners (VW/GM) invest, SAIC collects ~50% equity income, worked for ~40 years
-- Tipping point: SAIC-GM sales −56.5% → write-downs >RMB 30bn (2024) → profit −88%
+- SAIC capital-light mechanics: JV partners (VW/GM) invest, SAIC collects ~50% equity income
+- Tipping point: SAIC-GM sales −56.5% → write-downs >RMB 30bn (2024) → profit −88% → **ROE just 0.58%** (it's on the slide!)
 - "Capital trap": obligations stay, upside is gone
 - ⚠️ STOP after "...had become a capital trap." → Batu (BYD) and Chiara (Geely) continue, Chiara takes the takeaway line
 
 **CARD 4 · Slide 10 — Capability (up to handoff!)**
 - Opener: how a firm learns shapes what it can build later
 - SAIC: mandatory tech transfer as "classroom" → quality +8% (study evidence)
-- BUT: steady JV profit removes pressure to invent → >RMB 150bn cumulative investment, still no proprietary battery supply chain (unlike BYD)
+- BUT: steady JV profit removes pressure to invent → >RMB 150bn cumulative investment, still **no EV platform of its own** (exact slide wording — not "battery supply chain"!)
 - Capital yes, platform no
 - ⚠️ STOP after "...but not the platform." → Batu (BYD) and Chiara (Geely) continue, Chiara takes the takeaway line
 
@@ -316,6 +321,7 @@
 
 **CARD 9 · Slide 15 — Conclusion**
 - Core point: structure > technology, across all 4 dimensions
+- 2020–2025 as natural experiment (it's a slide bullet!): same industry, same shock, 3 structures, 3 outcomes
 - The JV model didn't lose to a better battery — it lost to better control/capital allocation
 - SAIC's structure = permanent structural discount (margin, tariff, idle capacity), not a one-off loss
 - Geely in between: not simply "state vs. private" — tracks how commercial the controlling principal is
