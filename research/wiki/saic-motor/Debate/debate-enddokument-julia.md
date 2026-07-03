@@ -10,14 +10,21 @@
 
 **Kernthese:** Das Angebot selbst ist der Beweis, dass man ablehnen sollte.
 
-Ein Marktführer kauft kein Unternehmen, das wirklich am Ende ist — das lässt er einfach untergehen, das
-kostet ihn nichts. Er bietet genau dann, wenn der Preis niedrig ist, aber der wahre Wert hoch. Er will
-billig kaufen und die Erholung später für sich behalten. Genau das haben Shleifer & Vishny (1992) schon
-beschrieben.
+Das nennt man einen **Fire-Sale-Discount**: In einer Notlage wird der Verkaufspreis gedrückt — nicht weil
+das Unternehmen weniger wert ist, sondern weil der Verkäufer keine Zeit und keine Verhandlungsmacht hat. Man
+verkauft genau am Tiefpunkt, aus einer schwachen Position heraus. Der wichtige Punkt dabei: Der Wert steckt
+im Unternehmen selbst — nicht im Käufer. Genau das haben Shleifer & Vishny (1992) beschrieben, und Andrade
+et al. (2001) zeigen empirisch: Käufer erzielen bei Notverkäufen im Schnitt 20–40 % Abschlag auf den fairen
+Wert.
 
 **Beispiel — Opel / PSA (2017):** GM verkaufte Opel für 1,3 Mrd. € an PSA, weil Opel in Schwierigkeiten
-war. Zwei Jahre später machte PSA mit denselben Werken und denselben Leuten wieder Gewinn. Der Wert war
-also die ganze Zeit da — er war nur gerade verdeckt. Aber den Gewinn hat PSA eingesteckt, nicht GM.
+war. Zwei Jahre später machte PSA mit denselben Werken und denselben Leuten wieder Gewinn. PSA hat dabei
+nichts Neues erfunden — sie haben nur den Turnaround geschafft, den Opel auch selbst hätte schaffen können.
+Genau das nennt man den **Standalone-Wert** eines Unternehmens: der Wert, den es aus eigener Kraft heben
+kann, wenn man es nur lässt. Der Wert war also die ganze Zeit da — er war nur gerade verdeckt. Aber den
+Gewinn hat PSA eingesteckt, nicht GM. Die Frage ist also nicht "scheitert die Übernahme" oder "ist der
+Preis zu niedrig", sondern: Warum verkaufen, wenn man das Sanierungspotenzial nachweislich selbst
+realisieren könnte?
 
 > **Kernsatz (English, für die Delivery):** *"If the market leader believes in your future value more than
 > you do, that is not a reason to sell — it is a reason to hold."*
@@ -99,8 +106,9 @@ gar nicht eintritt. Das wäre so, als würde man sein Haus verkaufen, nur weil e
 
 ## Kurzfassung für die Gruppenrunde (30 Sekunden)
 
-Mein Argument: Das Angebot des Marktführers beweist selbst, dass der Wert höher ist als der Preis (Opel/PSA
-2017). Ich rechne mit zwei Gegenangriffen. Erstens: "PSA hat den Wert geschaffen, nicht Opel selbst" —
+Mein Argument: Das Angebot des Marktführers beweist selbst, dass der Wert höher ist als der Preis — das
+Unternehmen hat einen **Standalone-Wert**, den es aus eigener Kraft heben kann (Opel/PSA 2017). Ich rechne
+mit zwei Gegenangriffen. Erstens: "PSA hat den Wert geschaffen, nicht Opel selbst" —
 darauf sage ich, man kann dieselben Vorteile auch ohne Verkauf bekommen, und "moderater Stress" ist kein
 Managementversagen. Zweitens, falls das nicht kommt: "Warten ist riskant" — darauf sage ich, gegen Risiken
 kann man sich absichern, ohne gleich die ganze Firma zu verkaufen. Beide Konter laufen auf denselben Punkt
@@ -110,6 +118,7 @@ hinaus: **Ablehnen kann man später noch rückgängig machen, Verkaufen nicht.**
 
 ## Quellen
 
-- Shleifer, A. & Vishny, R. W. (1992). *Liquidation Values and Debt Capacity: A Market Equilibrium Approach.* Journal of Finance, 47(4).
-- Opel / PSA-Übernahme 2017 (1,3 Mrd. €); Turnaround binnen zwei Jahren — Beispiel-Fall
-- KfW-Krisenfinanzierung, u. a. ZF Friedrichshafen 2020 — Beispiel für Alternativen zum Verkauf
+- Shleifer, A. & Vishny, R. W. (1992). *Liquidation Values and Debt Capacity: A Market Equilibrium Approach.* Journal of Finance, 47(4). — Fire-Sale-Discount
+- Andrade, G., Mitchell, M. & Stafford, E. (2001). *New Evidence and Perspectives on Mergers.* Journal of Economic Perspectives, 15(2). — 20–40 % Distress-Abschlag
+- Opel / PSA-Übernahme 2017 (1,3 Mrd. €); Turnaround binnen zwei Jahren — Beispiel-Fall für Fire-Sale-Discount & Standalone-Wert
+- Alternativen zum Verkauf (Minderheitsinvestor, Technologiepartnerschaft) — vertieft im Argument des Kollegen (DaimlerChrysler-Case)

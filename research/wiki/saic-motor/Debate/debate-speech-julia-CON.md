@@ -14,24 +14,24 @@ I want to show you the opposite.
 Think about it for a moment.
 Why does the market leader make this offer right now?
 Not because they want to help.
-Because they see value — real value — that the current price does not reflect.
+Because distress does something predictable to price: it pushes it below fair value.
 
-A market leader does not buy a company that is truly dying.
-They let it die. That costs them nothing.
-They only buy when they know the price is low and the value is high.
+Academics call this a fire-sale discount.
+Shleifer and Vishny documented it already in 1992.
+
+Here is the mechanism. A company under pressure has no time and no leverage.
+It has to sell now, at the bottom — not when the market is calm.
+That is a procyclical sale: selling exactly at the low point,
+exactly when your bargaining position is weakest.
+
+But the low point is in the price. Not in the company.
+The value never left the business.
+It was in the object all along — not in whoever happens to be buying it.
 
 So the offer arriving at this exact moment — during moderate financial distress —
 is not a rescue.
 It is a calculated move.
 Buy low. Capture the recovery. Keep all the upside.
-
-Academics call this predatory distress acquisition.
-Shleifer and Vishny documented it already in 1992.
-The strategy is simple: wait for the target to weaken,
-then offer just enough that the board feels they have no choice.
-
-The proposition is asking you to say yes to that strategy.
-We are asking you to recognize it for what it is.
 
 ---
 
@@ -56,6 +56,15 @@ PSA turned it around — with the same factories, the same engineers, the same b
 The value was always there.
 It was just temporarily suppressed.
 
+Notice what that means.
+PSA did not invent that turnaround.
+They did not bring some secret only they possessed.
+They simply did what Opel could have done for itself.
+
+That is the standalone value of this company.
+The upside was always ours to capture.
+Selling did not create that value — it just handed it to someone else.
+
 And who kept that value?
 Not GM. Not the original shareholders.
 PSA did. Later Stellantis did.
@@ -71,13 +80,8 @@ You need the technology. You cannot survive alone.
 I agree — you need capital.
 But you do not need to sell the company to get it.
 
-You can bring in a minority investor.
-You can restructure your debt.
-You can form a technology partnership without giving up ownership.
-
-These are not theoretical options.
-ZF Friedrichshafen used KfW financing in 2020 during exactly this kind of pressure.
-They are still independent today.
+There are other ways to get resources without giving up control —
+my colleague will walk you through exactly what those look like.
 
 There is a difference between needing resources and needing to surrender.
 The proposition is blurring that line.
@@ -92,7 +96,7 @@ and they decided: this is worth more than the asking price.
 
 If they believe in your future value more than you do,
 that is not a reason to sell.
-That is a reason to hold.
+That is a reason to hold — and to bet on your own standalone value.
 
 Moderate financial distress is not the end.
 It is a low point — and low points end.
