@@ -1,0 +1,28 @@
+[Topic]: Accept the market leader's acquisition offer?
+
+[Financial Stabilization]: Fresh capital and a stronger group credit rating close the financing gap, securing survival from strength.
+  +> [Topic]
+
+[Capital Injection]: The deal brings immediate capital and better financing terms — relief the moment it is signed.
+  +> [Financial Stabilization]
+
+[Dismantling Risk]: The buyer may acquire the rival only to consolidate capacity, relocate the site and cut jobs.
+  -> [Financial Stabilization]
+
+[Operational Synergies]: Scale in procurement and production spreads fixed costs, lowering the cost per vehicle.
+  +> [Topic]
+
+[Procurement & Scale]: Larger purchasing volumes cut input costs and raise capacity utilisation — measurable, immediate savings.
+  +> [Operational Synergies]
+
+[Integration Costs]: Cultural friction and integration costs often eat the promised synergies.
+  -> [Operational Synergies]
+
+[Strategic Viability]: Stand-alone transformation is no longer viable; only integration secures long-run competitiveness.
+  +> [Topic]
+
+[Closing Window]: In moderate distress the firm still sets the terms; in 12–18 months the insolvency administrator negotiates instead.
+  +> [Strategic Viability]
+
+[Lost Upside]: Selling at the bottom hands the e-mobility recovery upside to the buyer.
+  -> [Strategic Viability]

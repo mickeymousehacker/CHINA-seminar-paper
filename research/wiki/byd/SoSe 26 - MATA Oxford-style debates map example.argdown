@@ -1,0 +1,28 @@
+[Topic]: Online privacy vs. national security
+
+[Privacy Default]: Private communication is a core right, so default privacy limits routine abuse.
+  +> [Topic]
+
+[Trust Rises]: Clear limits increase user trust, so lawful cooperation improves.
+  +> [Privacy Default]
+
+[Signals Drop]: Less bulk data leaves fewer signals, so early threat discovery may slow down.
+  -> [Privacy Default]
+
+[Targeted Access]: Severe threats may require focused access, so narrow monitoring can stop harm.
+  +> [Topic]
+
+[Court Limits]: Courts can restrict scope and time, so oversight keeps powers bounded.
+  +> [Targeted Access]
+
+[Scope Expands]: Emergency tools often expand over time, so temporary access can become normal.
+  -> [Targeted Access]
+
+[Balanced Rules]: Neither extreme works in practice, so layered safeguards protect both aims.
+  +> [Topic]
+
+[Logs Deter]: Independent logs expose misuse, so transparency improves accountability.
+  +> [Balanced Rules]
+
+[Slower Response]: Extra checks add process time, so fast incidents may outpace review.
+  -> [Balanced Rules]
